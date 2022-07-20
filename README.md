@@ -100,4 +100,4 @@ An excel file which combines each of the .csv files as different sheets in one f
 
 &nbsp;
 
-##### For more information about the wastewater testing programme and the methodology of metric calculations, refer to the About page on the [dashboard](https://esr-cri.shinyapps.io/OBIMobi_uat/). 
+##### For more information about the wastewater testing programme and the methodology of metric calculations, refer to the [covid insights](https://www.esr.cri.nz/covid-insights) page. 
