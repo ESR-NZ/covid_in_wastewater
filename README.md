@@ -1,10 +1,34 @@
-## New Zealand SARS-CoV-2 testing in Wastewater
+# New Zealand SARS-CoV-2 testing in Wastewater
 
 This git repo contains the datasets used to support ESR's [SARS-CoV-2 in wastewater](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results/) testing programme.
 
-Files are updated weekly.
+### **Provided by Institute of Environmental Science and Research (ESR)**
 
-It consists of the following files:
+<https://www.esr.cri.nz/>
+
+Funding for the Dashboard and Data Repository was provided by the Ministry of Health.
+
+<https://www.health.govt.nz/>
+
+### Acknowledgements
+
+ESR acknowledges the support of wastewater providers across New Zealand who provide us with samples and staff in the public health services in New Zealand who provide us with data from their regions.
+
+### Terms of Use:
+
+1.  This dataset is owned by the Institute of Environmental Science and Research Limited and licensed for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). This license means that you are free to copy, distribute and adapt the material, as long as you attribute it to the Institute of Environmental Science and Research Limited and abide by the other license terms. This license does not apply to any logos and trade marks on this website – these specific elements may not be reused without the Institute of Environmental Science and Research Limited's prior written consent.
+2.  If you wish to use the data, you must attribute it as the "COVID-19 Data Repository by the Institute of Environmental Science and Research", and the url: <https://github.com/ESR-NZ/covid_in_wastewater>
+3.  You may use our application programming interface ("API") to facilitate access to the dataset, whether through a separate website or through another type of software application.
+4.  You may not represent or imply that the Institute of Environmental Science and Research Limited has approved or endorsed the manner or purpose of your use or reproduction of the dataset.
+5.  The Institute of Environmental Science and Research Limited reserves the right at any time in its sole discretion to modify or discontinue (temporarily or permanently) this website, the dataset, and any means of accessing the dataset, with or without prior notice to you.
+
+### Disclaimer:
+
+Data is shared solely for the benefit of the Ministry of Health (MoH), Public Health Service Providers and other Third Party Beneficiaries as defined in the Contract between ESR and the MoH. ESR does not accept any legal liability or responsibility for use of information contained in this repository by any other person or organisation.
+
+## Contents:
+
+The the following files are provided:
 
 ### cases_national.csv
 
@@ -12,7 +36,7 @@ The weekly average of new COVID-19 cases reported per day.
 
 **week_end_date** = the last date of the week covered (Monday-Sunday)
 
-**case_7d_avg** = the average number of new COVID-19 cases reported per day via NCTS or Episurv, using the ReportDate where this is available and where not falling back on the first non null value from the fields OnsetDt, LabSampleDate, LabConfDt or EarliestDate
+**case_7d_avg** = the average number of new COVID-19 cases reported per day via NCTS or Episurv, using the ReportDate where this is available and where not falling back on the first non null value from the fields OnsetDt, LabSampleDate, LabConfDt or EarliestDate.
 
 ### cases_regional.csv
 
@@ -22,7 +46,7 @@ The weekly average of new COVID-19 cases reported per day by region.
 
 **Region** = This is based on a lookup table between the case's meshblock and a region
 
-**case_7d_avg** = the average number of new COVID-19 cases reported per day via NCTS or Episurv, using the ReportDate where this is available and where not falling back on the first non null value from the fields OnsetDt, LabSampleDate, LabConfDt or EarliestDate
+**case_7d_avg** = the average number of new COVID-19 cases reported per day via NCTS or Episurv, using the ReportDate where this is available and where not falling back on the first non null value from the fields OnsetDt, LabSampleDate, LabConfDt or EarliestDate.
 
 ### cases_site.csv
 
@@ -94,10 +118,10 @@ This table contains individual test results from a site for a sample taken on a 
 
 **copies_per_day_per_person** = The number of SARS-CoV-2 genome copies per person per day. Where multiple samples were taken from a site during a week, this value is averaged.
 
-## sars_cov2_wastewater_aotearoa.xslx
+### sars_cov2_wastewater_aotearoa.xslx
 
 An excel file which combines each of the .csv files as different sheets in one file.
 
-&nbsp;
+ 
 
-##### For more information about the wastewater testing programme and the methodology of metric calculations, refer to the [covid insights](https://www.esr.cri.nz/covid-insights) page. 
+For more information about the wastewater testing programme and the methodology of metric calculations, refer to our [covid insights](https://www.esr.cri.nz/covid-insights) page.
