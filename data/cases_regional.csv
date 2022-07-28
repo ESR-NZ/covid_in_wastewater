@@ -1,8 +1,4 @@
 week_end_date,Region,case_7d_avg
-2021-07-18,Auckland,3
-2021-07-25,Auckland,2
-2021-07-25,Canterbury,2
-2021-07-25,Southland,4
 2021-08-01,Auckland,2
 2021-08-01,Canterbury,2
 2021-08-01,Waikato,1
@@ -299,7 +295,7 @@ week_end_date,Region,case_7d_avg
 2022-05-22,Wellington,797
 2022-05-22,West Coast,72
 2022-05-22,NA,141
-2022-05-29,Auckland,2206
+2022-05-29,Auckland,2205
 2022-05-29,Bay of Plenty,258
 2022-05-29,Canterbury,1161
 2022-05-29,Gisborne,39
@@ -316,7 +312,7 @@ week_end_date,Region,case_7d_avg
 2022-05-29,Wellington,817
 2022-05-29,West Coast,74
 2022-05-29,NA,124
-2022-06-05,Auckland,1984
+2022-06-05,Auckland,1983
 2022-06-05,Bay of Plenty,245
 2022-06-05,Canterbury,1136
 2022-06-05,Gisborne,37
@@ -421,17 +417,34 @@ week_end_date,Region,case_7d_avg
 2022-07-17,Auckland,2972
 2022-07-17,Bay of Plenty,539
 2022-07-17,Canterbury,1546
-2022-07-17,Gisborne,71
+2022-07-17,Gisborne,72
 2022-07-17,Hawke's Bay,455
 2022-07-17,Manawatu-Whanganui,531
 2022-07-17,Marlborough,95
-2022-07-17,Nelson,104
+2022-07-17,Nelson,105
 2022-07-17,Northland,215
 2022-07-17,Otago,686
-2022-07-17,Southland,155
+2022-07-17,Southland,156
 2022-07-17,Taranaki,198
 2022-07-17,Tasman,94
 2022-07-17,Waikato,732
 2022-07-17,Wellington,1224
 2022-07-17,West Coast,54
-2022-07-17,NA,202
+2022-07-17,NA,201
+2022-07-24,Auckland,2622
+2022-07-24,Bay of Plenty,484
+2022-07-24,Canterbury,1371
+2022-07-24,Gisborne,57
+2022-07-24,Hawke's Bay,342
+2022-07-24,Manawatu-Whanganui,480
+2022-07-24,Marlborough,75
+2022-07-24,Nelson,149
+2022-07-24,Northland,205
+2022-07-24,Otago,589
+2022-07-24,Southland,144
+2022-07-24,Taranaki,214
+2022-07-24,Tasman,39
+2022-07-24,Waikato,633
+2022-07-24,Wellington,1162
+2022-07-24,West Coast,46
+2022-07-24,NA,103

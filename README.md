@@ -12,7 +12,11 @@ Funding for the Dashboard and Data Repository was provided by the Ministry of He
 
 ### Acknowledgements
 
-ESR acknowledges the support of wastewater providers across New Zealand who provide us with samples and staff in the public health services in New Zealand who provide us with data from their regions.
+This work represents the combined efforts of many individuals and organisations.  
+
+We continue to be indebted to the teams across the country who are collecting the wastewater that underpins this work.
+
+ESR acknowledges the support of councils and wastewater providers across New Zealand who provide us with samples and staff in the public health services who provide us with data from their regions.
 
 ### Terms of Use:
 
@@ -28,7 +32,7 @@ Data is shared solely for the benefit of the Ministry of Health (MoH), Public He
 
 ## Contents:
 
-The the following files are provided:
+The following files are provided:
 
 ### cases_national.csv
 
@@ -107,6 +111,8 @@ This table contains individual test results from a site for a sample taken on a 
 **Region** = The region name.
 
 **copies_per_day_per_person** = The number of SARS-CoV-2 genome copies per person per day taking in to account all sites in the region reporting within the 7 day period.
+
+**population_covered** - The total population from all sites within the region contributing to each week's data.
 
 **n_sites** = The number of sites within the region contributing to each week's data.
 

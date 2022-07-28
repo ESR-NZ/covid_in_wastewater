@@ -2,19 +2,17 @@ SampleLocation,DisplayName,SampleType,Latitude,Longitude,Population,Region,shp_l
 AU_ArmyBay,Army Bay,Autosampler,-36.599255,174.818359,42000,Auckland,Auckland - Army Bay
 AU_Beachlands,Beachlands,Grab,-36.913914,175.026276,6760,Auckland,Auckland - Beachlands
 AU_ClarksBeach,Clarks Beach,Grab,-37.142021,174.69751,2000,Auckland,Auckland - Clarks Beach
-AU_Eastern,Auckland East,Autosampler,-36.964212,174.780127,680000,Auckland,Auckland - Eastern Interceptor
 AU_Helensville,Helensville,Autosampler,-36.659721,174.442947,3800,Auckland,Auckland - Helensville
 AU_KawakawaBay,Kawakawa Bay,Grab,-36.960484,175.172714,600,Auckland,Auckland - Kawakawa Bay
 AU_Kingseat,Kingseat,Grab,-37.121754,174.794144,130,Auckland,Auckland - Kingseat
+AU_Mangere,Auckland (Combined),Autosampler,-36.965011,174.777565,1150000,Auckland,Auckland - Auckland (Combined)
 AU_Omaha,Omaha,Autosampler,-36.35371,174.747467,1000,Auckland,Auckland - Omaha
 AU_Pukekohe,Pukekohe,Grab,-37.264019,174.914917,20900,Auckland,Auckland - Pukekohe
 AU_Rosedale,North Shore,Autosampler,-36.749115,174.71579,240000,Auckland,Auckland - Rosedale
 AU_SnellsAlgies,Snells/Algies,Autosampler,-36.421993,174.717865,4000,Auckland,Auckland - Snells Algies
-AU_SouthWestern,Auckland Southwest,Autosampler,-36.967643,174.778084,120000,Auckland,Auckland - Southwestern Interceptor
 AU_Waiuku,Waiuku,Grab,-37.222649,174.728836,7900,Auckland,Auckland - Waiuku
 AU_Warkworth,Warkworth,Autosampler,-36.402466,174.673767,3500,Auckland,Auckland - Warkworth
 AU_Wellsford,Wellsford,Autosampler,-36.309563,174.541229,1720,Auckland,Auckland - Wellsford
-AU_Western,Auckland West,Autosampler,-36.953251,174.777333,315000,Auckland,Auckland - Western Interceptor
 BP_Katikati,Katikati,Autosampler,-37.557453,175.934662,5500,Bay of Plenty,Katikati - Katikati
 BP_Kawerau,Kawerau,Autosampler,-38.072414,176.713272,7000,Bay of Plenty,Kawerau - Kawerau
 BP_Maketu,Maketu,Autosampler,-37.767056,176.466736,1300,Bay of Plenty,Maketu - Maketu
