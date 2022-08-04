@@ -1,288 +1,555 @@
 week_end_date,Region,case_7d_avg
-2021-08-01,Auckland,2
-2021-08-01,Canterbury,2
-2021-08-01,Waikato,1
-2021-08-01,NA,4
-2021-08-08,NA,4
-2021-08-15,NA,4
-2021-08-22,NA,23
-2021-08-29,NA,66
-2021-09-05,NA,38
-2021-09-12,NA,23
-2021-09-19,NA,19
-2021-09-26,NA,16
-2021-10-03,NA,26
-2021-10-10,NA,40
-2021-10-17,NA,58
-2021-10-24,NA,99
-2021-10-31,NA,123
-2021-11-07,NA,152
-2021-11-14,NA,180
-2021-11-21,NA,187
-2021-11-28,NA,177
-2021-12-05,NA,120
-2021-12-12,NA,94
-2021-12-19,NA,73
-2021-12-26,NA,57
-2022-01-02,Bay of Plenty,1
-2022-01-02,NA,59
-2022-01-09,NA,59
-2022-01-16,Otago,1
-2022-01-16,NA,57
-2022-01-23,Bay of Plenty,2
+2021-08-01,Auckland,1
+2021-08-01,Bay of Plenty,1
+2021-08-01,Manawatu-Whanganui,1
+2021-08-01,NA,1
+2021-08-08,Auckland,1
+2021-08-08,Bay of Plenty,2
+2021-08-08,Canterbury,2
+2021-08-08,Manawatu-Whanganui,1
+2021-08-08,Wellington,1
+2021-08-08,NA,9
+2021-08-15,Auckland,2
+2021-08-15,Bay of Plenty,1
+2021-08-15,Canterbury,1
+2021-08-15,Manawatu-Whanganui,3
+2021-08-15,Wellington,2
+2021-08-15,NA,2
+2021-08-22,Auckland,19
+2021-08-22,Canterbury,1
+2021-08-22,Marlborough,1
+2021-08-22,Otago,1
+2021-08-22,Tasman,1
+2021-08-22,Waikato,2
+2021-08-22,Wellington,4
+2021-08-22,NA,1
+2021-08-29,Auckland,63
+2021-08-29,Canterbury,1
+2021-08-29,Manawatu-Whanganui,1
+2021-08-29,Marlborough,1
+2021-08-29,Waikato,1
+2021-08-29,Wellington,1
+2021-08-29,NA,1
+2021-09-05,Auckland,36
+2021-09-05,Bay of Plenty,1
+2021-09-05,Canterbury,1
+2021-09-05,Northland,1
+2021-09-05,Otago,1
+2021-09-05,Southland,1
+2021-09-05,Waikato,1
+2021-09-05,Wellington,1
+2021-09-05,NA,1
+2021-09-12,Auckland,21
+2021-09-12,Canterbury,1
+2021-09-12,Gisborne,1
+2021-09-12,Manawatu-Whanganui,1
+2021-09-12,Waikato,1
+2021-09-12,Wellington,1
+2021-09-12,NA,2
+2021-09-19,Auckland,16
+2021-09-19,Bay of Plenty,1
+2021-09-19,Canterbury,2
+2021-09-19,Manawatu-Whanganui,1
+2021-09-19,Southland,1
+2021-09-19,Taranaki,1
+2021-09-19,Waikato,1
+2021-09-19,Wellington,1
+2021-09-19,NA,1
+2021-09-26,Auckland,14
+2021-09-26,Bay of Plenty,1
+2021-09-26,Canterbury,1
+2021-09-26,Manawatu-Whanganui,1
+2021-09-26,Northland,1
+2021-09-26,Otago,1
+2021-09-26,Waikato,1
+2021-09-26,Wellington,1
+2021-09-26,NA,1
+2021-10-03,Auckland,24
+2021-10-03,Canterbury,1
+2021-10-03,Gisborne,1
+2021-10-03,Manawatu-Whanganui,1
+2021-10-03,Taranaki,1
+2021-10-03,Waikato,2
+2021-10-03,Wellington,1
+2021-10-03,NA,2
+2021-10-10,Auckland,34
+2021-10-10,Bay of Plenty,1
+2021-10-10,Canterbury,1
+2021-10-10,Manawatu-Whanganui,2
+2021-10-10,Nelson,1
+2021-10-10,Northland,2
+2021-10-10,Waikato,4
+2021-10-10,Wellington,1
+2021-10-10,NA,1
+2021-10-17,Auckland,53
+2021-10-17,Bay of Plenty,1
+2021-10-17,Canterbury,1
+2021-10-17,Hawke's Bay,1
+2021-10-17,Northland,1
+2021-10-17,Otago,1
+2021-10-17,Taranaki,1
+2021-10-17,Waikato,3
+2021-10-17,Wellington,1
+2021-10-17,NA,2
+2021-10-24,Auckland,84
+2021-10-24,Bay of Plenty,2
+2021-10-24,Canterbury,1
+2021-10-24,Hawke's Bay,1
+2021-10-24,Manawatu-Whanganui,1
+2021-10-24,Marlborough,1
+2021-10-24,Northland,3
+2021-10-24,Otago,1
+2021-10-24,Taranaki,1
+2021-10-24,Waikato,7
+2021-10-24,Wellington,2
+2021-10-24,West Coast,1
+2021-10-24,NA,2
+2021-10-31,Auckland,107
+2021-10-31,Bay of Plenty,2
+2021-10-31,Canterbury,2
+2021-10-31,Gisborne,1
+2021-10-31,Hawke's Bay,1
+2021-10-31,Manawatu-Whanganui,1
+2021-10-31,Nelson,1
+2021-10-31,Northland,2
+2021-10-31,Otago,1
+2021-10-31,Taranaki,1
+2021-10-31,Waikato,6
+2021-10-31,Wellington,1
+2021-10-31,NA,4
+2021-11-07,Auckland,133
+2021-11-07,Bay of Plenty,2
+2021-11-07,Canterbury,1
+2021-11-07,Gisborne,1
+2021-11-07,Hawke's Bay,1
+2021-11-07,Nelson,2
+2021-11-07,Northland,3
+2021-11-07,Otago,1
+2021-11-07,Southland,1
+2021-11-07,Waikato,7
+2021-11-07,Wellington,2
+2021-11-07,NA,5
+2021-11-14,Auckland,152
+2021-11-14,Bay of Plenty,2
+2021-11-14,Canterbury,1
+2021-11-14,Hawke's Bay,1
+2021-11-14,Manawatu-Whanganui,2
+2021-11-14,Northland,6
+2021-11-14,Taranaki,3
+2021-11-14,Waikato,16
+2021-11-14,Wellington,1
+2021-11-14,NA,4
+2021-11-21,Auckland,152
+2021-11-21,Bay of Plenty,3
+2021-11-21,Canterbury,1
+2021-11-21,Gisborne,1
+2021-11-21,Hawke's Bay,1
+2021-11-21,Manawatu-Whanganui,2
+2021-11-21,Marlborough,1
+2021-11-21,Nelson,1
+2021-11-21,Northland,4
+2021-11-21,Otago,1
+2021-11-21,Taranaki,1
+2021-11-21,Tasman,1
+2021-11-21,Waikato,20
+2021-11-21,Wellington,3
+2021-11-21,West Coast,1
+2021-11-21,NA,4
+2021-11-28,Auckland,144
+2021-11-28,Bay of Plenty,6
+2021-11-28,Canterbury,2
+2021-11-28,Gisborne,1
+2021-11-28,Hawke's Bay,1
+2021-11-28,Manawatu-Whanganui,1
+2021-11-28,Nelson,1
+2021-11-28,Northland,4
+2021-11-28,Taranaki,2
+2021-11-28,Waikato,15
+2021-11-28,Wellington,2
+2021-11-28,NA,6
+2021-12-05,Auckland,91
+2021-12-05,Bay of Plenty,5
+2021-12-05,Canterbury,1
+2021-12-05,Hawke's Bay,2
+2021-12-05,Manawatu-Whanganui,2
+2021-12-05,Nelson,2
+2021-12-05,Northland,2
+2021-12-05,Otago,1
+2021-12-05,Southland,1
+2021-12-05,Taranaki,2
+2021-12-05,Tasman,2
+2021-12-05,Waikato,14
+2021-12-05,Wellington,1
+2021-12-05,NA,4
+2021-12-12,Auckland,72
+2021-12-12,Bay of Plenty,4
+2021-12-12,Canterbury,2
+2021-12-12,Hawke's Bay,1
+2021-12-12,Manawatu-Whanganui,1
+2021-12-12,Marlborough,2
+2021-12-12,Nelson,1
+2021-12-12,Northland,3
+2021-12-12,Otago,1
+2021-12-12,Southland,1
+2021-12-12,Taranaki,1
+2021-12-12,Tasman,1
+2021-12-12,Waikato,10
+2021-12-12,Wellington,1
+2021-12-12,NA,2
+2021-12-19,Auckland,48
+2021-12-19,Bay of Plenty,8
+2021-12-19,Canterbury,1
+2021-12-19,Hawke's Bay,1
+2021-12-19,Manawatu-Whanganui,1
+2021-12-19,Northland,2
+2021-12-19,Otago,1
+2021-12-19,Taranaki,5
+2021-12-19,Tasman,1
+2021-12-19,Waikato,8
+2021-12-19,Wellington,2
+2021-12-19,NA,2
+2021-12-26,Auckland,35
+2021-12-26,Bay of Plenty,9
+2021-12-26,Canterbury,2
+2021-12-26,Gisborne,2
+2021-12-26,Hawke's Bay,1
+2021-12-26,Northland,1
+2021-12-26,Taranaki,1
+2021-12-26,Waikato,8
+2021-12-26,Wellington,2
+2021-12-26,NA,3
+2022-01-02,Auckland,30
+2022-01-02,Bay of Plenty,12
+2022-01-02,Canterbury,2
+2022-01-02,Gisborne,1
+2022-01-02,Hawke's Bay,1
+2022-01-02,Manawatu-Whanganui,1
+2022-01-02,Northland,3
+2022-01-02,Otago,1
+2022-01-02,Taranaki,1
+2022-01-02,Tasman,1
+2022-01-02,Waikato,7
+2022-01-02,Wellington,2
+2022-01-02,NA,4
+2022-01-09,Auckland,29
+2022-01-09,Bay of Plenty,12
+2022-01-09,Canterbury,4
+2022-01-09,Hawke's Bay,1
+2022-01-09,Manawatu-Whanganui,1
+2022-01-09,Marlborough,1
+2022-01-09,Nelson,1
+2022-01-09,Northland,2
+2022-01-09,Otago,2
+2022-01-09,Southland,1
+2022-01-09,Taranaki,1
+2022-01-09,Tasman,1
+2022-01-09,Waikato,5
+2022-01-09,Wellington,3
+2022-01-09,NA,3
+2022-01-16,Auckland,30
+2022-01-16,Bay of Plenty,7
+2022-01-16,Canterbury,3
+2022-01-16,Gisborne,1
+2022-01-16,Hawke's Bay,2
+2022-01-16,Manawatu-Whanganui,2
+2022-01-16,Marlborough,2
+2022-01-16,Northland,3
+2022-01-16,Otago,2
+2022-01-16,Southland,2
+2022-01-16,Taranaki,1
+2022-01-16,Tasman,1
+2022-01-16,Waikato,3
+2022-01-16,Wellington,3
+2022-01-16,West Coast,1
+2022-01-16,NA,4
+2022-01-23,Auckland,37
+2022-01-23,Bay of Plenty,9
+2022-01-23,Canterbury,4
+2022-01-23,Gisborne,1
+2022-01-23,Hawke's Bay,2
+2022-01-23,Manawatu-Whanganui,1
 2022-01-23,Nelson,1
-2022-01-23,NA,73
-2022-01-30,Bay of Plenty,2
-2022-01-30,Canterbury,1
-2022-01-30,Northland,1
-2022-01-30,Wellington,1
-2022-01-30,NA,127
-2022-02-06,Canterbury,2
-2022-02-06,Tasman,1
-2022-02-06,Waikato,1
-2022-02-06,Wellington,1
-2022-02-06,NA,225
-2022-02-13,Auckland,220
-2022-02-13,Bay of Plenty,9
-2022-02-13,Canterbury,7
-2022-02-13,Gisborne,3
+2022-01-23,Northland,3
+2022-01-23,Otago,2
+2022-01-23,Southland,1
+2022-01-23,Taranaki,1
+2022-01-23,Tasman,3
+2022-01-23,Waikato,5
+2022-01-23,Wellington,6
+2022-01-23,NA,4
+2022-01-30,Auckland,72
+2022-01-30,Bay of Plenty,12
+2022-01-30,Canterbury,6
+2022-01-30,Gisborne,2
+2022-01-30,Hawke's Bay,4
+2022-01-30,Manawatu-Whanganui,3
+2022-01-30,Nelson,2
+2022-01-30,Northland,2
+2022-01-30,Otago,2
+2022-01-30,Southland,2
+2022-01-30,Taranaki,1
+2022-01-30,Tasman,2
+2022-01-30,Waikato,13
+2022-01-30,Wellington,5
+2022-01-30,West Coast,1
+2022-01-30,NA,7
+2022-02-06,Auckland,133
+2022-02-06,Bay of Plenty,16
+2022-02-06,Canterbury,6
+2022-02-06,Gisborne,2
+2022-02-06,Hawke's Bay,4
+2022-02-06,Manawatu-Whanganui,2
+2022-02-06,Marlborough,1
+2022-02-06,Nelson,2
+2022-02-06,Northland,13
+2022-02-06,Otago,2
+2022-02-06,Southland,1
+2022-02-06,Taranaki,2
+2022-02-06,Tasman,2
+2022-02-06,Waikato,31
+2022-02-06,Wellington,7
+2022-02-06,NA,8
+2022-02-13,Auckland,356
+2022-02-13,Bay of Plenty,17
+2022-02-13,Canterbury,4
+2022-02-13,Gisborne,4
 2022-02-13,Hawke's Bay,4
-2022-02-13,Manawatu-Whanganui,4
-2022-02-13,Marlborough,1
-2022-02-13,Nelson,1
-2022-02-13,Northland,14
-2022-02-13,Otago,9
-2022-02-13,Southland,2
+2022-02-13,Manawatu-Whanganui,5
+2022-02-13,Marlborough,2
+2022-02-13,Nelson,2
+2022-02-13,Northland,12
+2022-02-13,Otago,5
+2022-02-13,Southland,3
 2022-02-13,Taranaki,2
 2022-02-13,Tasman,1
-2022-02-13,Waikato,55
-2022-02-13,Wellington,14
-2022-02-13,NA,285
-2022-02-20,Auckland,1153
+2022-02-13,Waikato,59
+2022-02-13,Wellington,18
+2022-02-13,NA,16
+2022-02-20,Auckland,1159
 2022-02-20,Bay of Plenty,52
-2022-02-20,Canterbury,45
-2022-02-20,Gisborne,9
+2022-02-20,Canterbury,40
+2022-02-20,Gisborne,10
 2022-02-20,Hawke's Bay,14
 2022-02-20,Manawatu-Whanganui,14
 2022-02-20,Marlborough,5
 2022-02-20,Nelson,29
-2022-02-20,Northland,32
-2022-02-20,Otago,60
+2022-02-20,Northland,33
+2022-02-20,Otago,61
 2022-02-20,Southland,3
 2022-02-20,Taranaki,7
 2022-02-20,Tasman,4
-2022-02-20,Waikato,155
+2022-02-20,Waikato,157
 2022-02-20,Wellington,69
-2022-02-20,NA,39
-2022-02-27,Auckland,5800
-2022-02-27,Bay of Plenty,542
-2022-02-27,Canterbury,431
-2022-02-27,Gisborne,42
+2022-02-20,NA,36
+2022-02-27,Auckland,5825
+2022-02-27,Bay of Plenty,544
+2022-02-27,Canterbury,433
+2022-02-27,Gisborne,37
 2022-02-27,Hawke's Bay,77
-2022-02-27,Manawatu-Whanganui,117
+2022-02-27,Manawatu-Whanganui,118
 2022-02-27,Marlborough,13
 2022-02-27,Nelson,83
 2022-02-27,Northland,121
-2022-02-27,Otago,478
+2022-02-27,Otago,482
 2022-02-27,Southland,24
 2022-02-27,Taranaki,43
 2022-02-27,Tasman,24
-2022-02-27,Waikato,919
-2022-02-27,Wellington,492
-2022-02-27,West Coast,4
-2022-02-27,NA,193
-2022-03-06,Auckland,10779
-2022-03-06,Bay of Plenty,1492
-2022-03-06,Canterbury,1152
-2022-03-06,Gisborne,150
-2022-03-06,Hawke's Bay,300
+2022-02-27,Waikato,918
+2022-02-27,Wellington,485
+2022-02-27,West Coast,3
+2022-02-27,NA,174
+2022-03-06,Auckland,10809
+2022-03-06,Bay of Plenty,1493
+2022-03-06,Canterbury,1149
+2022-03-06,Gisborne,148
+2022-03-06,Hawke's Bay,301
 2022-03-06,Manawatu-Whanganui,424
 2022-03-06,Marlborough,48
 2022-03-06,Nelson,123
-2022-03-06,Northland,429
+2022-03-06,Northland,433
 2022-03-06,Otago,472
-2022-03-06,Southland,87
-2022-03-06,Taranaki,241
-2022-03-06,Tasman,85
-2022-03-06,Waikato,1872
-2022-03-06,Wellington,1939
+2022-03-06,Southland,88
+2022-03-06,Taranaki,242
+2022-03-06,Tasman,86
+2022-03-06,Waikato,1870
+2022-03-06,Wellington,1933
 2022-03-06,West Coast,15
-2022-03-06,NA,355
-2022-03-13,Auckland,6625
-2022-03-13,Bay of Plenty,1615
-2022-03-13,Canterbury,2067
+2022-03-06,NA,334
+2022-03-13,Auckland,6659
+2022-03-13,Bay of Plenty,1619
+2022-03-13,Canterbury,2069
 2022-03-13,Gisborne,328
-2022-03-13,Hawke's Bay,699
-2022-03-13,Manawatu-Whanganui,752
-2022-03-13,Marlborough,84
-2022-03-13,Nelson,195
-2022-03-13,Northland,621
-2022-03-13,Otago,627
+2022-03-13,Hawke's Bay,702
+2022-03-13,Manawatu-Whanganui,757
+2022-03-13,Marlborough,85
+2022-03-13,Nelson,194
+2022-03-13,Northland,623
+2022-03-13,Otago,628
 2022-03-13,Southland,189
-2022-03-13,Taranaki,443
-2022-03-13,Tasman,132
-2022-03-13,Waikato,2037
-2022-03-13,Wellington,2719
+2022-03-13,Taranaki,446
+2022-03-13,Tasman,134
+2022-03-13,Waikato,2038
+2022-03-13,Wellington,2729
 2022-03-13,West Coast,24
-2022-03-13,NA,409
-2022-03-20,Auckland,4165
-2022-03-20,Bay of Plenty,1412
-2022-03-20,Canterbury,2511
-2022-03-20,Gisborne,321
-2022-03-20,Hawke's Bay,939
-2022-03-20,Manawatu-Whanganui,945
+2022-03-13,NA,347
+2022-03-20,Auckland,4163
+2022-03-20,Bay of Plenty,1417
+2022-03-20,Canterbury,2508
+2022-03-20,Gisborne,319
+2022-03-20,Hawke's Bay,943
+2022-03-20,Manawatu-Whanganui,947
 2022-03-20,Marlborough,115
-2022-03-20,Nelson,192
-2022-03-20,Northland,568
-2022-03-20,Otago,741
-2022-03-20,Southland,318
-2022-03-20,Taranaki,506
+2022-03-20,Nelson,193
+2022-03-20,Northland,569
+2022-03-20,Otago,742
+2022-03-20,Southland,319
+2022-03-20,Taranaki,508
 2022-03-20,Tasman,136
-2022-03-20,Waikato,1788
-2022-03-20,Wellington,2093
-2022-03-20,West Coast,39
-2022-03-20,NA,355
-2022-03-27,Auckland,2987
-2022-03-27,Bay of Plenty,1194
-2022-03-27,Canterbury,2974
+2022-03-20,Waikato,1792
+2022-03-20,Wellington,2094
+2022-03-20,West Coast,38
+2022-03-20,NA,341
+2022-03-27,Auckland,3003
+2022-03-27,Bay of Plenty,1201
+2022-03-27,Canterbury,2972
 2022-03-27,Gisborne,250
-2022-03-27,Hawke's Bay,875
-2022-03-27,Manawatu-Whanganui,1087
-2022-03-27,Marlborough,196
+2022-03-27,Hawke's Bay,878
+2022-03-27,Manawatu-Whanganui,1090
+2022-03-27,Marlborough,197
 2022-03-27,Nelson,170
-2022-03-27,Northland,568
-2022-03-27,Otago,770
-2022-03-27,Southland,428
-2022-03-27,Taranaki,547
-2022-03-27,Tasman,195
-2022-03-27,Waikato,1590
-2022-03-27,Wellington,1868
-2022-03-27,West Coast,49
-2022-03-27,NA,353
-2022-04-03,Auckland,2211
+2022-03-27,Northland,570
+2022-03-27,Otago,774
+2022-03-27,Southland,429
+2022-03-27,Taranaki,548
+2022-03-27,Tasman,194
+2022-03-27,Waikato,1591
+2022-03-27,Wellington,1870
+2022-03-27,West Coast,50
+2022-03-27,NA,314
+2022-04-03,Auckland,2216
 2022-04-03,Bay of Plenty,927
-2022-04-03,Canterbury,2362
-2022-04-03,Gisborne,163
-2022-04-03,Hawke's Bay,704
-2022-04-03,Manawatu-Whanganui,1029
-2022-04-03,Marlborough,180
-2022-04-03,Nelson,155
-2022-04-03,Northland,543
-2022-04-03,Otago,657
+2022-04-03,Canterbury,2363
+2022-04-03,Gisborne,164
+2022-04-03,Hawke's Bay,705
+2022-04-03,Manawatu-Whanganui,1031
+2022-04-03,Marlborough,179
+2022-04-03,Nelson,156
+2022-04-03,Northland,545
+2022-04-03,Otago,659
 2022-04-03,Southland,443
-2022-04-03,Taranaki,491
-2022-04-03,Tasman,209
-2022-04-03,Waikato,1287
-2022-04-03,Wellington,1519
-2022-04-03,West Coast,65
-2022-04-03,NA,273
-2022-04-10,Auckland,1727
-2022-04-10,Bay of Plenty,615
-2022-04-10,Canterbury,1849
+2022-04-03,Taranaki,493
+2022-04-03,Tasman,206
+2022-04-03,Waikato,1292
+2022-04-03,Wellington,1517
+2022-04-03,West Coast,66
+2022-04-03,NA,259
+2022-04-10,Auckland,1730
+2022-04-10,Bay of Plenty,618
+2022-04-10,Canterbury,1851
 2022-04-10,Gisborne,111
-2022-04-10,Hawke's Bay,443
+2022-04-10,Hawke's Bay,444
 2022-04-10,Manawatu-Whanganui,756
 2022-04-10,Marlborough,131
-2022-04-10,Nelson,106
-2022-04-10,Northland,489
-2022-04-10,Otago,673
-2022-04-10,Southland,417
-2022-04-10,Taranaki,335
-2022-04-10,Tasman,131
-2022-04-10,Waikato,938
+2022-04-10,Nelson,107
+2022-04-10,Northland,491
+2022-04-10,Otago,674
+2022-04-10,Southland,418
+2022-04-10,Taranaki,337
+2022-04-10,Tasman,130
+2022-04-10,Waikato,942
 2022-04-10,Wellington,1156
 2022-04-10,West Coast,82
-2022-04-10,NA,213
-2022-04-17,Auckland,1534
-2022-04-17,Bay of Plenty,436
-2022-04-17,Canterbury,1507
+2022-04-10,NA,195
+2022-04-17,Auckland,1538
+2022-04-17,Bay of Plenty,437
+2022-04-17,Canterbury,1509
 2022-04-17,Gisborne,66
-2022-04-17,Hawke's Bay,286
-2022-04-17,Manawatu-Whanganui,491
+2022-04-17,Hawke's Bay,287
+2022-04-17,Manawatu-Whanganui,492
 2022-04-17,Marlborough,93
 2022-04-17,Nelson,79
-2022-04-17,Northland,379
+2022-04-17,Northland,380
 2022-04-17,Otago,611
-2022-04-17,Southland,330
-2022-04-17,Taranaki,250
-2022-04-17,Tasman,92
-2022-04-17,Waikato,677
+2022-04-17,Southland,331
+2022-04-17,Taranaki,251
+2022-04-17,Tasman,91
+2022-04-17,Waikato,680
 2022-04-17,Wellington,896
-2022-04-17,West Coast,79
-2022-04-17,NA,159
-2022-04-24,Auckland,1911
-2022-04-24,Bay of Plenty,416
+2022-04-17,West Coast,80
+2022-04-17,NA,147
+2022-04-24,Auckland,1921
+2022-04-24,Bay of Plenty,418
 2022-04-24,Canterbury,1579
-2022-04-24,Gisborne,78
-2022-04-24,Hawke's Bay,275
-2022-04-24,Manawatu-Whanganui,443
+2022-04-24,Gisborne,79
+2022-04-24,Hawke's Bay,276
+2022-04-24,Manawatu-Whanganui,444
 2022-04-24,Marlborough,94
-2022-04-24,Nelson,81
+2022-04-24,Nelson,82
 2022-04-24,Northland,330
 2022-04-24,Otago,674
 2022-04-24,Southland,329
 2022-04-24,Taranaki,241
-2022-04-24,Tasman,102
-2022-04-24,Waikato,664
-2022-04-24,Wellington,861
+2022-04-24,Tasman,101
+2022-04-24,Waikato,665
+2022-04-24,Wellington,860
 2022-04-24,West Coast,97
-2022-04-24,NA,165
-2022-05-01,Auckland,2058
-2022-05-01,Bay of Plenty,321
-2022-05-01,Canterbury,1424
+2022-04-24,NA,150
+2022-05-01,Auckland,2063
+2022-05-01,Bay of Plenty,322
+2022-05-01,Canterbury,1425
 2022-05-01,Gisborne,88
 2022-05-01,Hawke's Bay,219
 2022-05-01,Manawatu-Whanganui,356
-2022-05-01,Marlborough,85
+2022-05-01,Marlborough,86
 2022-05-01,Nelson,99
 2022-05-01,Northland,206
 2022-05-01,Otago,601
-2022-05-01,Southland,273
+2022-05-01,Southland,275
 2022-05-01,Taranaki,194
 2022-05-01,Tasman,98
-2022-05-01,Waikato,535
+2022-05-01,Waikato,538
 2022-05-01,Wellington,774
 2022-05-01,West Coast,84
-2022-05-01,NA,151
-2022-05-08,Auckland,2314
+2022-05-01,NA,139
+2022-05-08,Auckland,2319
 2022-05-08,Bay of Plenty,272
-2022-05-08,Canterbury,1327
+2022-05-08,Canterbury,1328
 2022-05-08,Gisborne,60
-2022-05-08,Hawke's Bay,226
-2022-05-08,Manawatu-Whanganui,354
+2022-05-08,Hawke's Bay,227
+2022-05-08,Manawatu-Whanganui,355
 2022-05-08,Marlborough,75
 2022-05-08,Nelson,97
-2022-05-08,Northland,189
-2022-05-08,Otago,528
+2022-05-08,Northland,190
+2022-05-08,Otago,529
 2022-05-08,Southland,216
-2022-05-08,Taranaki,193
+2022-05-08,Taranaki,194
 2022-05-08,Tasman,89
-2022-05-08,Waikato,524
-2022-05-08,Wellington,829
+2022-05-08,Waikato,525
+2022-05-08,Wellington,830
 2022-05-08,West Coast,64
-2022-05-08,NA,149
-2022-05-15,Auckland,2541
+2022-05-08,NA,136
+2022-05-15,Auckland,2543
 2022-05-15,Bay of Plenty,280
-2022-05-15,Canterbury,1250
+2022-05-15,Canterbury,1252
 2022-05-15,Gisborne,66
-2022-05-15,Hawke's Bay,234
-2022-05-15,Manawatu-Whanganui,325
+2022-05-15,Hawke's Bay,235
+2022-05-15,Manawatu-Whanganui,326
 2022-05-15,Marlborough,79
-2022-05-15,Nelson,90
-2022-05-15,Northland,213
-2022-05-15,Otago,516
+2022-05-15,Nelson,91
+2022-05-15,Northland,215
+2022-05-15,Otago,517
 2022-05-15,Southland,176
 2022-05-15,Taranaki,197
 2022-05-15,Tasman,80
-2022-05-15,Waikato,644
-2022-05-15,Wellington,805
-2022-05-15,West Coast,67
-2022-05-15,NA,149
-2022-05-22,Auckland,2595
+2022-05-15,Waikato,646
+2022-05-15,Wellington,804
+2022-05-15,West Coast,68
+2022-05-15,NA,140
+2022-05-22,Auckland,2599
 2022-05-22,Bay of Plenty,319
-2022-05-22,Canterbury,1218
+2022-05-22,Canterbury,1220
 2022-05-22,Gisborne,59
-2022-05-22,Hawke's Bay,259
+2022-05-22,Hawke's Bay,260
 2022-05-22,Manawatu-Whanganui,340
 2022-05-22,Marlborough,83
 2022-05-22,Nelson,82
@@ -291,18 +558,18 @@ week_end_date,Region,case_7d_avg
 2022-05-22,Southland,151
 2022-05-22,Taranaki,213
 2022-05-22,Tasman,86
-2022-05-22,Waikato,662
+2022-05-22,Waikato,665
 2022-05-22,Wellington,797
 2022-05-22,West Coast,72
-2022-05-22,NA,141
-2022-05-29,Auckland,2205
-2022-05-29,Bay of Plenty,258
-2022-05-29,Canterbury,1161
+2022-05-22,NA,130
+2022-05-29,Auckland,2208
+2022-05-29,Bay of Plenty,259
+2022-05-29,Canterbury,1162
 2022-05-29,Gisborne,39
 2022-05-29,Hawke's Bay,183
 2022-05-29,Manawatu-Whanganui,280
 2022-05-29,Marlborough,81
-2022-05-29,Nelson,106
+2022-05-29,Nelson,107
 2022-05-29,Northland,197
 2022-05-29,Otago,373
 2022-05-29,Southland,105
@@ -311,140 +578,157 @@ week_end_date,Region,case_7d_avg
 2022-05-29,Waikato,582
 2022-05-29,Wellington,817
 2022-05-29,West Coast,74
-2022-05-29,NA,124
-2022-06-05,Auckland,1983
+2022-05-29,NA,118
+2022-06-05,Auckland,1988
 2022-06-05,Bay of Plenty,245
-2022-06-05,Canterbury,1136
+2022-06-05,Canterbury,1138
 2022-06-05,Gisborne,37
-2022-06-05,Hawke's Bay,186
+2022-06-05,Hawke's Bay,185
 2022-06-05,Manawatu-Whanganui,302
 2022-06-05,Marlborough,72
 2022-06-05,Nelson,109
 2022-06-05,Northland,161
 2022-06-05,Otago,361
 2022-06-05,Southland,119
-2022-06-05,Taranaki,163
-2022-06-05,Tasman,81
-2022-06-05,Waikato,545
-2022-06-05,Wellington,871
+2022-06-05,Taranaki,164
+2022-06-05,Tasman,82
+2022-06-05,Waikato,546
+2022-06-05,Wellington,872
 2022-06-05,West Coast,67
-2022-06-05,NA,126
-2022-06-12,Auckland,1680
-2022-06-12,Bay of Plenty,260
-2022-06-12,Canterbury,963
+2022-06-05,NA,116
+2022-06-12,Auckland,1684
+2022-06-12,Bay of Plenty,259
+2022-06-12,Canterbury,966
 2022-06-12,Gisborne,28
 2022-06-12,Hawke's Bay,177
-2022-06-12,Manawatu-Whanganui,311
-2022-06-12,Marlborough,65
+2022-06-12,Manawatu-Whanganui,312
+2022-06-12,Marlborough,66
 2022-06-12,Nelson,91
 2022-06-12,Northland,127
 2022-06-12,Otago,325
 2022-06-12,Southland,130
-2022-06-12,Taranaki,160
+2022-06-12,Taranaki,159
 2022-06-12,Tasman,77
-2022-06-12,Waikato,460
-2022-06-12,Wellington,903
+2022-06-12,Waikato,462
+2022-06-12,Wellington,904
 2022-06-12,West Coast,58
-2022-06-12,NA,110
-2022-06-19,Auckland,1450
+2022-06-12,NA,100
+2022-06-19,Auckland,1452
 2022-06-19,Bay of Plenty,221
-2022-06-19,Canterbury,781
+2022-06-19,Canterbury,782
 2022-06-19,Gisborne,34
 2022-06-19,Hawke's Bay,140
-2022-06-19,Manawatu-Whanganui,220
+2022-06-19,Manawatu-Whanganui,221
 2022-06-19,Marlborough,42
-2022-06-19,Nelson,82
+2022-06-19,Nelson,83
 2022-06-19,Northland,117
-2022-06-19,Otago,318
+2022-06-19,Otago,319
 2022-06-19,Southland,97
-2022-06-19,Taranaki,143
+2022-06-19,Taranaki,144
 2022-06-19,Tasman,78
-2022-06-19,Waikato,367
-2022-06-19,Wellington,686
+2022-06-19,Waikato,368
+2022-06-19,Wellington,687
 2022-06-19,West Coast,34
-2022-06-19,NA,99
-2022-06-26,Auckland,1577
+2022-06-19,NA,89
+2022-06-26,Auckland,1578
 2022-06-26,Bay of Plenty,214
 2022-06-26,Canterbury,921
 2022-06-26,Gisborne,40
-2022-06-26,Hawke's Bay,150
-2022-06-26,Manawatu-Whanganui,192
-2022-06-26,Marlborough,55
+2022-06-26,Hawke's Bay,151
+2022-06-26,Manawatu-Whanganui,193
+2022-06-26,Marlborough,54
 2022-06-26,Nelson,70
 2022-06-26,Northland,117
 2022-06-26,Otago,329
-2022-06-26,Southland,82
+2022-06-26,Southland,81
 2022-06-26,Taranaki,130
 2022-06-26,Tasman,79
 2022-06-26,Waikato,341
-2022-06-26,Wellington,754
-2022-06-26,West Coast,41
-2022-06-26,NA,93
-2022-07-03,Auckland,2233
+2022-06-26,Wellington,753
+2022-06-26,West Coast,42
+2022-06-26,NA,91
+2022-07-03,Auckland,2235
 2022-07-03,Bay of Plenty,325
-2022-07-03,Canterbury,1187
-2022-07-03,Gisborne,59
-2022-07-03,Hawke's Bay,258
-2022-07-03,Manawatu-Whanganui,278
+2022-07-03,Canterbury,1186
+2022-07-03,Gisborne,58
+2022-07-03,Hawke's Bay,260
+2022-07-03,Manawatu-Whanganui,277
 2022-07-03,Marlborough,71
-2022-07-03,Nelson,84
+2022-07-03,Nelson,83
 2022-07-03,Northland,139
-2022-07-03,Otago,507
+2022-07-03,Otago,508
 2022-07-03,Southland,117
-2022-07-03,Taranaki,178
+2022-07-03,Taranaki,180
 2022-07-03,Tasman,81
-2022-07-03,Waikato,487
-2022-07-03,Wellington,986
+2022-07-03,Waikato,488
+2022-07-03,Wellington,985
 2022-07-03,West Coast,56
-2022-07-03,NA,138
+2022-07-03,NA,137
 2022-07-10,Auckland,3030
-2022-07-10,Bay of Plenty,477
-2022-07-10,Canterbury,1484
+2022-07-10,Bay of Plenty,478
+2022-07-10,Canterbury,1485
 2022-07-10,Gisborne,76
-2022-07-10,Hawke's Bay,403
+2022-07-10,Hawke's Bay,404
 2022-07-10,Manawatu-Whanganui,442
 2022-07-10,Marlborough,90
-2022-07-10,Nelson,103
-2022-07-10,Northland,209
-2022-07-10,Otago,547
-2022-07-10,Southland,143
-2022-07-10,Taranaki,196
+2022-07-10,Nelson,102
+2022-07-10,Northland,210
+2022-07-10,Otago,548
+2022-07-10,Southland,142
+2022-07-10,Taranaki,197
 2022-07-10,Tasman,86
-2022-07-10,Waikato,655
-2022-07-10,Wellington,1240
+2022-07-10,Waikato,656
+2022-07-10,Wellington,1238
 2022-07-10,West Coast,54
-2022-07-10,NA,179
-2022-07-17,Auckland,2972
+2022-07-10,NA,177
+2022-07-17,Auckland,2967
 2022-07-17,Bay of Plenty,539
 2022-07-17,Canterbury,1546
 2022-07-17,Gisborne,72
-2022-07-17,Hawke's Bay,455
-2022-07-17,Manawatu-Whanganui,531
+2022-07-17,Hawke's Bay,457
+2022-07-17,Manawatu-Whanganui,532
 2022-07-17,Marlborough,95
-2022-07-17,Nelson,105
-2022-07-17,Northland,215
+2022-07-17,Nelson,104
+2022-07-17,Northland,216
 2022-07-17,Otago,686
-2022-07-17,Southland,156
+2022-07-17,Southland,155
 2022-07-17,Taranaki,198
 2022-07-17,Tasman,94
-2022-07-17,Waikato,732
-2022-07-17,Wellington,1224
+2022-07-17,Waikato,733
+2022-07-17,Wellington,1221
 2022-07-17,West Coast,54
-2022-07-17,NA,201
-2022-07-24,Auckland,2622
-2022-07-24,Bay of Plenty,484
-2022-07-24,Canterbury,1371
+2022-07-17,NA,207
+2022-07-24,Auckland,2567
+2022-07-24,Bay of Plenty,468
+2022-07-24,Canterbury,1359
 2022-07-24,Gisborne,57
-2022-07-24,Hawke's Bay,342
-2022-07-24,Manawatu-Whanganui,480
-2022-07-24,Marlborough,75
-2022-07-24,Nelson,149
+2022-07-24,Hawke's Bay,343
+2022-07-24,Manawatu-Whanganui,471
+2022-07-24,Marlborough,96
+2022-07-24,Nelson,94
 2022-07-24,Northland,205
-2022-07-24,Otago,589
-2022-07-24,Southland,144
-2022-07-24,Taranaki,214
-2022-07-24,Tasman,39
-2022-07-24,Waikato,633
-2022-07-24,Wellington,1162
-2022-07-24,West Coast,46
-2022-07-24,NA,103
+2022-07-24,Otago,548
+2022-07-24,Southland,168
+2022-07-24,Taranaki,207
+2022-07-24,Tasman,71
+2022-07-24,Waikato,669
+2022-07-24,Wellington,1152
+2022-07-24,West Coast,45
+2022-07-24,NA,196
+2022-07-31,Auckland,2230
+2022-07-31,Bay of Plenty,395
+2022-07-31,Canterbury,1045
+2022-07-31,Gisborne,50
+2022-07-31,Hawke's Bay,238
+2022-07-31,Manawatu-Whanganui,387
+2022-07-31,Marlborough,71
+2022-07-31,Nelson,65
+2022-07-31,Northland,182
+2022-07-31,Otago,397
+2022-07-31,Southland,151
+2022-07-31,Taranaki,181
+2022-07-31,Tasman,61
+2022-07-31,Waikato,602
+2022-07-31,Wellington,890
+2022-07-31,West Coast,49
+2022-07-31,NA,169
