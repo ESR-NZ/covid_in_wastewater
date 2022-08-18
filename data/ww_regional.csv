@@ -1,23 +1,10 @@
 week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
-2021-08-15,Auckland,7010,1355000,4
-2021-08-15,Bay of Plenty,0,174000,3
-2021-08-15,Canterbury,0,368000,1
-2021-08-15,Gisborne,0,37000,1
-2021-08-15,Hawke's Bay,0,55000,1
-2021-08-15,Manawatu-Wanganui,0,90000,1
-2021-08-15,Nelson,0,26000,1
-2021-08-15,Northland,0,65000,1
-2021-08-15,Otago,0,124000,2
-2021-08-15,Southland,0,50000,1
-2021-08-15,Taranaki,0,88000,1
-2021-08-15,Waikato,0,192000,2
-2021-08-15,Wellington,0,386000,3
 2021-08-22,Auckland,234992,1417780,11
 2021-08-22,Bay of Plenty,0,184800,5
 2021-08-22,Canterbury,61955,386000,2
 2021-08-22,Gisborne,0,37000,1
 2021-08-22,Hawke's Bay,0,66260,4
-2021-08-22,Manawatu-Wanganui,0,155700,3
+2021-08-22,Manawatu-Whanganui,0,155700,3
 2021-08-22,Marlborough,0,36000,2
 2021-08-22,Nelson,0,26000,1
 2021-08-22,Northland,0,65000,1
@@ -32,7 +19,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-08-29,Canterbury,146565,489500,10
 2021-08-29,Gisborne,0,37000,1
 2021-08-29,Hawke's Bay,0,139400,3
-2021-08-29,Manawatu-Wanganui,0,155700,3
+2021-08-29,Manawatu-Whanganui,0,155700,3
 2021-08-29,Marlborough,0,36000,2
 2021-08-29,Nelson,0,86000,2
 2021-08-29,Northland,0,101820,18
@@ -48,7 +35,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-09-05,Canterbury,0,479100,10
 2021-09-05,Gisborne,0,37000,1
 2021-09-05,Hawke's Bay,0,146260,5
-2021-09-05,Manawatu-Wanganui,0,150500,3
+2021-09-05,Manawatu-Whanganui,0,150500,3
 2021-09-05,Marlborough,0,36000,2
 2021-09-05,Nelson,0,26000,1
 2021-09-05,Northland,0,105920,18
@@ -64,7 +51,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-09-12,Canterbury,0,496200,10
 2021-09-12,Gisborne,0,37000,1
 2021-09-12,Hawke's Bay,0,141860,4
-2021-09-12,Manawatu-Wanganui,0,171700,4
+2021-09-12,Manawatu-Whanganui,0,171700,4
 2021-09-12,Marlborough,0,36000,2
 2021-09-12,Nelson,0,26000,1
 2021-09-12,Northland,0,105020,17
@@ -79,7 +66,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-09-19,Canterbury,0,496200,10
 2021-09-19,Gisborne,0,37000,1
 2021-09-19,Hawke's Bay,0,146260,5
-2021-09-19,Manawatu-Wanganui,0,171700,4
+2021-09-19,Manawatu-Whanganui,0,171700,4
 2021-09-19,Marlborough,0,36000,2
 2021-09-19,Nelson,0,86000,2
 2021-09-19,Northland,0,107350,19
@@ -94,7 +81,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-09-26,Canterbury,0,368000,1
 2021-09-26,Gisborne,0,37000,1
 2021-09-26,Hawke's Bay,0,135000,2
-2021-09-26,Manawatu-Wanganui,0,134500,2
+2021-09-26,Manawatu-Whanganui,0,134500,2
 2021-09-26,Nelson,0,86000,2
 2021-09-26,Northland,0,85500,5
 2021-09-26,Otago,0,161500,4
@@ -107,7 +94,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-03,Canterbury,0,403000,2
 2021-10-03,Gisborne,0,37000,1
 2021-10-03,Hawke's Bay,0,139400,3
-2021-10-03,Manawatu-Wanganui,0,134500,2
+2021-10-03,Manawatu-Whanganui,0,134500,2
 2021-10-03,Nelson,0,26000,1
 2021-10-03,Northland,0,88800,8
 2021-10-03,Otago,0,146900,3
@@ -120,7 +107,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-10,Canterbury,0,403000,2
 2021-10-10,Gisborne,0,37000,1
 2021-10-10,Hawke's Bay,0,139400,3
-2021-10-10,Manawatu-Wanganui,229262,150500,3
+2021-10-10,Manawatu-Whanganui,229262,150500,3
 2021-10-10,Nelson,0,26000,1
 2021-10-10,Northland,0,93300,9
 2021-10-10,Otago,0,165600,5
@@ -133,7 +120,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-17,Canterbury,0,403000,2
 2021-10-17,Gisborne,0,37000,1
 2021-10-17,Hawke's Bay,0,139400,3
-2021-10-17,Manawatu-Wanganui,0,134500,2
+2021-10-17,Manawatu-Whanganui,0,134500,2
 2021-10-17,Nelson,0,86000,2
 2021-10-17,Northland,0,107450,19
 2021-10-17,Otago,0,161500,4
@@ -146,7 +133,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-24,Canterbury,0,403000,2
 2021-10-24,Gisborne,0,37000,1
 2021-10-24,Hawke's Bay,0,139400,3
-2021-10-24,Manawatu-Wanganui,0,134500,2
+2021-10-24,Manawatu-Whanganui,0,134500,2
 2021-10-24,Nelson,0,86000,2
 2021-10-24,Northland,0,107550,19
 2021-10-24,Otago,0,161500,4
@@ -159,7 +146,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-31,Canterbury,109914,460100,6
 2021-10-31,Gisborne,0,37000,1
 2021-10-31,Hawke's Bay,0,135000,2
-2021-10-31,Manawatu-Wanganui,0,154500,4
+2021-10-31,Manawatu-Whanganui,0,154500,4
 2021-10-31,Marlborough,0,36000,2
 2021-10-31,Nelson,0,26000,1
 2021-10-31,Northland,6661,108050,20
@@ -173,7 +160,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-07,Canterbury,77260,464300,8
 2021-11-07,Gisborne,160799,37000,1
 2021-11-07,Hawke's Bay,40273,146900,6
-2021-11-07,Manawatu-Wanganui,0,175700,5
+2021-11-07,Manawatu-Whanganui,0,175700,5
 2021-11-07,Marlborough,0,36000,2
 2021-11-07,Nelson,0,86000,2
 2021-11-07,Northland,5672,108050,20
@@ -187,7 +174,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-14,Canterbury,87258,411100,5
 2021-11-14,Gisborne,0,37000,1
 2021-11-14,Hawke's Bay,0,146900,6
-2021-11-14,Manawatu-Wanganui,0,175700,5
+2021-11-14,Manawatu-Whanganui,0,175700,5
 2021-11-14,Marlborough,0,36000,2
 2021-11-14,Nelson,0,26000,1
 2021-11-14,Northland,32790,108050,20
@@ -202,7 +189,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-21,Canterbury,0,450200,8
 2021-11-21,Gisborne,0,37000,1
 2021-11-21,Hawke's Bay,0,146900,6
-2021-11-21,Manawatu-Wanganui,41767,185849,8
+2021-11-21,Manawatu-Whanganui,41767,185849,8
 2021-11-21,Marlborough,0,36000,2
 2021-11-21,Nelson,0,26000,1
 2021-11-21,Northland,18683,108050,20
@@ -217,7 +204,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-28,Canterbury,0,450200,8
 2021-11-28,Gisborne,0,37000,1
 2021-11-28,Hawke's Bay,0,147433,7
-2021-11-28,Manawatu-Wanganui,13521,187479,9
+2021-11-28,Manawatu-Whanganui,13521,187479,9
 2021-11-28,Marlborough,0,36000,2
 2021-11-28,Nelson,0,26000,1
 2021-11-28,Northland,13882,106320,19
@@ -233,7 +220,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-05,Canterbury,108961,450200,8
 2021-12-05,Gisborne,216261,37000,1
 2021-12-05,Hawke's Bay,0,147433,7
-2021-12-05,Manawatu-Wanganui,0,187479,9
+2021-12-05,Manawatu-Whanganui,0,187479,9
 2021-12-05,Marlborough,0,36000,2
 2021-12-05,Nelson,63775,86000,2
 2021-12-05,Northland,50894,108050,20
@@ -249,7 +236,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-12,Canterbury,159360,450200,8
 2021-12-12,Gisborne,342238,37000,1
 2021-12-12,Hawke's Bay,0,147433,7
-2021-12-12,Manawatu-Wanganui,35951,187479,9
+2021-12-12,Manawatu-Whanganui,35951,187479,9
 2021-12-12,Marlborough,0,36000,2
 2021-12-12,Nelson,95697,86000,2
 2021-12-12,Northland,5893,108050,20
@@ -265,7 +252,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-19,Canterbury,106240,450200,8
 2021-12-19,Gisborne,53600,37000,1
 2021-12-19,Hawke's Bay,42440,139400,3
-2021-12-19,Manawatu-Wanganui,2611,187479,9
+2021-12-19,Manawatu-Whanganui,2611,187479,9
 2021-12-19,Marlborough,0,36000,2
 2021-12-19,Nelson,21267,86000,2
 2021-12-19,Northland,5216,108050,20
@@ -281,7 +268,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-26,Canterbury,75014,478200,9
 2021-12-26,Gisborne,53600,37000,1
 2021-12-26,Hawke's Bay,40127,147433,7
-2021-12-26,Manawatu-Wanganui,0,187479,9
+2021-12-26,Manawatu-Whanganui,0,187479,9
 2021-12-26,Marlborough,0,36000,2
 2021-12-26,Nelson,0,86000,2
 2021-12-26,Northland,46313,106250,19
@@ -297,7 +284,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-02,Canterbury,160214,447800,7
 2022-01-02,Gisborne,0,37000,1
 2022-01-02,Hawke's Bay,80665,146683,7
-2022-01-02,Manawatu-Wanganui,0,159700,4
+2022-01-02,Manawatu-Whanganui,0,159700,4
 2022-01-02,Marlborough,0,31000,1
 2022-01-02,Nelson,0,26000,1
 2022-01-02,Northland,85763,88800,8
@@ -312,7 +299,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-09,Canterbury,75014,478200,9
 2022-01-09,Gisborne,0,37000,1
 2022-01-09,Hawke's Bay,0,146900,6
-2022-01-09,Manawatu-Wanganui,0,159700,4
+2022-01-09,Manawatu-Whanganui,0,159700,4
 2022-01-09,Nelson,0,26000,1
 2022-01-09,Northland,550,91200,10
 2022-01-09,Otago,0,161500,4
@@ -326,7 +313,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-16,Canterbury,0,450200,8
 2022-01-16,Gisborne,0,37000,1
 2022-01-16,Hawke's Bay,0,139400,3
-2022-01-16,Manawatu-Wanganui,2611,187479,9
+2022-01-16,Manawatu-Whanganui,2611,187479,9
 2022-01-16,Marlborough,0,36000,2
 2022-01-16,Nelson,0,86000,2
 2022-01-16,Northland,23673,103050,19
@@ -342,7 +329,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-23,Canterbury,0,478200,9
 2022-01-23,Gisborne,80400,37000,1
 2022-01-23,Hawke's Bay,306031,146900,6
-2022-01-23,Manawatu-Wanganui,0,187479,9
+2022-01-23,Manawatu-Whanganui,0,187479,9
 2022-01-23,Marlborough,0,36000,2
 2022-01-23,Nelson,0,86000,2
 2022-01-23,Northland,12274,108050,20
@@ -358,7 +345,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-30,Canterbury,150029,478200,9
 2022-01-30,Gisborne,167418,37000,1
 2022-01-30,Hawke's Bay,79036,139400,3
-2022-01-30,Manawatu-Wanganui,12801,187479,9
+2022-01-30,Manawatu-Whanganui,12801,187479,9
 2022-01-30,Marlborough,0,36000,2
 2022-01-30,Nelson,0,86000,2
 2022-01-30,Northland,10630,108050,20
@@ -374,7 +361,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-02-06,Canterbury,74874,479100,10
 2022-02-06,Gisborne,111086,37000,1
 2022-02-06,Hawke's Bay,179669,147216,8
-2022-02-06,Manawatu-Wanganui,0,187479,9
+2022-02-06,Manawatu-Whanganui,0,187479,9
 2022-02-06,Marlborough,0,36000,2
 2022-02-06,Nelson,0,86000,2
 2022-02-06,Northland,4886,107350,19
@@ -390,7 +377,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-02-13,Canterbury,100044,479100,10
 2022-02-13,Gisborne,3313024,37000,1
 2022-02-13,Hawke's Bay,144094,147856,9
-2022-02-13,Manawatu-Wanganui,106610,187479,9
+2022-02-13,Manawatu-Whanganui,106610,187479,9
 2022-02-13,Marlborough,219260,36000,2
 2022-02-13,Nelson,0,86000,2
 2022-02-13,Northland,163732,42350,18
@@ -406,7 +393,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-02-20,Canterbury,339295,479100,10
 2022-02-20,Gisborne,1965953,37000,1
 2022-02-20,Hawke's Bay,525264,147856,9
-2022-02-20,Manawatu-Wanganui,92788,187479,9
+2022-02-20,Manawatu-Whanganui,92788,187479,9
 2022-02-20,Marlborough,219260,36000,2
 2022-02-20,Nelson,1525326,86000,2
 2022-02-20,Northland,451008,108050,20
@@ -422,7 +409,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-02-27,Canterbury,2314422,497100,11
 2022-02-27,Gisborne,2275288,37000,1
 2022-02-27,Hawke's Bay,3033422,147856,9
-2022-02-27,Manawatu-Wanganui,1119811,185822,8
+2022-02-27,Manawatu-Whanganui,1119811,185822,8
 2022-02-27,Marlborough,1157503,36000,2
 2022-02-27,Nelson,1467799,86000,2
 2022-02-27,Northland,4080099,107350,19
@@ -438,7 +425,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-03-06,Canterbury,6489642,497100,11
 2022-03-06,Gisborne,24910180,37000,1
 2022-03-06,Hawke's Bay,10465661,147856,9
-2022-03-06,Manawatu-Wanganui,20870701,171479,8
+2022-03-06,Manawatu-Whanganui,20870701,171479,8
 2022-03-06,Marlborough,5853620,36000,2
 2022-03-06,Nelson,7313881,86000,2
 2022-03-06,Northland,24171743,107350,19
@@ -454,7 +441,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-03-13,Canterbury,6870107,497100,11
 2022-03-13,Gisborne,75853403,37000,1
 2022-03-13,Hawke's Bay,58394873,147856,9
-2022-03-13,Manawatu-Wanganui,28904345,187479,9
+2022-03-13,Manawatu-Whanganui,28904345,187479,9
 2022-03-13,Marlborough,12375948,36000,2
 2022-03-13,Nelson,17987465,86000,2
 2022-03-13,Northland,12956013,100530,12
@@ -470,7 +457,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-03-20,Canterbury,12197818,497100,11
 2022-03-20,Gisborne,32906396,37000,1
 2022-03-20,Hawke's Bay,88911034,147856,9
-2022-03-20,Manawatu-Wanganui,17120715,185822,8
+2022-03-20,Manawatu-Whanganui,17120715,185822,8
 2022-03-20,Marlborough,13226513,36000,2
 2022-03-20,Nelson,13186061,86000,2
 2022-03-20,Northland,4527641,100530,12
@@ -486,7 +473,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-03-27,Canterbury,11097323,497100,11
 2022-03-27,Gisborne,12622289,37000,1
 2022-03-27,Hawke's Bay,18793828,147006,7
-2022-03-27,Manawatu-Wanganui,12741156,185822,8
+2022-03-27,Manawatu-Whanganui,12741156,185822,8
 2022-03-27,Marlborough,22742598,31000,1
 2022-03-27,Nelson,7807310,86000,2
 2022-03-27,Northland,8996205,100530,12
@@ -502,7 +489,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-04-03,Canterbury,10255596,497100,11
 2022-04-03,Gisborne,8394207,37000,1
 2022-04-03,Hawke's Bay,14814923,147856,9
-2022-04-03,Manawatu-Wanganui,23619884,187479,9
+2022-04-03,Manawatu-Whanganui,23619884,187479,9
 2022-04-03,Marlborough,19296536,31000,1
 2022-04-03,Nelson,6556980,86000,2
 2022-04-03,Northland,10196299,92600,10
@@ -518,7 +505,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-04-10,Canterbury,17349944,497100,11
 2022-04-10,Gisborne,14933718,37000,1
 2022-04-10,Hawke's Bay,12546092,147856,9
-2022-04-10,Manawatu-Wanganui,11750975,187479,9
+2022-04-10,Manawatu-Whanganui,11750975,187479,9
 2022-04-10,Marlborough,15973986,36000,2
 2022-04-10,Nelson,5206443,86000,2
 2022-04-10,Northland,5951806,90630,10
@@ -534,7 +521,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-04-17,Canterbury,4518463,497100,11
 2022-04-17,Gisborne,5353206,37000,1
 2022-04-17,Hawke's Bay,12705462,147856,9
-2022-04-17,Manawatu-Wanganui,12805487,169849,7
+2022-04-17,Manawatu-Whanganui,12805487,169849,7
 2022-04-17,Marlborough,24520099,36000,2
 2022-04-17,Nelson,3145380,86000,2
 2022-04-17,Northland,10943468,31030,10
@@ -550,7 +537,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-04-24,Canterbury,10130397,497100,11
 2022-04-24,Gisborne,5165760,37000,1
 2022-04-24,Hawke's Bay,6894646,147856,9
-2022-04-24,Manawatu-Wanganui,14596236,171479,8
+2022-04-24,Manawatu-Whanganui,14596236,171479,8
 2022-04-24,Marlborough,6438854,36000,2
 2022-04-24,Nelson,17368984,26000,1
 2022-04-24,Northland,10387292,95030,10
@@ -566,7 +553,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-05-01,Canterbury,11692522,497100,11
 2022-05-01,Gisborne,8078590,37000,1
 2022-05-01,Hawke's Bay,12765867,147856,9
-2022-05-01,Manawatu-Wanganui,9518199,171479,8
+2022-05-01,Manawatu-Whanganui,9518199,171479,8
 2022-05-01,Marlborough,2871394,31000,1
 2022-05-01,Nelson,9561293,86000,2
 2022-05-01,Northland,5151176,96030,11
@@ -582,7 +569,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-05-08,Canterbury,18294928,497100,11
 2022-05-08,Gisborne,4912132,37000,1
 2022-05-08,Hawke's Bay,14159946,147856,9
-2022-05-08,Manawatu-Wanganui,9127881,171479,8
+2022-05-08,Manawatu-Whanganui,9127881,171479,8
 2022-05-08,Marlborough,17147146,31000,1
 2022-05-08,Nelson,9715568,86000,2
 2022-05-08,Northland,2985139,100530,12
@@ -598,7 +585,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-05-15,Canterbury,9762396,497100,11
 2022-05-15,Gisborne,8808240,37000,1
 2022-05-15,Hawke's Bay,12223706,147856,9
-2022-05-15,Manawatu-Wanganui,9039993,171479,8
+2022-05-15,Manawatu-Whanganui,9039993,171479,8
 2022-05-15,Marlborough,19422560,36000,2
 2022-05-15,Nelson,11713405,86000,2
 2022-05-15,Northland,6942876,95030,10
@@ -614,7 +601,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-05-22,Canterbury,20517257,497100,11
 2022-05-22,Gisborne,8843982,37000,1
 2022-05-22,Hawke's Bay,12822098,147856,9
-2022-05-22,Manawatu-Wanganui,7754231,169822,7
+2022-05-22,Manawatu-Whanganui,7754231,169822,7
 2022-05-22,Marlborough,28212507,36000,2
 2022-05-22,Nelson,6584892,86000,2
 2022-05-22,Northland,3216856,79030,7
@@ -630,7 +617,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-05-29,Canterbury,13891469,497100,11
 2022-05-29,Gisborne,4068894,37000,1
 2022-05-29,Hawke's Bay,12042070,147539,8
-2022-05-29,Manawatu-Wanganui,13413380,169822,7
+2022-05-29,Manawatu-Whanganui,13413380,169822,7
 2022-05-29,Marlborough,20322089,36000,2
 2022-05-29,Nelson,5253682,86000,2
 2022-05-29,Northland,2924745,79030,7
@@ -646,7 +633,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-06-05,Canterbury,14432462,469100,10
 2022-06-05,Gisborne,2410868,37000,1
 2022-06-05,Hawke's Bay,5930865,147856,9
-2022-06-05,Manawatu-Wanganui,3514479,169849,7
+2022-06-05,Manawatu-Whanganui,3514479,169849,7
 2022-06-05,Marlborough,12505389,36000,2
 2022-06-05,Nelson,3835229,86000,2
 2022-06-05,Northland,4725463,79030,7
@@ -662,7 +649,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-06-12,Canterbury,9707859,497100,11
 2022-06-12,Gisborne,1155068,37000,1
 2022-06-12,Hawke's Bay,10711610,147856,9
-2022-06-12,Manawatu-Wanganui,6090201,171479,8
+2022-06-12,Manawatu-Whanganui,6090201,171479,8
 2022-06-12,Marlborough,13543460,36000,2
 2022-06-12,Nelson,8812021,26000,1
 2022-06-12,Northland,3471236,79030,7
@@ -678,7 +665,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-06-19,Canterbury,9885073,497100,11
 2022-06-19,Gisborne,488186,37000,1
 2022-06-19,Hawke's Bay,7571375,147856,9
-2022-06-19,Manawatu-Wanganui,4517505,171479,8
+2022-06-19,Manawatu-Whanganui,4517505,171479,8
 2022-06-19,Marlborough,3190919,31000,1
 2022-06-19,Nelson,7261077,86000,2
 2022-06-19,Northland,1116294,79030,7
@@ -693,7 +680,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-06-26,Canterbury,11853112,497100,11
 2022-06-26,Gisborne,1586860,37000,1
 2022-06-26,Hawke's Bay,7881412,147856,9
-2022-06-26,Manawatu-Wanganui,6583665,171479,8
+2022-06-26,Manawatu-Whanganui,6583665,171479,8
 2022-06-26,Marlborough,2519324,36000,2
 2022-06-26,Nelson,8067071,86000,2
 2022-06-26,Northland,1701910,79030,7
@@ -709,7 +696,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-07-03,Canterbury,16776511,497100,11
 2022-07-03,Gisborne,8456428,37000,1
 2022-07-03,Hawke's Bay,21651818,147856,9
-2022-07-03,Manawatu-Wanganui,6363883,171479,8
+2022-07-03,Manawatu-Whanganui,6363883,171479,8
 2022-07-03,Marlborough,8135128,36000,2
 2022-07-03,Nelson,8726073,86000,2
 2022-07-03,Northland,4198269,79030,7
@@ -725,7 +712,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-07-10,Canterbury,28760721,497100,11
 2022-07-10,Gisborne,12651250,37000,1
 2022-07-10,Hawke's Bay,64270875,147856,9
-2022-07-10,Manawatu-Wanganui,25946389,171479,8
+2022-07-10,Manawatu-Whanganui,25946389,171479,8
 2022-07-10,Marlborough,17425867,36000,2
 2022-07-10,Nelson,23349718,86000,2
 2022-07-10,Northland,13331805,79030,7
@@ -741,7 +728,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-07-17,Canterbury,14074660,497100,11
 2022-07-17,Gisborne,16949407,37000,1
 2022-07-17,Hawke's Bay,19085200,147856,9
-2022-07-17,Manawatu-Wanganui,6451667,171479,8
+2022-07-17,Manawatu-Whanganui,6451667,171479,8
 2022-07-17,Marlborough,7995580,36000,2
 2022-07-17,Nelson,9300738,26000,1
 2022-07-17,Northland,5463135,79030,7
@@ -757,7 +744,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-07-24,Canterbury,28352735,497100,11
 2022-07-24,Gisborne,12217392,37000,1
 2022-07-24,Hawke's Bay,18200174,147856,9
-2022-07-24,Manawatu-Wanganui,10465367,171479,8
+2022-07-24,Manawatu-Whanganui,10465367,171479,8
 2022-07-24,Marlborough,13926067,36000,2
 2022-07-24,Nelson,6145800,86000,2
 2022-07-24,Northland,4578592,79030,7
@@ -773,7 +760,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-07-31,Canterbury,13952329,494700,10
 2022-07-31,Gisborne,4580825,37000,1
 2022-07-31,Hawke's Bay,15238520,147856,9
-2022-07-31,Manawatu-Wanganui,9120854,171479,8
+2022-07-31,Manawatu-Whanganui,9120854,171479,8
 2022-07-31,Marlborough,9764176,36000,2
 2022-07-31,Nelson,12374063,26000,1
 2022-07-31,Northland,4921316,79030,7
@@ -789,7 +776,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-08-07,Canterbury,11067003,490800,9
 2022-08-07,Gisborne,4871210,37000,1
 2022-08-07,Hawke's Bay,13771879,143456,8
-2022-08-07,Manawatu-Wanganui,9409126,171479,8
+2022-08-07,Manawatu-Whanganui,9409126,171479,8
 2022-08-07,Marlborough,6789085,36000,2
 2022-08-07,Nelson,4165617,86000,2
 2022-08-07,Northland,9686422,79030,7
@@ -800,3 +787,19 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-08-07,Waikato,5818585,243300,7
 2022-08-07,Wellington,11656305,485579,11
 2022-08-07,West Coast,30397230,18900,4
+2022-08-14,Auckland,6929238,1372580,10
+2022-08-14,Bay of Plenty,9497083,225920,10
+2022-08-14,Canterbury,6066791,493800,9
+2022-08-14,Gisborne,6848610,37000,1
+2022-08-14,Hawke's Bay,9090760,147856,9
+2022-08-14,Manawatu-Whanganui,7171249,171479,8
+2022-08-14,Marlborough,6546347,36000,2
+2022-08-14,Nelson,7774018,86000,2
+2022-08-14,Northland,7674035,74030,6
+2022-08-14,Otago,5855878,193400,8
+2022-08-14,Southland,15540787,60000,3
+2022-08-14,Taranaki,6628271,106856,8
+2022-08-14,Tasman,9361650,8300,1
+2022-08-14,Waikato,4823755,243300,7
+2022-08-14,Wellington,4351304,485579,11
+2022-08-14,West Coast,2083567,13900,3

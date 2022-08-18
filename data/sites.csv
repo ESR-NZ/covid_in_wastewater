@@ -22,7 +22,7 @@ BP_Maketu,Maketu,Autosampler,-37.767056,176.466736,1300,Bay of Plenty,Maketu - M
 BP_Opotiki,Opotiki,Grab,-37.994747,177.276978,3800,Bay of Plenty,Opotiki - Opotiki
 BP_Rotorua,Rotorua,Autosampler,-38.145237,176.264511,59000,Bay of Plenty,Rotorua - Rotorua
 BP_Tauranga,Tauranga,Autosampler,-37.672436,176.163956,50000,Bay of Plenty,Tauranga - Tauranga
-BP_TeMaunga,Mt Maunganaui,Autosampler,-37.688576,176.229858,65000,Bay of Plenty,Tauranga - Te Maunga
+BP_TeMaunga,Mt Maunganui/Papamoa,Autosampler,-37.688576,176.229858,65000,Bay of Plenty,Tauranga - Te Maunga
 BP_TePuke,Te Puke,Autosampler,-37.782524,176.337112,9700,Bay of Plenty,Te Puke - Te Puke
 BP_WaihiBeach,Waihi Beach,Autosampler,-37.42762,175.938263,3600,Bay of Plenty,Waihi Beach - Waihi Beach
 BP_Whakatane,Whakatane,Autosampler,-37.948666,176.959686,21020,Bay of Plenty,Whakatane - Whakatane
@@ -49,15 +49,15 @@ HB_Waipukurau,Waipukurau,Autosampler,-39.99181,176.578415,4610,Hawke's Bay,Waipu
 HB_Wairoa,Wairoa,Grab,-39.059113,177.411362,4400,Hawke's Bay,Wairoa - Wairoa
 MA_Blenheim,Blenheim,Autosampler,-41.52644,174.067734,31000,Marlborough,Blenheim - Blenheim
 MA_Picton,Picton,Autosampler,-41.291386,174.003677,5000,Marlborough,Picton - Picton
-MW_Dannevirke,Dannevirke,Grab,-40.223381,176.094696,5696,Manawatu-Wanganui,Dannevirke - Dannevirke
-MW_Eketahuna,Eketahuna,Grab,-40.643101,175.6978,1630,Manawatu-Wanganui,Eketahuna - Eketahuna
-MW_Feilding,Feilding,Autosampler,-40.251778,175.549438,16000,Manawatu-Wanganui,Fielding - Fielding
-MW_Levin,Levin,Autosampler,-40.619377,175.261154,21200,Manawatu-Wanganui,Levin - Levin
-MW_Pahiatua,Pahiatua,Grab,-40.443943,175.841156,2796,Manawatu-Wanganui,Pahiatua - Pahiatua
-MW_PalmerstonNorth,Palmerston North,Autosampler,-40.386211,175.580582,90000,Manawatu-Wanganui,Palmerston North - Palmerston North
-MW_Taumarunui,Taumarunui,Grab,-38.894855,175.257543,4000,Manawatu-Wanganui,Taumarunui - Taumarunui
-MW_Whanganui,Whanganui Urban,Autosampler,-39.962879,175.033951,44500,Manawatu-Wanganui,Whanganui - Whanganui
-MW_Woodville,Woodville,Grab,-40.341125,175.85437,1657,Manawatu-Wanganui,Woodville - Woodville
+MW_Dannevirke,Dannevirke,Grab,-40.223381,176.094696,5696,Manawatu-Whanganui,Dannevirke - Dannevirke
+MW_Eketahuna,Eketahuna,Grab,-40.643101,175.6978,1630,Manawatu-Whanganui,Eketahuna - Eketahuna
+MW_Feilding,Feilding,Autosampler,-40.251778,175.549438,16000,Manawatu-Whanganui,Fielding - Fielding
+MW_Levin,Levin,Autosampler,-40.619377,175.261154,21200,Manawatu-Whanganui,Levin - Levin
+MW_Pahiatua,Pahiatua,Grab,-40.443943,175.841156,2796,Manawatu-Whanganui,Pahiatua - Pahiatua
+MW_PalmerstonNorth,Palmerston North,Autosampler,-40.386211,175.580582,90000,Manawatu-Whanganui,Palmerston North - Palmerston North
+MW_Taumarunui,Taumarunui,Grab,-38.894855,175.257543,4000,Manawatu-Whanganui,Taumarunui - Taumarunui
+MW_Whanganui,Whanganui,Autosampler,-39.962879,175.033951,44500,Manawatu-Whanganui,Whanganui - Whanganui
+MW_Woodville,Woodville,Grab,-40.341125,175.85437,1657,Manawatu-Whanganui,Woodville - Woodville
 NE_BellIsland,Richmond/Nelson South,Autosampler,-41.296635,173.175674,60000,Nelson,NA
 NE_Nelson,Nelson Central/North ,Autosampler,-41.203312,173.328369,26000,Nelson,Nelson - Nelson
 NO_Ahipara,Ahipara,Grab,-35.168129,173.159744,1200,Northland,Far North - Ahipara
@@ -78,7 +78,7 @@ NO_Rawene,Rawene,Grab,-35.414963,173.501389,1800,Northland,Far North - Rawene
 NO_Ruakaka,Ruakaka,Grab,-35.867054,174.46965,4500,Northland,Ruakaka - Ruakaka-Marsden
 NO_Russell,Russell,Grab,-35.269054,174.136658,500,Northland,Far North - Russell
 NO_Taipa,Taipa,Grab,-35.006378,173.443146,320,Northland,Far North - Mangonui
-NO_Whangarei,Whangarei ,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
+NO_Whangarei,Whangarei,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
 NO_Whatuwhiwhi,Whatuwhiwhi,Grab,-34.866497,173.367615,1200,Northland,Far North - Tokerau Beach
 OT_Alexandra,Alexandra,Autosampler,-45.263279,169.398895,6200,Otago,Alexandra - Alexandra
 OT_Balclutha,Balclutha,Grab,-46.260948,169.736542,4100,Otago,Balclutha - Balclutha
@@ -109,7 +109,7 @@ WG_Carterton,Carterton,Grab,-41.041958,175.500229,5800,Wellington,Carterton - Ca
 WG_Featherston,Featherston,Grab,-41.136551,175.323868,2500,Wellington,Featherston - Featherston
 WG_Greytown,Greytown,Grab,-41.102871,175.491623,2438,Wellington,Greytown - Greytown
 WG_Karori,Wellington (Western),Autosampler,-41.309223,174.699707,14000,Wellington,Wellington - Western
-WG_Martinborough,Martinborough,Autosampler/grab,-41.211155,175.440247,1641,Wellington,Martinborough - Martinborough
+WG_Martinborough,Martinborough,Auto/grab,-41.211155,175.440247,1641,Wellington,Martinborough - Martinborough
 WG_Masterton,Masterton,Grab,-40.988373,175.682724,20700,Wellington,Masterton - Masterton
 WG_MoaPoint,Wellington (Moa Point),Autosampler,-41.336052,174.811508,168000,Wellington,Wellington - Moa Point
 WG_Otaki,Otaki,Grab,-40.761616,175.149734,3500,Wellington,Kapiti - Otaki
@@ -124,7 +124,7 @@ WK_Ngatea,Ngatea,Grab ,-37.288311,175.491638,1452,Waikato,Waikato - Ngatea
 WK_Otorohanga,Otorohanga,Grab ,-38.183308,175.211121,2885,Waikato,Waikato - Otorohanga
 WK_Paeroa,Paeroa,Grab ,-37.348923,175.662308,6114,Waikato,Waikato - Paeroa
 WK_Putaruru,Putaruru,Grab,-38.035923,175.784348,4099,Waikato,Waikato - Putaruru
-WK_Taupo,Taupo,Autosampler/Grab,-38.675884,176.078995,23000,Waikato,Taupo - Taupo
+WK_Taupo,Taupo,Auto/grab,-38.675884,176.078995,23000,Waikato,Taupo - Taupo
 WK_TeAwamutu,Te Awamutu,Autosampler,-37.995838,175.294739,13100,Waikato,Waikato - Te Awamutu
 WK_TeKuiti,Te Kuiti,Autosampler,-38.314751,175.151428,4909,Waikato,NA
 WK_Thames,Thames,Autosampler,-37.14632,175.546707,7500,Waikato,Thames - Thames
