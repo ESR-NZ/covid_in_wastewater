@@ -1,8 +1,5 @@
 week_end_date,Region,case_7d_avg
-2021-08-29,Auckland,55
-2021-08-29,Waikato,1
-2021-09-05,Auckland,38
-2021-09-05,Wellington,1
+2021-09-05,Auckland,19
 2021-09-12,Auckland,22
 2021-09-12,Canterbury,2
 2021-09-19,Auckland,18
@@ -271,7 +268,7 @@ week_end_date,Region,case_7d_avg
 2022-03-20,Wellington,2132
 2022-03-20,West Coast,39
 2022-03-20,NA,203
-2022-03-27,Auckland,3047
+2022-03-27,Auckland,3048
 2022-03-27,Bay of Plenty,1221
 2022-03-27,Canterbury,2940
 2022-03-27,Gisborne,252
@@ -324,7 +321,7 @@ week_end_date,Region,case_7d_avg
 2022-04-10,NA,109
 2022-04-17,Auckland,1582
 2022-04-17,Bay of Plenty,469
-2022-04-17,Canterbury,1514
+2022-04-17,Canterbury,1515
 2022-04-17,Gisborne,67
 2022-04-17,Hawke's Bay,280
 2022-04-17,Manawatu-Whanganui,504
@@ -543,7 +540,7 @@ week_end_date,Region,case_7d_avg
 2022-07-10,Wellington,1250
 2022-07-10,West Coast,55
 2022-07-10,NA,75
-2022-07-17,Auckland,3048
+2022-07-17,Auckland,3049
 2022-07-17,Bay of Plenty,567
 2022-07-17,Canterbury,1551
 2022-07-17,Gisborne,72
@@ -622,7 +619,7 @@ week_end_date,Region,case_7d_avg
 2022-08-14,Northland,138
 2022-08-14,Otago,227
 2022-08-14,Southland,63
-2022-08-14,Taranaki,109
+2022-08-14,Taranaki,108
 2022-08-14,Tasman,14
 2022-08-14,Waikato,400
 2022-08-14,Wellington,406
@@ -653,7 +650,7 @@ week_end_date,Region,case_7d_avg
 2022-08-28,Manawatu-Whanganui,113
 2022-08-28,Marlborough,15
 2022-08-28,Nelson,45
-2022-08-28,Northland,69
+2022-08-28,Northland,68
 2022-08-28,Otago,117
 2022-08-28,Southland,34
 2022-08-28,Taranaki,67
@@ -662,3 +659,20 @@ week_end_date,Region,case_7d_avg
 2022-08-28,Wellington,230
 2022-08-28,West Coast,15
 2022-08-28,NA,22
+2022-09-04,Auckland,737
+2022-09-04,Bay of Plenty,91
+2022-09-04,Canterbury,233
+2022-09-04,Gisborne,26
+2022-09-04,Hawke's Bay,43
+2022-09-04,Manawatu-Whanganui,90
+2022-09-04,Marlborough,11
+2022-09-04,Nelson,28
+2022-09-04,Northland,63
+2022-09-04,Otago,84
+2022-09-04,Southland,25
+2022-09-04,Taranaki,53
+2022-09-04,Tasman,6
+2022-09-04,Waikato,159
+2022-09-04,Wellington,194
+2022-09-04,West Coast,11
+2022-09-04,NA,18
