@@ -110,6 +110,16 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   shp_label: a unique identifier for the catchment polygons.
 
+**variants.csv**
+
+- SampleLocation: wastewater testing site name ("AU_Rosedale").
+
+- WeekEndDate: end of week date for week covered between Monday-Sunday (YYYY-MM-DD).
+
+- BA.1, BA.2 etc.: proportion of each variant. 
+
+***Note:*** Variant analysis for wastewater is an emergent field. For further guidance, please refer to the 'Estimated variant prevalence' notes on the [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/#page=About).
+
 ### Raw Wastewater Data
 
 **ww_data_all.csv**

@@ -1,17 +1,4 @@
 week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
-2021-10-24,Auckland,1184941,1449310,16
-2021-10-24,Bay of Plenty,0,197900,8
-2021-10-24,Canterbury,0,403000,2
-2021-10-24,Gisborne,0,37000,1
-2021-10-24,Hawke's Bay,0,139400,3
-2021-10-24,Manawatu-Whanganui,0,134500,2
-2021-10-24,Nelson,0,86000,2
-2021-10-24,Northland,0,107550,19
-2021-10-24,Otago,0,161500,4
-2021-10-24,Southland,0,50000,1
-2021-10-24,Taranaki,0,112500,5
-2021-10-24,Waikato,158078,283493,13
-2021-10-24,Wellington,0,386000,3
 2021-10-31,Auckland,987604,1449310,16
 2021-10-31,Bay of Plenty,20519,215120,8
 2021-10-31,Canterbury,109914,460100,6
@@ -24,7 +11,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-10-31,Otago,0,161500,4
 2021-10-31,Southland,0,50000,1
 2021-10-31,Taranaki,0,112500,5
-2021-10-31,Waikato,332942,283493,13
+2021-10-31,Waikato,338809,278584,12
 2021-10-31,Wellington,0,435000,4
 2021-11-07,Auckland,1031301,1449310,16
 2021-11-07,Bay of Plenty,117251,218920,9
@@ -38,7 +25,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-07,Otago,0,165600,5
 2021-11-07,Southland,0,50000,1
 2021-11-07,Taranaki,52754,112500,5
-2021-11-07,Waikato,184475,283493,13
+2021-11-07,Waikato,184284,278584,12
 2021-11-07,Wellington,0,435000,4
 2021-11-14,Auckland,242911,1449310,16
 2021-11-14,Bay of Plenty,77477,218920,9
@@ -52,7 +39,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-14,Otago,0,161500,4
 2021-11-14,Southland,0,50000,1
 2021-11-14,Taranaki,12840,114750,8
-2021-11-14,Waikato,178093,283493,13
+2021-11-14,Waikato,178179,278584,12
 2021-11-14,Wellington,148804,455700,5
 2021-11-14,West Coast,0,8900,3
 2021-11-21,Auckland,1310379,1449310,16
@@ -67,7 +54,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-21,Otago,0,165600,5
 2021-11-21,Southland,0,50000,1
 2021-11-21,Taranaki,10246,114750,8
-2021-11-21,Waikato,168445,283493,13
+2021-11-21,Waikato,163865,278584,12
 2021-11-21,Wellington,4467,485579,11
 2021-11-21,West Coast,0,18900,4
 2021-11-28,Auckland,1065374,1449310,16
@@ -83,7 +70,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-11-28,Southland,0,50000,1
 2021-11-28,Taranaki,0,114750,8
 2021-11-28,Tasman,0,8300,1
-2021-11-28,Waikato,183141,283493,13
+2021-11-28,Waikato,161221,278584,12
 2021-11-28,Wellington,0,485579,11
 2021-11-28,West Coast,0,18900,4
 2021-12-05,Auckland,139007,330510,12
@@ -99,7 +86,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-05,Southland,0,50000,1
 2021-12-05,Taranaki,130107,114750,8
 2021-12-05,Tasman,0,8300,1
-2021-12-05,Waikato,81144,283493,13
+2021-12-05,Waikato,44841,278584,12
 2021-12-05,Wellington,0,485579,11
 2021-12-05,West Coast,0,18900,4
 2021-12-12,Auckland,311798,1449310,16
@@ -115,7 +102,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-12,Southland,0,50000,1
 2021-12-12,Taranaki,65054,114750,8
 2021-12-12,Tasman,0,8300,1
-2021-12-12,Waikato,65628,283493,13
+2021-12-12,Waikato,52815,278584,12
 2021-12-12,Wellington,0,485579,11
 2021-12-12,West Coast,0,18900,4
 2021-12-19,Auckland,112286,1449310,16
@@ -131,7 +118,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2021-12-19,Southland,0,50000,1
 2021-12-19,Taranaki,173940,116756,9
 2021-12-19,Tasman,0,8300,1
-2021-12-19,Waikato,63973,283493,13
+2021-12-19,Waikato,63379,278584,12
 2021-12-19,Wellington,0,485579,11
 2021-12-19,West Coast,0,18900,4
 2021-12-26,Auckland,326356,1365220,8
@@ -176,7 +163,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-01-09,Otago,0,161500,4
 2022-01-09,Southland,0,50000,1
 2022-01-09,Taranaki,132709,112500,5
-2022-01-09,Waikato,28068,262509,10
+2022-01-09,Waikato,21683,257600,9
 2022-01-09,Wellington,0,471579,10
 2022-01-09,West Coast,0,10000,1
 2022-01-16,Auckland,93389,306050,10
@@ -798,7 +785,7 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-10-09,Waikato,1308932,243300,7
 2022-10-09,Wellington,6192311,485579,11
 2022-10-09,West Coast,2090137,13900,3
-2022-10-16,Auckland,3875251,1398660,10
+2022-10-16,Auckland,4457366,1398660,10
 2022-10-16,Bay of Plenty,8919573,216820,8
 2022-10-16,Canterbury,6045292,492000,8
 2022-10-16,Gisborne,3945678,37000,1
@@ -813,3 +800,18 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2022-10-16,Waikato,1962864,243300,7
 2022-10-16,Wellington,12827330,485579,11
 2022-10-16,West Coast,1026302,11000,2
+2022-10-23,Auckland,5077192,1390760,9
+2022-10-23,Bay of Plenty,3672128,216820,8
+2022-10-23,Canterbury,2886488,492000,8
+2022-10-23,Gisborne,2971576,37000,1
+2022-10-23,Hawke's Bay,3063673,147856,9
+2022-10-23,Manawatu-Whanganui,3865208,167053,6
+2022-10-23,Marlborough,1323166,36000,2
+2022-10-23,Nelson,3397402,26000,1
+2022-10-23,Northland,3064956,79030,7
+2022-10-23,Otago,2939983,193400,8
+2022-10-23,Southland,4859308,60000,3
+2022-10-23,Taranaki,4534740,102006,3
+2022-10-23,Waikato,1821574,243300,7
+2022-10-23,Wellington,12280071,485579,11
+2022-10-23,West Coast,128629,11000,2
