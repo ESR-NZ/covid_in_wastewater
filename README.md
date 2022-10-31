@@ -1,6 +1,6 @@
 # Aotearoa Wastewater Surveillance Programme
 
-This git repo provides data sets used to support The Institution of Environmental Science & Research (ESR) [wastewater surveillance programme](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results) testing for SARS-CoV-2 and [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/). We provide wastewater SARS-CoV-2 concentrations, associated clinical case data and geographic metadata.
+This git repo provides data sets used to support The Institute of Environmental Science & Research (ESR) [wastewater surveillance programme](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results) testing for SARS-CoV-2 and [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/). We provide wastewater SARS-CoV-2 concentrations, associated clinical case data and geographic metadata.
 
 Funding for the dashboard and data repository was provided by the [Ministry of Health](https://www.health.govt.nz/).
 
@@ -8,7 +8,7 @@ Funding for the dashboard and data repository was provided by the [Ministry of H
 
 The SARS-CoV-2 wastewater surveillance programme was launched to monitor and track potential cases of COVID-19 in Aotearoa. From 2020 this has aided Aotearoa's ability to identify potential outbreaks and is now being used to track viral load in communities and monitor variants. The methods used for the identifications of SAR-CoV-2 in wastewater are described in [Hewitt et al 2022](https://www.sciencedirect.com/science/article/pii/S0043135421012264).
 
-Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change due to (Jo Chapman maybe flesh this out).
+Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change.
 
 Most samples are collected by an autosampler, which collects a small volume of wastewater at regular intervals over the course of a 25-hour period. When composite samplers are not available, 'grab' samples are collected. These range from a sample being taken at a single point in time, to 3 samples taken over 30 minutes, to multiple samples collected over a day. Grab samples represent only the composition of the sources at that time of collection and may not be as representative as a 24-hour composite sample. More variation may be expected with grab samples, samples collected from smaller catchments (an individual case can have a disproportionately large effect on overall viral level in small catchments) and from sites that are only sampled once per week.
 
