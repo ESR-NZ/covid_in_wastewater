@@ -1,6 +1,11 @@
+---
+output:
+  html_document: default
+  word_document: default
+---
 # Aotearoa Wastewater Surveillance Programme
 
-This git repo provides data sets used to support The Institution of Environmental Science & Research (ESR) [wastewater surveillance programme](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results) testing for SARS-CoV-2 and [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/). We provide wastewater SARS-CoV-2 concentrations, associated clinical case data and geographic metadata.
+This git repo provides data sets used to support The Institute of Environmental Science & Research (ESR) [wastewater surveillance programme](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results) testing for SARS-CoV-2 and [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/). We provide wastewater SARS-CoV-2 concentrations, associated clinical case data and geographic metadata.
 
 Funding for the dashboard and data repository was provided by the [Ministry of Health](https://www.health.govt.nz/).
 
@@ -8,7 +13,7 @@ Funding for the dashboard and data repository was provided by the [Ministry of H
 
 The SARS-CoV-2 wastewater surveillance programme was launched to monitor and track potential cases of COVID-19 in Aotearoa. From 2020 this has aided Aotearoa's ability to identify potential outbreaks and is now being used to track viral load in communities and monitor variants. The methods used for the identifications of SAR-CoV-2 in wastewater are described in [Hewitt et al 2022](https://www.sciencedirect.com/science/article/pii/S0043135421012264).
 
-Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change due to (Jo Chapman maybe flesh this out).
+Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change. 
 
 Most samples are collected by an autosampler, which collects a small volume of wastewater at regular intervals over the course of a 25-hour period. When composite samplers are not available, 'grab' samples are collected. These range from a sample being taken at a single point in time, to 3 samples taken over 30 minutes, to multiple samples collected over a day. Grab samples represent only the composition of the sources at that time of collection and may not be as representative as a 24-hour composite sample. More variation may be expected with grab samples, samples collected from smaller catchments (an individual case can have a disproportionately large effect on overall viral level in small catchments) and from sites that are only sampled once per week.
 
@@ -16,7 +21,7 @@ The catchment polygons are not included. They are the intellectual property of t
 
 ## Wastewater Data
 
-The wastewater data shows the SARS-CoV-2 genome copies per litre measured from either an autosampler/grab sample (see lab analysis and methodology for more details). To preserve anonymity of sites with small populations we have excluded these from the site specific data. These are however still included in the aggregated regional and national wastewater data.
+The wastewater data shows the SARS-CoV-2 genome copies per litre measured from either an autosampler/grab sample (see lab analysis and methodology for more details). To preserve anonymity of sites with small populations we have excluded these from the site-specific data. These are however still included in the aggregated regional and national wastewater data.
 
 ### Site Aggregation
 
@@ -32,7 +37,7 @@ The averaged normalised site data is aggregated and for a week and weighted by t
 
 ## Clinical Case Data
 
-The cases numbers is calculated by summing up all the new cases reported to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via are collected through NCTS or Episurv, when report date is not available the first non null value from the fields onset date, lab sample date, lab confirmed detection date or earliest date.
+The cases numbers is calculated by summing up all the new cases reported to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via are collected through the National Contact Tracing System (NCTS) or Episurv. When the report date is not available the first non null value from the fields onset date, lab sample date, lab confirmed detection date or earliest date is imputed as the report date.
 
 ## Data Dictionary
 
@@ -50,7 +55,7 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   national_population: the sum of catchment populations covered by testing that week.
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ### Regional Data
 
@@ -68,7 +73,7 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   Region: region name
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 -   n_site: number of sites within the region contributing to each week's data.
 
@@ -80,7 +85,7 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   SampleLocation: wastewater testing site name ("AU_Rosedale").
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ***Note:*** Where meshblocks straddle a watershed between two catchments, the case will be reported for both catchments. To aggregate to higher geographies, please use the *cases_regional.csv* or *cases_national.csv* files to avoid double counting.
 
@@ -90,7 +95,7 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   SampleLocation: wastewater testing site name ("AU_Rosedale").
 
--   case_7d_avg: average number of new COVID-19 cases reported per day using reported date if not available first non-null value for onset date, lab sample date, lab confirm detection or earliest date.
+-   case_7d_avg: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 **sites.csv**
 
@@ -116,7 +121,7 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 - WeekEndDate: end of week date for week covered between Monday-Sunday (YYYY-MM-DD).
 
-- BA.1, BA.2 etc.: proportion of each variant. 
+- BA.1, BA.2 etc.: proportion of each variant.
 
 ***Note:*** Variant analysis for wastewater is an emergent field. For further guidance, please refer to the 'Estimated variant prevalence' notes on the [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/#page=About).
 
@@ -130,13 +135,14 @@ The cases numbers is calculated by summing up all the new cases reported to the 
 
 -   Result: Either "Detected" if SARS-CoV-2 was identified in the wastewater sample or "Not detected".
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ## Laboratory Methodology
 
 Samples are sent from each wastewater treatment plant to ESR. Processing first involves separating the solids from liquid by centrifugation, followed by eluting the virus from the solids. The virus from the solids is then combined with that in the liquid phase and concentrated to a small volume by polyethylene glycol (PEG) precipitation. The viral RNA is extracted using a commercial viral nucleic acid extraction kit. The presence of SARS-CoV-2 RNA in the sample is then determined using RT-qPCR (reverse transcription-quantitative polymerase chain reaction) with the N gene of the SARS-C-2 viral genome. The presence of SARS-CoV-2 is considered detected when any of the RT-qPCR replicates are positive. A result of not detected means that SARS-CoV-2 RNA is either absent from the sample, or at a level too low to be detected.
 
 When SARS-CoV-2 RNA is detected by RT-qPCR, the concentration in the sample is calculated and converted from genome copy per reaction into genome copies per litre of wastewater (i.e., raw data). The unit conversion considers the initial sample volume, final volume of the concentrate used for RNA extraction, final volume of the eluted RNA, and amount of RNA used in the RT-qPCR template. Low amounts of SARS-CoV-2 RNA in a sample may not be able to be accurately quantified and are recorded as 500 genome copies/L.
+
 
 ## Citation
 
@@ -154,7 +160,6 @@ We continue to be indebted to the teams across the country who are collecting th
 
 ESR acknowledges the support of councils and wastewater providers across New Zealand who provide us with samples and staff in the public health services in New Zealand who provide us with data from their regions.
 
-
 ## Terms of Use:
 
 1.  This dataset is owned by the Institute of Environmental Science and Research Limited and licensed for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). This license means that you are free to copy, distribute and adapt the material, as long as you attribute it to the Institute of Environmental Science and Research Limited and abide by the other license terms. This license does not apply to any logos and trade marks on this website – these specific elements may not be reused without the Institute of Environmental Science and Research Limited's prior written consent.
@@ -169,4 +174,4 @@ Data is shared solely for the benefit of the Ministry of Health (MoH), Public He
 
 ## About ESR
 
-The institute of Environmental Science and Research (ESR) is a crown research institute in Aotearoa. ESR provides science services and research capability across a number of science disciplines including; public health, Water and the Environment, Genomics and Social Science.
+The Institute of Environmental Science and Research (ESR) is a crown research institute in Aotearoa. ESR provides science services and research capability across a number of science disciplines including; public Health, Forensics, Water and the Environment, Genomics and Social Science.

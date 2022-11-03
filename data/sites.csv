@@ -8,7 +8,7 @@ AU_KawakawaBay,Kawakawa Bay,Grab,-36.960484,175.172714,600,Auckland,Auckland - K
 AU_Kingseat,Kingseat,Grab,-37.121754,174.794144,130,Auckland,Auckland - Kingseat
 AU_Mangere,Auckland (Combined),Autosampler,-36.965011,174.777565,1150000,Auckland,Auckland - Auckland (Combined)
 AU_Omaha,Omaha,Autosampler,-36.35371,174.747467,1000,Auckland,Auckland - Omaha
-AU_Pukekohe,Pukekohe,Grab,-37.264019,174.914917,20900,Auckland,Auckland - Pukekohe
+AU_Pukekohe,Pukekohe,Autosampler,-37.264019,174.914917,20900,Auckland,Auckland - Pukekohe
 AU_Rosedale,North Shore,Autosampler,-36.749115,174.71579,240000,Auckland,Auckland - Rosedale
 AU_SnellsAlgies,Snells/Algies,Autosampler,-36.421993,174.717865,4000,Auckland,Auckland - Snells Algies
 AU_SouthWestern,Auckland Southwest,Autosampler,-36.967643,174.778084,120000,Auckland,Auckland - Southwestern Interceptor
@@ -19,7 +19,7 @@ AU_Western,Auckland West,Autosampler,-36.953251,174.777333,315000,Auckland,Auckl
 BP_Katikati,Katikati,Autosampler,-37.557453,175.934662,5500,Bay of Plenty,Katikati - Katikati
 BP_Kawerau,Kawerau,Autosampler,-38.072414,176.713272,7000,Bay of Plenty,Kawerau - Kawerau
 BP_Maketu,Maketu,Autosampler,-37.767056,176.466736,1300,Bay of Plenty,Maketu - Maketu
-BP_Opotiki,Opotiki,Grab,-37.994747,177.276978,3800,Bay of Plenty,Opotiki - Opotiki
+BP_Opotiki,Opotiki,Autosampler,-37.994747,177.276978,3800,Bay of Plenty,Opotiki - Opotiki
 BP_Rotorua,Rotorua,Autosampler,-38.145237,176.264511,59000,Bay of Plenty,Rotorua - Rotorua
 BP_Tauranga,Tauranga,Autosampler,-37.672436,176.163956,50000,Bay of Plenty,Tauranga - Tauranga
 BP_TeMaunga,Mt Maunganui/Papamoa,Autosampler,-37.688576,176.229858,65000,Bay of Plenty,Tauranga - Te Maunga
@@ -110,9 +110,9 @@ WG_Featherston,Featherston,Grab,-41.136551,175.323868,2500,Wellington,Feathersto
 WG_Greytown,Greytown,Grab,-41.102871,175.491623,2438,Wellington,Greytown - Greytown
 WG_Karori,Wellington (Western),Autosampler,-41.309223,174.699707,14000,Wellington,Wellington - Western
 WG_Martinborough,Martinborough,Auto/grab,-41.211155,175.440247,1641,Wellington,Martinborough - Martinborough
-WG_Masterton,Masterton,Grab,-40.988373,175.682724,20700,Wellington,Masterton - Masterton
+WG_Masterton,Masterton,Auto/grab,-40.988373,175.682724,20700,Wellington,Masterton - Masterton
 WG_MoaPoint,Wellington (Moa Point),Autosampler,-41.336052,174.811508,168000,Wellington,Wellington - Moa Point
-WG_Otaki,Otaki,Grab,-40.761616,175.149734,3500,Wellington,Kapiti - Otaki
+WG_Otaki,Otaki,Autosampler,-40.761616,175.149734,3500,Wellington,Kapiti - Otaki
 WG_Paraparaumu,Paraparaumu,Autosampler,-40.896881,175.016647,49000,Wellington,Paraparaumu - Paraparaumu
 WG_Porirua,Porirua,Autosampler,-41.11285,174.816101,85000,Wellington,Wellington - Porirua
 WG_Seaview,Hutt Valley,Autosampler,-41.237408,174.905502,133000,Wellington,Wellington - Seaview
