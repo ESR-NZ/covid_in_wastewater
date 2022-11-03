@@ -11,9 +11,10 @@ Funding for the dashboard and data repository was provided by the [Ministry of H
 
 ## About the data
 
-The SARS-CoV-2 wastewater surveillance programme was launched to monitor and track potential cases of COVID-19 in Aotearoa. From 2020 this has aided Aotearoa's ability to identify potential outbreaks and is now being used to track viral load in communities and monitor variants. The methods used for the identifications of SAR-CoV-2 in wastewater are described in [Hewitt et al 2022](https://www.sciencedirect.com/science/article/pii/S0043135421012264).
+The SARS-CoV-2 wastewater surveillance programme was launched to monitor and track potential cases of COVID-19 in Aotearoa. From 2020 this has aided Aotearoa's ability to identify potential outbreaks and is now being used to track viral load in communities and monitor variants. The methods used for the identifications of SARS-CoV-2 in wastewater are described in [Hewitt et al 2022](https://www.sciencedirect.com/science/article/pii/S0043135421012264).
 
-Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change. 
+
+Wastewater sites are selected based on several factors including population and geographic coverage. New sites may be added over time and/or sampling may reduce in frequency or cease for other sites. Typically, samples are collected twice per week from larger wastewater catchments and once a week from smaller towns and communities. This is also subject to change.
 
 Most samples are collected by an autosampler, which collects a small volume of wastewater at regular intervals over the course of a 25-hour period. When composite samplers are not available, 'grab' samples are collected. These range from a sample being taken at a single point in time, to 3 samples taken over 30 minutes, to multiple samples collected over a day. Grab samples represent only the composition of the sources at that time of collection and may not be as representative as a 24-hour composite sample. More variation may be expected with grab samples, samples collected from smaller catchments (an individual case can have a disproportionately large effect on overall viral level in small catchments) and from sites that are only sampled once per week.
 
@@ -37,7 +38,8 @@ The averaged normalised site data is aggregated and for a week and weighted by t
 
 ## Clinical Case Data
 
-The cases numbers is calculated by summing up all the new cases reported to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via are collected through the National Contact Tracing System (NCTS) or Episurv. When the report date is not available the first non null value from the fields onset date, lab sample date, lab confirmed detection date or earliest date is imputed as the report date.
+
+Case numbers are calculated by summing up all the new cases reported to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via are collected through NCTS or [EpiSurv](https://surv.esr.cri.nz/episurv/index.php), when report date is not available the first non null value from the fields onset date, lab sample date, lab confirmed detection date or earliest date.
 
 ## Data Dictionary
 
