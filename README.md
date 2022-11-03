@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  word_document: default
----
 # Aotearoa Wastewater Surveillance Programme
 
 This git repo provides data sets used to support The Institute of Environmental Science & Research (ESR) [wastewater surveillance programme](https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results) testing for SARS-CoV-2 and [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/). We provide wastewater SARS-CoV-2 concentrations, associated clinical case data and geographic metadata.
