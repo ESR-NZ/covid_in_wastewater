@@ -112,15 +112,21 @@ Case numbers are calculated by summing up all the new cases reported to the Mini
 
 -   shp_label: a unique identifier for the catchment polygons.
 
-**variants.csv**
 
-- SampleLocation: wastewater testing site name ("AU_Rosedale").
+**variants_last_two_weeks.csv**
 
-- WeekEndDate: end of week date for week covered between Monday-Sunday (YYYY-MM-DD).
+- variant: variant name
 
-- BA.1, BA.2 etc.: proportion of each variant.
+- DisplayName: site display name used on the variants chart
 
-***Note:*** Variant analysis for wastewater is an emergent field. For further guidance, please refer to the 'Estimated variant prevalence' notes on the [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/#page=About).
+- detected: boolean (true or false) to indicate whether the variant was detected
+
+***Note:*** Variant analysis for wastewater is an emergent field. Due to the increasing complexity of variants in the population, each at relatively low levels, the current approach for sequencing wastewater samples is no longer precise enough to report as percentages for each variant at the sentinel site level. Instead, the presence of each lineage is reported. 
+
+ESR are actively testing and developing methods to address the current uncertainty and increase the resolution at which variants can be identified in wastewater.
+
+For further guidance, please refer to the 'Estimated variant prevalence' notes on the [wastewater dashboard](https://esr-cri.shinyapps.io/wastewater/#page=About).
+
 
 ### Raw Wastewater Data
 
