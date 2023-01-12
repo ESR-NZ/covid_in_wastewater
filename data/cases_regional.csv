@@ -1,26 +1,8 @@
 week_end_date,Region,case_7d_avg
-2021-12-12,Auckland,60
-2021-12-12,Bay of Plenty,1
-2021-12-12,Manawatu-Whanganui,1
-2021-12-12,Waikato,10
-2021-12-19,Auckland,52
-2021-12-19,Bay of Plenty,9
-2021-12-19,Canterbury,2
-2021-12-19,Manawatu-Whanganui,1
-2021-12-19,Northland,2
-2021-12-19,Taranaki,5
-2021-12-19,Waikato,8
-2021-12-19,Wellington,1
-2021-12-26,Auckland,37
-2021-12-26,Bay of Plenty,10
-2021-12-26,Canterbury,2
-2021-12-26,Gisborne,2
-2021-12-26,Manawatu-Whanganui,1
-2021-12-26,Northland,2
-2021-12-26,Taranaki,1
+2021-12-26,Auckland,21
+2021-12-26,Bay of Plenty,5
+2021-12-26,Canterbury,4
 2021-12-26,Waikato,7
-2021-12-26,Wellington,1
-2021-12-26,NA,1
 2022-01-02,Auckland,36
 2022-01-02,Bay of Plenty,11
 2022-01-02,Canterbury,3
@@ -830,3 +812,37 @@ week_end_date,Region,case_7d_avg
 2022-12-11,Wellington,661
 2022-12-11,West Coast,17
 2022-12-11,NA,43
+2022-12-18,Auckland,2149
+2022-12-18,Bay of Plenty,370
+2022-12-18,Canterbury,751
+2022-12-18,Gisborne,55
+2022-12-18,Hawke's Bay,177
+2022-12-18,Manawatu-Whanganui,322
+2022-12-18,Marlborough,40
+2022-12-18,Nelson,90
+2022-12-18,Northland,171
+2022-12-18,Otago,294
+2022-12-18,Southland,105
+2022-12-18,Taranaki,115
+2022-12-18,Tasman,18
+2022-12-18,Waikato,466
+2022-12-18,Wellington,738
+2022-12-18,West Coast,16
+2022-12-18,NA,49
+2022-12-25,Auckland,1626
+2022-12-25,Bay of Plenty,260
+2022-12-25,Canterbury,512
+2022-12-25,Gisborne,37
+2022-12-25,Hawke's Bay,145
+2022-12-25,Manawatu-Whanganui,220
+2022-12-25,Marlborough,20
+2022-12-25,Nelson,67
+2022-12-25,Northland,123
+2022-12-25,Otago,190
+2022-12-25,Southland,82
+2022-12-25,Taranaki,99
+2022-12-25,Tasman,14
+2022-12-25,Waikato,386
+2022-12-25,Wellington,562
+2022-12-25,West Coast,17
+2022-12-25,NA,32

@@ -58,12 +58,10 @@ MW_PalmerstonNorth,Palmerston North,Autosampler,-40.386211,175.580582,90000,Mana
 MW_Taumarunui,Taumarunui,Grab,-38.894855,175.257543,4000,Manawatu-Whanganui,Taumarunui - Taumarunui
 MW_Whanganui,Whanganui,Autosampler,-39.962879,175.033951,44500,Manawatu-Whanganui,Whanganui - Whanganui
 MW_Woodville,Woodville,Grab,-40.341125,175.85437,1657,Manawatu-Whanganui,Woodville - Woodville
-NE_BellIsland,Richmond/Nelson South,Autosampler,-41.296635,173.175674,60000,Nelson,NA
+NE_BellIsland,Richmond/Nelson South,Autosampler,-41.296635,173.175674,60000,Nelson,Nelson - Richmond/Nelson South
 NE_Nelson,Nelson Central/North ,Autosampler,-41.203312,173.328369,26000,Nelson,Nelson - Nelson
-NO_Ahipara,Ahipara,Grab,-35.168129,173.159744,1200,Northland,Far North - Ahipara
 NO_Dargaville,Dargaville,Grab,-35.930489,173.894089,5000,Northland,Dargaville - Dargaville
 NO_Hikurangi,Hikurangi,Grab,-35.610504,174.277451,1730,Northland,Whangerei - Hikurangi
-NO_Kaeo,Kaeo,Grab,-35.100174,173.765625,1200,Northland,Far North - Kaeo
 NO_Kaikohe,Kaikohe,Grab,-35.425442,173.820953,4400,Northland,Far North - Kaikohe
 NO_Kaitaia,Kaitaia,Grab,-35.112156,173.225998,5400,Northland,Kaitaia - Kaitaia
 NO_Kaiwaka,Kaiwaka,Grab,-36.15976,174.438339,400,Northland,Kaiwaka - Kaiwaka
@@ -71,13 +69,9 @@ NO_Kawakawa,Kawakawa,Grab,-35.368572,174.077133,1500,Northland,Far North - Kawak
 NO_Kerikeri,Kerikeri,Grab,-35.234707,173.959,6200,Northland,Far North - Kerikeri
 NO_Mangawhai,Mangawhai,Grab,-36.101738,174.580872,1100,Northland,Mangawhai - Mangawhai
 NO_Maungaturoto,Maungaturoto,Grab,-36.108734,174.370117,1300,Northland,Maungaturoto - Maungaturoto
-NO_Opononi,Opononi,Grab,-35.518173,173.392838,600,Northland,Far North - Opononi
 NO_Paihia,Paihia,Grab,-35.25721,174.026199,4000,Northland,Far North - Paihia
 NO_Ruakaka,Ruakaka,Grab,-35.867054,174.46965,4500,Northland,Ruakaka - Ruakaka-Marsden
-NO_Russell,Russell,Grab,-35.269054,174.136658,500,Northland,Far North - Russell
-NO_Taipa,Taipa,Grab,-35.006378,173.443146,320,Northland,Far North - Mangonui
 NO_Whangarei,Whangarei,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
-NO_Whatuwhiwhi,Whatuwhiwhi,Grab,-34.866497,173.367615,1200,Northland,Far North - Tokerau Beach
 OT_Alexandra,Alexandra,Autosampler,-45.263279,169.398895,6200,Otago,Alexandra - Alexandra
 OT_Balclutha,Balclutha,Grab,-46.260948,169.736542,4100,Otago,Balclutha - Balclutha
 OT_Cromwell,Cromwell,Autosampler,-45.057613,169.196198,7100,Otago,Cromwell - Cromwell
