@@ -1,45 +1,11 @@
 week_end_date,Region,case_7d_avg
-2021-12-26,Auckland,21
-2021-12-26,Bay of Plenty,5
-2021-12-26,Canterbury,4
-2021-12-26,Waikato,7
-2022-01-02,Auckland,36
-2022-01-02,Bay of Plenty,11
-2022-01-02,Canterbury,3
-2022-01-02,Gisborne,1
-2022-01-02,Hawke's Bay,1
-2022-01-02,Northland,4
-2022-01-02,Waikato,8
-2022-01-02,Wellington,1
-2022-01-02,NA,1
-2022-01-09,Auckland,40
-2022-01-09,Bay of Plenty,12
-2022-01-09,Canterbury,3
-2022-01-09,Hawke's Bay,2
-2022-01-09,Northland,1
-2022-01-09,Taranaki,1
-2022-01-09,Waikato,3
-2022-01-09,Wellington,2
-2022-01-09,NA,1
-2022-01-16,Auckland,39
-2022-01-16,Bay of Plenty,8
-2022-01-16,Canterbury,5
-2022-01-16,Hawke's Bay,2
-2022-01-16,Northland,1
-2022-01-16,Otago,1
-2022-01-16,Waikato,2
-2022-01-16,Wellington,2
-2022-01-16,West Coast,1
-2022-01-23,Auckland,48
+2022-01-23,Auckland,47
 2022-01-23,Bay of Plenty,14
-2022-01-23,Canterbury,5
-2022-01-23,Hawke's Bay,3
+2022-01-23,Canterbury,11
 2022-01-23,Manawatu-Whanganui,1
 2022-01-23,Northland,2
-2022-01-23,Tasman,3
-2022-01-23,Waikato,2
-2022-01-23,Wellington,1
-2022-01-23,West Coast,1
+2022-01-23,Tasman,1
+2022-01-23,Waikato,3
 2022-01-30,Auckland,82
 2022-01-30,Bay of Plenty,16
 2022-01-30,Canterbury,8
@@ -260,8 +226,8 @@ week_end_date,Region,case_7d_avg
 2022-05-01,Marlborough,21
 2022-05-01,Nelson,232
 2022-05-01,Northland,212
-2022-05-01,Otago,790
-2022-05-01,Southland,104
+2022-05-01,Otago,789
+2022-05-01,Southland,105
 2022-05-01,Taranaki,201
 2022-05-01,Tasman,32
 2022-05-01,Waikato,487
@@ -846,3 +812,71 @@ week_end_date,Region,case_7d_avg
 2022-12-25,Wellington,562
 2022-12-25,West Coast,17
 2022-12-25,NA,32
+2023-01-01,Auckland,1040
+2023-01-01,Bay of Plenty,176
+2023-01-01,Canterbury,404
+2023-01-01,Gisborne,36
+2023-01-01,Hawke's Bay,130
+2023-01-01,Manawatu-Whanganui,176
+2023-01-01,Marlborough,20
+2023-01-01,Nelson,62
+2023-01-01,Northland,102
+2023-01-01,Otago,127
+2023-01-01,Southland,57
+2023-01-01,Taranaki,74
+2023-01-01,Tasman,9
+2023-01-01,Waikato,296
+2023-01-01,Wellington,354
+2023-01-01,West Coast,13
+2023-01-01,NA,20
+2023-01-08,Auckland,966
+2023-01-08,Bay of Plenty,179
+2023-01-08,Canterbury,402
+2023-01-08,Gisborne,74
+2023-01-08,Hawke's Bay,123
+2023-01-08,Manawatu-Whanganui,153
+2023-01-08,Marlborough,18
+2023-01-08,Nelson,59
+2023-01-08,Northland,107
+2023-01-08,Otago,153
+2023-01-08,Southland,47
+2023-01-08,Taranaki,72
+2023-01-08,Tasman,9
+2023-01-08,Waikato,267
+2023-01-08,Wellington,319
+2023-01-08,West Coast,14
+2023-01-08,NA,27
+2023-01-15,Auckland,838
+2023-01-15,Bay of Plenty,194
+2023-01-15,Canterbury,339
+2023-01-15,Gisborne,60
+2023-01-15,Hawke's Bay,107
+2023-01-15,Manawatu-Whanganui,143
+2023-01-15,Marlborough,19
+2023-01-15,Nelson,84
+2023-01-15,Northland,102
+2023-01-15,Otago,121
+2023-01-15,Southland,31
+2023-01-15,Taranaki,74
+2023-01-15,Tasman,13
+2023-01-15,Waikato,226
+2023-01-15,Wellington,273
+2023-01-15,West Coast,15
+2023-01-15,NA,22
+2023-01-22,Auckland,600
+2023-01-22,Bay of Plenty,136
+2023-01-22,Canterbury,229
+2023-01-22,Gisborne,43
+2023-01-22,Hawke's Bay,90
+2023-01-22,Manawatu-Whanganui,113
+2023-01-22,Marlborough,10
+2023-01-22,Nelson,60
+2023-01-22,Northland,86
+2023-01-22,Otago,87
+2023-01-22,Southland,18
+2023-01-22,Taranaki,56
+2023-01-22,Tasman,11
+2023-01-22,Waikato,159
+2023-01-22,Wellington,200
+2023-01-22,West Coast,14
+2023-01-22,NA,13
