@@ -36,30 +36,6 @@ CA_Leeston,Leeston,Autosampler,-43.763245,172.306595,3900,Canterbury,Leeston - L
 CA_Rangiora,Rangiora,Grab,-43.303963,172.597061,19000,Canterbury,Rangiora - Rangiora
 CA_Rolleston,Rolleston & Eastern Selwyn,Autosampler,-43.618198,172.335938,35000,Canterbury,Rolleston - Rolleston Selwyn
 CA_Timaru,Timaru,Autosampler,-44.350075,171.261246,28000,Canterbury,Timaru - Timaru
-NO_Ruakaka,Ruakaka,Grab,-35.867054,174.46965,4500,Northland,Ruakaka - Ruakaka-Marsden
-NO_Whangarei,Whangarei,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
-OT_Alexandra,Alexandra,Autosampler,-45.263279,169.398895,6200,Otago,Alexandra - Alexandra
-OT_Balclutha,Balclutha,Grab,-46.260948,169.736542,4100,Otago,Balclutha - Balclutha
-OT_Cromwell,Cromwell,Autosampler,-45.057613,169.196198,7100,Otago,Cromwell - Cromwell
-OT_GreenIsland,Dunedin (Green Island),Autosampler,-45.913609,170.407227,22900,Otago,Dunedin - Green Island
-OT_Mosgiel,Dunedin (Mosgiel),Autosampler,-45.87167,170.330002,14600,Otago,Dunedin - Green Island
-OT_Oamaru,Oamaru,Autosampler,-45.056953,171.025955,12000,Otago,Oamaru - Oamaru
-OT_Queenstown,Queenstown,Autosampler,-45.008106,168.756332,40000,Otago,Queenstown - Shotover
-OT_DunedinTahuna,Dunedin (Tahuna),Autosampler,-45.905556,170.536942,84000,Otago,Dunedin - Tahuna
-OT_Wanaka,Wanaka,Grab,-44.714481,169.240799,14500,Otago,Wanaka - Wanaka
-SO_Bluff,Bluff,Autosampler,-46.598537,168.31778,2000,Southland,Bluff - Bluff
-SO_Gore,Gore,Autosampler,-46.116928,168.944122,8000,Southland,Gore - Gore
-SO_Invercargill,Invercargill,Autosampler,-46.450588,168.356293,50000,Southland,Invercargill - Invercargill
-TK_Eltham,Eltham,Autosampler,-39.439747,174.307663,2006,Taranaki,Hawera - Hawera
-TK_Hawera,Hawera,Autosampler,-39.612362,174.26886,12000,Taranaki,Hawera - Hawera
-TK_Kaponga,Kaponga,Grab,-39.435223,174.147034,400,Taranaki,Kaponga - Kaponga
-TK_Manaia,Manaia,Grab,-39.576469,174.120102,950,Taranaki,Manaia - Manaia
-TK_NewPlymouth,New Plymouth,Autosampler,-39.039318,174.121292,88000,Taranaki,New Plymouth - New Plymouth
-TK_Opunake,Opunake,Autosampler,-39.444954,173.834167,1400,Taranaki,Opunake - Opunake
-TK_Patea,Patea,Autosampler,-39.764492,174.485016,1200,Taranaki,Patea - Patea
-TK_Stratford,Stratford,Autosampler,-39.342659,174.305054,9900,Taranaki,Stratford - Stratford
-TK_Waverley,Waverley,Grab,-39.770241,174.62384,900,Taranaki,Waverley - Waverley
-TS_Motueka,Motueka,Autosampler,-41.087326,173.024689,8300,Tasman,Motueka - Motueka
 CA_Woodend,Woodend,Grab,-43.321461,172.665604,7600,Canterbury,Waimakariri - Woodend
 GI_Gisborne,Gisborne,Autosampler,-38.665752,178.003662,37000,Gisborne,Gisborne - Gisborne
 HB_Hastings,Hastings,Autosampler,-39.58839,176.936035,80000,Hawke's Bay,Hatings - Hastings
@@ -93,13 +69,36 @@ NO_Kerikeri,Kerikeri,Grab,-35.234707,173.959,6200,Northland,Far North - Kerikeri
 NO_Mangawhai,Mangawhai,Grab,-36.101738,174.580872,1100,Northland,Mangawhai - Mangawhai
 NO_Maungaturoto,Maungaturoto,Grab,-36.108734,174.370117,1300,Northland,Maungaturoto - Maungaturoto
 NO_Paihia,Paihia,Grab,-35.25721,174.026199,4000,Northland,Far North - Paihia
+NO_Ruakaka,Ruakaka,Grab,-35.867054,174.46965,4500,Northland,Ruakaka - Ruakaka-Marsden
+NO_Whangarei,Whangarei,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
+OT_Alexandra,Alexandra,Autosampler,-45.263279,169.398895,6200,Otago,Alexandra - Alexandra
+OT_Balclutha,Balclutha,Grab,-46.260948,169.736542,4100,Otago,Balclutha - Balclutha
+OT_Cromwell,Cromwell,Autosampler,-45.057613,169.196198,7100,Otago,Cromwell - Cromwell
+OT_GreenIsland,Dunedin (Green Island),Autosampler,-45.913609,170.407227,22900,Otago,Dunedin - Green Island
+OT_Mosgiel,Dunedin (Mosgiel),Autosampler,-45.87167,170.330002,14600,Otago,Dunedin - Green Island
+OT_Oamaru,Oamaru,Autosampler,-45.056953,171.025955,12000,Otago,Oamaru - Oamaru
+OT_Queenstown,Queenstown,Autosampler,-45.008106,168.756332,40000,Otago,Queenstown - Shotover
+OT_DunedinTahuna,Dunedin (Tahuna),Autosampler,-45.905556,170.536942,84000,Otago,Dunedin - Tahuna
+OT_Wanaka,Wanaka,Grab,-44.714481,169.240799,14500,Otago,Wanaka - Wanaka
+SO_Bluff,Bluff,Autosampler,-46.598537,168.31778,2000,Southland,Bluff - Bluff
+SO_Gore,Gore,Autosampler,-46.116928,168.944122,8000,Southland,Gore - Gore
+SO_Invercargill,Invercargill,Autosampler,-46.450588,168.356293,50000,Southland,Invercargill - Invercargill
+TK_Eltham,Eltham,Autosampler,-39.439747,174.307663,2006,Taranaki,Hawera - Hawera
+TK_Hawera,Hawera,Autosampler,-39.612362,174.26886,12000,Taranaki,Hawera - Hawera
+TK_Kaponga,Kaponga,Grab,-39.435223,174.147034,400,Taranaki,Kaponga - Kaponga
+TK_Manaia,Manaia,Grab,-39.576469,174.120102,950,Taranaki,Manaia - Manaia
+TK_NewPlymouth,New Plymouth,Autosampler,-39.039318,174.121292,88000,Taranaki,New Plymouth - New Plymouth
+TK_Opunake,Opunake,Autosampler,-39.444954,173.834167,1400,Taranaki,Opunake - Opunake
+TK_Patea,Patea,Autosampler,-39.764492,174.485016,1200,Taranaki,Patea - Patea
+TK_Stratford,Stratford,Autosampler,-39.342659,174.305054,9900,Taranaki,Stratford - Stratford
+TK_Waverley,Waverley,Grab,-39.770241,174.62384,900,Taranaki,Waverley - Waverley
+TS_Motueka,Motueka,Autosampler,-41.087326,173.024689,8300,Tasman,Motueka - Motueka
 WC_Greymouth,Greymouth,Grab,-42.452374,171.199646,10000,West Coast,Greymouth - Greymouth
 WC_Hokitika,Hokitika,Grab,-42.697151,170.986176,2900,West Coast,Hokitika - Hokitika
 WC_Reefton,Reefton,Grab,-42.112591,171.849945,1000,West Coast,Buller - Reefton
 WC_Westport,Westport,Grab,-41.766739,171.58989,5000,West Coast,Westport - Westport
 WG_Carterton,Carterton,Grab,-41.041958,175.500229,5800,Wellington,Carterton - Carterton
 WG_Featherston,Featherston,Grab,-41.136551,175.323868,2500,Wellington,Featherston - Featherston
-WG_Greytown,Greytown,Grab,-41.102871,175.491623,2438,Wellington,Greytown - Greytown
 WG_Karori,Wellington (Western),Autosampler,-41.309223,174.699707,14000,Wellington,Wellington - Western
 WG_Martinborough,Martinborough,Auto/grab,-41.211155,175.440247,1641,Wellington,Martinborough - Martinborough
 WG_Masterton,Masterton,Auto/grab,-40.988373,175.682724,20700,Wellington,Masterton - Masterton

@@ -1,33 +1,19 @@
 week_end_date,Region,case_7d_avg
-2022-02-13,Auckland,496
-2022-02-13,Bay of Plenty,18
-2022-02-13,Canterbury,6
-2022-02-13,Gisborne,5
-2022-02-13,Hawke's Bay,4
-2022-02-13,Manawatu-Whanganui,6
-2022-02-13,Northland,18
-2022-02-13,Otago,13
-2022-02-13,Southland,4
-2022-02-13,Tasman,1
-2022-02-13,Waikato,83
-2022-02-13,Wellington,27
-2022-02-13,NA,5
-2022-02-20,Auckland,1186
-2022-02-20,Bay of Plenty,51
-2022-02-20,Canterbury,48
-2022-02-20,Gisborne,9
-2022-02-20,Hawke's Bay,14
-2022-02-20,Manawatu-Whanganui,13
-2022-02-20,Marlborough,8
-2022-02-20,Nelson,32
-2022-02-20,Northland,29
-2022-02-20,Otago,71
-2022-02-20,Southland,4
-2022-02-20,Taranaki,6
-2022-02-20,Tasman,2
-2022-02-20,Waikato,141
-2022-02-20,Wellington,66
-2022-02-20,NA,12
+2022-02-20,Auckland,1450
+2022-02-20,Bay of Plenty,48
+2022-02-20,Canterbury,108
+2022-02-20,Gisborne,10
+2022-02-20,Hawke's Bay,18
+2022-02-20,Manawatu-Whanganui,15
+2022-02-20,Marlborough,9
+2022-02-20,Nelson,45
+2022-02-20,Northland,40
+2022-02-20,Otago,117
+2022-02-20,Southland,1
+2022-02-20,Taranaki,2
+2022-02-20,Waikato,131
+2022-02-20,Wellington,105
+2022-02-20,NA,2
 2022-02-27,Auckland,5904
 2022-02-27,Bay of Plenty,557
 2022-02-27,Canterbury,476
@@ -234,7 +220,7 @@ week_end_date,Region,case_7d_avg
 2022-05-15,NA,18
 2022-05-22,Auckland,2659
 2022-05-22,Bay of Plenty,343
-2022-05-22,Canterbury,1219
+2022-05-22,Canterbury,1218
 2022-05-22,Gisborne,60
 2022-05-22,Hawke's Bay,255
 2022-05-22,Manawatu-Whanganui,346
@@ -881,7 +867,7 @@ week_end_date,Region,case_7d_avg
 2023-02-12,Auckland,246
 2023-02-12,Bay of Plenty,77
 2023-02-12,Canterbury,173
-2023-02-12,Gisborne,19
+2023-02-12,Gisborne,20
 2023-02-12,Hawke's Bay,64
 2023-02-12,Manawatu-Whanganui,84
 2023-02-12,Marlborough,7
@@ -895,3 +881,20 @@ week_end_date,Region,case_7d_avg
 2023-02-12,Wellington,131
 2023-02-12,West Coast,12
 2023-02-12,NA,8
+2023-02-19,Auckland,260
+2023-02-19,Bay of Plenty,71
+2023-02-19,Canterbury,203
+2023-02-19,Gisborne,8
+2023-02-19,Hawke's Bay,41
+2023-02-19,Manawatu-Whanganui,81
+2023-02-19,Marlborough,8
+2023-02-19,Nelson,34
+2023-02-19,Northland,32
+2023-02-19,Otago,84
+2023-02-19,Southland,22
+2023-02-19,Taranaki,32
+2023-02-19,Tasman,5
+2023-02-19,Waikato,102
+2023-02-19,Wellington,132
+2023-02-19,West Coast,11
+2023-02-19,NA,9
