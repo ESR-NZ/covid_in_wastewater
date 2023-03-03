@@ -64,11 +64,9 @@ NO_Hikurangi,Hikurangi,Grab,-35.610504,174.277451,1730,Northland,Whangerei - Hik
 NO_Kaikohe,Kaikohe,Grab,-35.425442,173.820953,4400,Northland,Far North - Kaikohe
 NO_Kaitaia,Kaitaia,Grab,-35.112156,173.225998,5400,Northland,Kaitaia - Kaitaia
 NO_Kaiwaka,Kaiwaka,Grab,-36.15976,174.438339,400,Northland,Kaiwaka - Kaiwaka
-NO_Kawakawa,Kawakawa,Grab,-35.368572,174.077133,1500,Northland,Far North - Kawakawa
 NO_Kerikeri,Kerikeri,Grab,-35.234707,173.959,6200,Northland,Far North - Kerikeri
 NO_Mangawhai,Mangawhai,Grab,-36.101738,174.580872,1100,Northland,Mangawhai - Mangawhai
 NO_Maungaturoto,Maungaturoto,Grab,-36.108734,174.370117,1300,Northland,Maungaturoto - Maungaturoto
-NO_Paihia,Paihia,Grab,-35.25721,174.026199,4000,Northland,Far North - Paihia
 NO_Ruakaka,Ruakaka,Grab,-35.867054,174.46965,4500,Northland,Ruakaka - Ruakaka-Marsden
 NO_Whangarei,Whangarei,Autosampler,-35.745171,174.329834,65000,Northland,Whangarei - Whangarei
 OT_Alexandra,Alexandra,Autosampler,-45.263279,169.398895,6200,Otago,Alexandra - Alexandra
@@ -99,7 +97,6 @@ WC_Reefton,Reefton,Grab,-42.112591,171.849945,1000,West Coast,Buller - Reefton
 WC_Westport,Westport,Grab,-41.766739,171.58989,5000,West Coast,Westport - Westport
 WG_Carterton,Carterton,Grab,-41.041958,175.500229,5800,Wellington,Carterton - Carterton
 WG_Featherston,Featherston,Grab,-41.136551,175.323868,2500,Wellington,Featherston - Featherston
-WG_Greytown,Greytown,Grab,-41.102871,175.491623,2438,Wellington,Greytown - Greytown
 WG_Karori,Wellington (Western),Autosampler,-41.309223,174.699707,14000,Wellington,Wellington - Western
 WG_Martinborough,Martinborough,Auto/grab,-41.211155,175.440247,1641,Wellington,Martinborough - Martinborough
 WG_Masterton,Masterton,Auto/grab,-40.988373,175.682724,20700,Wellington,Masterton - Masterton
@@ -110,7 +107,6 @@ WG_Porirua,Porirua,Autosampler,-41.11285,174.816101,85000,Wellington,Wellington 
 WG_Seaview,Hutt Valley,Autosampler,-41.237408,174.905502,133000,Wellington,Wellington - Seaview
 WK_Cambridge,Cambridge,Autosampler,-37.897881,175.449295,20100,Waikato,Waikato - Cambridge
 WK_Hamilton,Hamilton,Autosampler,-37.806057,175.305634,169000,Waikato,Hamilton - Hamilton
-WK_Otorohanga,Otorohanga,Grab ,-38.183308,175.211121,2885,Waikato,Waikato - Otorohanga
 WK_Taupo,Taupo,Auto/grab,-38.675884,176.078995,23000,Waikato,Taupo - Taupo
 WK_TeAwamutu,Te Awamutu,Autosampler,-37.995838,175.294739,13100,Waikato,Waikato - Te Awamutu
 WK_Thames,Thames,Autosampler,-37.14632,175.546707,7500,Waikato,Thames - Thames
