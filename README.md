@@ -52,7 +52,7 @@ Case numbers are calculated by summing up all the new cases reported to the Mini
 
 -   national_population: the sum of catchment populations covered by testing that week.
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by catchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ### Regional Data
 
@@ -70,7 +70,7 @@ Case numbers are calculated by summing up all the new cases reported to the Mini
 
 -   Region: region name
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by catchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 -   n_site: number of sites within the region contributing to each week's data.
 
@@ -82,7 +82,7 @@ Case numbers are calculated by summing up all the new cases reported to the Mini
 
 -   SampleLocation: wastewater testing site name ("AU_Rosedale").
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by catchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ***Note:*** Where meshblocks straddle a watershed between two catchments, the case will be reported for both catchments. To aggregate to higher geographies, please use the *cases_regional.csv* or *cases_national.csv* files to avoid double counting.
 
@@ -92,7 +92,7 @@ Case numbers are calculated by summing up all the new cases reported to the Mini
 
 -   SampleLocation: wastewater testing site name ("AU_Rosedale").
 
--   case_7d_avg: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   case_7d_avg: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by catchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 **sites.csv**
 
@@ -138,7 +138,7 @@ For further guidance, please refer to the 'Estimated variant prevalence' notes o
 
 -   Result: Either "Detected" if SARS-CoV-2 was identified in the wastewater sample or "Not detected".
 
--   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by ctchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
+-   copies_per_person_per_day: An average of the SARS-CoV-2 genome copies per person per day. Raw SARS-CoV-2 genome copies results are normalised by catchment for population covered by testing and normalised for wastewater flow per day. Calculated as an average of results from the previous 7 days.
 
 ## Laboratory Methodology
 
