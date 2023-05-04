@@ -1234,11 +1234,7 @@ week_end_date,Region,case_7d_avg
 2023-04-09,Marlborough,13
 2023-04-09,Nelson,44
 2023-04-09,Northland,44
-<<<<<<< HEAD
 2023-04-09,Otago,145
-=======
-2023-04-09,Otago,143
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-09,Southland,42
 2023-04-09,Taranaki,46
 2023-04-09,Tasman,7
@@ -1265,11 +1261,7 @@ week_end_date,Region,case_7d_avg
 2023-04-16,NA,17
 2023-04-23,Auckland,452
 2023-04-23,Bay of Plenty,112
-<<<<<<< HEAD
 2023-04-23,Canterbury,345
-=======
-2023-04-23,Canterbury,344
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-23,Gisborne,16
 2023-04-23,Hawke's Bay,47
 2023-04-23,Manawatu-Whanganui,82
@@ -1284,7 +1276,6 @@ week_end_date,Region,case_7d_avg
 2023-04-23,Wellington,163
 2023-04-23,West Coast,15
 2023-04-23,NA,13
-<<<<<<< HEAD
 2023-04-30,Auckland,402
 2023-04-30,Bay of Plenty,107
 2023-04-30,Canterbury,292
@@ -1294,7 +1285,7 @@ week_end_date,Region,case_7d_avg
 2023-04-30,Marlborough,20
 2023-04-30,Nelson,50
 2023-04-30,Northland,40
-2023-04-30,Otago,127
+2023-04-30,Otago,129
 2023-04-30,Southland,29
 2023-04-30,Taranaki,40
 2023-04-30,Tasman,6
@@ -1302,5 +1293,3 @@ week_end_date,Region,case_7d_avg
 2023-04-30,Wellington,142
 2023-04-30,West Coast,11
 2023-04-30,NA,15
-=======
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
