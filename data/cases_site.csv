@@ -269,7 +269,10 @@ week_end_date,SampleLocation,case_7d_avg
 2021-12-05,BP_TePuke,0
 2021-12-05,CA_Christchurch,1
 2021-12-05,MW_Whanganui,0
+<<<<<<< HEAD
 2021-12-05,NE_BellIsland,1
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2021-12-05,NE_Nelson,1
 2021-12-05,NO_Kaitaia,1
 2021-12-05,NO_Kawakawa,0
@@ -296,7 +299,10 @@ week_end_date,SampleLocation,case_7d_avg
 2021-12-12,BP_TeMaunga,0
 2021-12-12,CA_Christchurch,1
 2021-12-12,MW_Taumarunui,0
+<<<<<<< HEAD
 2021-12-12,NE_BellIsland,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2021-12-12,NE_Nelson,0
 2021-12-12,NO_Kaitaia,0
 2021-12-12,NO_Paihia,0
@@ -485,7 +491,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-06,MA_Blenheim,0
 2022-02-06,MW_PalmerstonNorth,0
 2022-02-06,MW_Whanganui,0
+<<<<<<< HEAD
 2022-02-06,NE_BellIsland,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-06,NE_Nelson,0
 2022-02-06,NO_Kerikeri,2
 2022-02-06,NO_Paihia,1
@@ -527,7 +536,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-13,MW_Levin,1
 2022-02-13,MW_PalmerstonNorth,0
 2022-02-13,MW_Whanganui,0
+<<<<<<< HEAD
 2022-02-13,NE_BellIsland,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-13,NE_Nelson,0
 2022-02-13,NO_Hikurangi,1
 2022-02-13,NO_Kaikohe,0
@@ -596,7 +608,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-20,MW_PalmerstonNorth,3
 2022-02-20,MW_Taumarunui,0
 2022-02-20,MW_Whanganui,1
+<<<<<<< HEAD
 2022-02-20,NE_BellIsland,8
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-20,NE_Nelson,20
 2022-02-20,NO_Dargaville,0
 2022-02-20,NO_Kaitaia,0
@@ -634,6 +649,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-20,WK_Ngatea,0
 2022-02-20,WK_Otorohanga,0
 2022-02-20,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-02-20,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-20,WK_Taupo,3
 2022-02-20,WK_TeAwamutu,1
 2022-02-20,WK_Tokoroa,2
@@ -676,7 +695,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-27,CA_Woodend,1
 2022-02-27,GI_Gisborne,34
 2022-02-27,HB_Hastings,34
+<<<<<<< HEAD
 2022-02-27,HB_Mahia,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-27,HB_Napier,27
 2022-02-27,HB_Waipawa,1
 2022-02-27,HB_Waipukurau,1
@@ -691,7 +713,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-27,MW_Taumarunui,2
 2022-02-27,MW_Whanganui,10
 2022-02-27,MW_Woodville,0
+<<<<<<< HEAD
 2022-02-27,NE_BellIsland,17
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-27,NE_Nelson,71
 2022-02-27,NO_Ahipara,0
 2022-02-27,NO_Dargaville,12
@@ -744,6 +769,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-27,WK_Ngatea,0
 2022-02-27,WK_Otorohanga,2
 2022-02-27,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-02-27,WK_Putaruru,3
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-02-27,WK_Taupo,16
 2022-02-27,WK_TeAwamutu,12
 2022-02-27,WK_Thames,1
@@ -787,7 +816,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-06,CA_Woodend,3
 2022-03-06,GI_Gisborne,123
 2022-03-06,HB_Hastings,141
+<<<<<<< HEAD
 2022-03-06,HB_Mahia,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-06,HB_Napier,111
 2022-03-06,HB_Waipawa,2
 2022-03-06,HB_Waipukurau,4
@@ -803,7 +835,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-06,MW_Taumarunui,4
 2022-03-06,MW_Whanganui,42
 2022-03-06,MW_Woodville,2
+<<<<<<< HEAD
 2022-03-06,NE_BellIsland,63
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-06,NE_Nelson,129
 2022-03-06,NO_Ahipara,2
 2022-03-06,NO_Dargaville,13
@@ -859,6 +894,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-06,WK_Ngatea,3
 2022-03-06,WK_Otorohanga,8
 2022-03-06,WK_Paeroa,9
+<<<<<<< HEAD
+=======
+2022-03-06,WK_Putaruru,9
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-06,WK_Taupo,51
 2022-03-06,WK_TeAwamutu,36
 2022-03-06,WK_Thames,5
@@ -902,7 +941,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-13,CA_Woodend,9
 2022-03-13,GI_Gisborne,278
 2022-03-13,HB_Hastings,327
+<<<<<<< HEAD
 2022-03-13,HB_Mahia,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-13,HB_Napier,232
 2022-03-13,HB_Waipawa,9
 2022-03-13,HB_Waipukurau,14
@@ -918,7 +960,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-13,MW_Taumarunui,9
 2022-03-13,MW_Whanganui,105
 2022-03-13,MW_Woodville,4
+<<<<<<< HEAD
 2022-03-13,NE_BellIsland,125
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-13,NE_Nelson,179
 2022-03-13,NO_Ahipara,4
 2022-03-13,NO_Dargaville,13
@@ -973,6 +1018,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-13,WK_Ngatea,4
 2022-03-13,WK_Otorohanga,11
 2022-03-13,WK_Paeroa,11
+<<<<<<< HEAD
+=======
+2022-03-13,WK_Putaruru,11
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-13,WK_Taupo,76
 2022-03-13,WK_TeAwamutu,46
 2022-03-13,WK_Thames,10
@@ -1016,7 +1065,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-20,CA_Woodend,11
 2022-03-20,GI_Gisborne,251
 2022-03-20,HB_Hastings,422
+<<<<<<< HEAD
 2022-03-20,HB_Mahia,1
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-20,HB_Napier,294
 2022-03-20,HB_Waipawa,12
 2022-03-20,HB_Waipukurau,21
@@ -1032,7 +1084,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-20,MW_Taumarunui,15
 2022-03-20,MW_Whanganui,154
 2022-03-20,MW_Woodville,8
+<<<<<<< HEAD
 2022-03-20,NE_BellIsland,151
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-20,NE_Nelson,114
 2022-03-20,NO_Ahipara,4
 2022-03-20,NO_Dargaville,10
@@ -1088,6 +1143,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-20,WK_Ngatea,7
 2022-03-20,WK_Otorohanga,16
 2022-03-20,WK_Paeroa,12
+<<<<<<< HEAD
+=======
+2022-03-20,WK_Putaruru,12
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-20,WK_Taupo,102
 2022-03-20,WK_TeAwamutu,62
 2022-03-20,WK_Thames,22
@@ -1203,6 +1262,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-03-27,WK_Ngatea,6
 2022-03-27,WK_Otorohanga,17
 2022-03-27,WK_Paeroa,11
+<<<<<<< HEAD
+=======
+2022-03-27,WK_Putaruru,12
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-03-27,WK_Taupo,88
 2022-03-27,WK_TeAwamutu,67
 2022-03-27,WK_Thames,19
@@ -1318,6 +1381,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-04-03,WK_Ngatea,3
 2022-04-03,WK_Otorohanga,12
 2022-04-03,WK_Paeroa,10
+<<<<<<< HEAD
+=======
+2022-04-03,WK_Putaruru,14
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-04-03,WK_Taupo,71
 2022-04-03,WK_TeAwamutu,51
 2022-04-03,WK_Thames,13
@@ -1433,6 +1500,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-04-10,WK_Ngatea,2
 2022-04-10,WK_Otorohanga,13
 2022-04-10,WK_Paeroa,6
+<<<<<<< HEAD
+=======
+2022-04-10,WK_Putaruru,9
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-04-10,WK_Taupo,38
 2022-04-10,WK_TeAwamutu,36
 2022-04-10,WK_Thames,10
@@ -1545,6 +1616,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-04-17,WK_Ngatea,1
 2022-04-17,WK_Otorohanga,5
 2022-04-17,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-04-17,WK_Putaruru,7
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-04-17,WK_Taupo,10
 2022-04-17,WK_TeAwamutu,10
 2022-04-17,WK_Thames,2
@@ -1655,6 +1730,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-04-24,WK_Ngatea,1
 2022-04-24,WK_Otorohanga,2
 2022-04-24,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-04-24,WK_Putaruru,3
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-04-24,WK_Taupo,5
 2022-04-24,WK_TeAwamutu,6
 2022-04-24,WK_Thames,2
@@ -1767,6 +1846,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-05-01,WK_Ngatea,0
 2022-05-01,WK_Otorohanga,2
 2022-05-01,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-05-01,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-05-01,WK_Taupo,9
 2022-05-01,WK_TeAwamutu,4
 2022-05-01,WK_Thames,4
@@ -1878,6 +1961,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-05-08,WK_Ngatea,0
 2022-05-08,WK_Otorohanga,2
 2022-05-08,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-05-08,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-05-08,WK_Taupo,8
 2022-05-08,WK_TeAwamutu,4
 2022-05-08,WK_Thames,4
@@ -1989,6 +2076,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-05-15,WK_Ngatea,0
 2022-05-15,WK_Otorohanga,3
 2022-05-15,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-05-15,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-05-15,WK_Taupo,10
 2022-05-15,WK_TeAwamutu,7
 2022-05-15,WK_Thames,4
@@ -2099,6 +2190,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-05-22,WK_Ngatea,1
 2022-05-22,WK_Otorohanga,3
 2022-05-22,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-05-22,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-05-22,WK_Taupo,26
 2022-05-22,WK_TeAwamutu,9
 2022-05-22,WK_Thames,3
@@ -2208,6 +2303,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-05-29,WK_Ngatea,1
 2022-05-29,WK_Otorohanga,1
 2022-05-29,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-05-29,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-05-29,WK_Taupo,26
 2022-05-29,WK_TeAwamutu,9
 2022-05-29,WK_Thames,3
@@ -2318,6 +2417,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-06-05,WK_Ngatea,0
 2022-06-05,WK_Otorohanga,5
 2022-06-05,WK_Paeroa,6
+<<<<<<< HEAD
+=======
+2022-06-05,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-06-05,WK_Taupo,20
 2022-06-05,WK_TeAwamutu,8
 2022-06-05,WK_Thames,3
@@ -2428,6 +2531,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-06-12,WK_Ngatea,0
 2022-06-12,WK_Otorohanga,2
 2022-06-12,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-06-12,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-06-12,WK_Taupo,17
 2022-06-12,WK_TeAwamutu,7
 2022-06-12,WK_Thames,2
@@ -2533,6 +2640,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-06-19,WK_Hamilton,247
 2022-06-19,WK_Otorohanga,1
 2022-06-19,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-06-19,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-06-19,WK_Taupo,14
 2022-06-19,WK_TeAwamutu,4
 2022-06-19,WK_Thames,2
@@ -2643,6 +2754,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-06-26,WK_Ngatea,0
 2022-06-26,WK_Otorohanga,2
 2022-06-26,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-06-26,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-06-26,WK_Taupo,10
 2022-06-26,WK_TeAwamutu,7
 2022-06-26,WK_Thames,3
@@ -2749,6 +2864,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-07-03,WK_Ngatea,1
 2022-07-03,WK_Otorohanga,2
 2022-07-03,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-07-03,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-07-03,WK_Taupo,18
 2022-07-03,WK_TeAwamutu,7
 2022-07-03,WK_Thames,4
@@ -2859,6 +2978,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-07-10,WK_Ngatea,1
 2022-07-10,WK_Otorohanga,1
 2022-07-10,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-07-10,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-07-10,WK_Taupo,24
 2022-07-10,WK_TeAwamutu,7
 2022-07-10,WK_Thames,5
@@ -2970,6 +3093,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-07-17,WK_Ngatea,1
 2022-07-17,WK_Otorohanga,1
 2022-07-17,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-07-17,WK_Putaruru,3
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-07-17,WK_Taupo,35
 2022-07-17,WK_TeAwamutu,11
 2022-07-17,WK_Thames,5
@@ -3077,6 +3204,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-07-24,WK_Ngatea,1
 2022-07-24,WK_Otorohanga,2
 2022-07-24,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-07-24,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-07-24,WK_Taupo,27
 2022-07-24,WK_TeAwamutu,7
 2022-07-24,WK_Thames,5
@@ -3187,6 +3318,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-07-31,WK_Ngatea,0
 2022-07-31,WK_Otorohanga,2
 2022-07-31,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-07-31,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-07-31,WK_Taupo,24
 2022-07-31,WK_TeAwamutu,9
 2022-07-31,WK_Thames,6
@@ -3296,6 +3431,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-08-07,WK_Ngatea,2
 2022-08-07,WK_Otorohanga,1
 2022-08-07,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-08-07,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-08-07,WK_Taupo,18
 2022-08-07,WK_TeAwamutu,7
 2022-08-07,WK_Thames,6
@@ -3404,6 +3543,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-08-14,WK_Ngatea,0
 2022-08-14,WK_Otorohanga,2
 2022-08-14,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-08-14,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-08-14,WK_Taupo,14
 2022-08-14,WK_TeAwamutu,5
 2022-08-14,WK_Thames,3
@@ -3514,6 +3657,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-08-21,WK_Ngatea,0
 2022-08-21,WK_Otorohanga,0
 2022-08-21,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-08-21,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-08-21,WK_Taupo,8
 2022-08-21,WK_TeAwamutu,6
 2022-08-21,WK_Thames,3
@@ -3617,6 +3764,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-08-28,WK_Ngatea,1
 2022-08-28,WK_Otorohanga,1
 2022-08-28,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-08-28,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-08-28,WK_Taupo,8
 2022-08-28,WK_TeAwamutu,5
 2022-08-28,WK_Thames,1
@@ -3719,6 +3870,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-09-04,WK_Cambridge,4
 2022-09-04,WK_Hamilton,118
 2022-09-04,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2022-09-04,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-09-04,WK_Taupo,5
 2022-09-04,WK_TeAwamutu,3
 2022-09-04,WK_Thames,1
@@ -3819,6 +3974,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-09-11,WK_Hamilton,100
 2022-09-11,WK_Otorohanga,1
 2022-09-11,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2022-09-11,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-09-11,WK_Taupo,5
 2022-09-11,WK_TeAwamutu,3
 2022-09-11,WK_Thames,0
@@ -3915,6 +4074,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-09-18,WK_Ngatea,0
 2022-09-18,WK_Otorohanga,0
 2022-09-18,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2022-09-18,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-09-18,WK_Taupo,4
 2022-09-18,WK_TeAwamutu,2
 2022-09-18,WK_Thames,1
@@ -4016,6 +4179,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-09-25,WK_Ngatea,0
 2022-09-25,WK_Otorohanga,0
 2022-09-25,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2022-09-25,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-09-25,WK_Taupo,4
 2022-09-25,WK_TeAwamutu,2
 2022-09-25,WK_Thames,1
@@ -4113,6 +4280,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-10-02,WK_Hamilton,94
 2022-10-02,WK_Otorohanga,0
 2022-10-02,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-10-02,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-10-02,WK_Taupo,3
 2022-10-02,WK_TeAwamutu,1
 2022-10-02,WK_Thames,1
@@ -4209,6 +4380,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-10-09,WK_Hamilton,102
 2022-10-09,WK_Ngatea,0
 2022-10-09,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-10-09,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-10-09,WK_Taupo,5
 2022-10-09,WK_TeAwamutu,3
 2022-10-09,WK_Thames,1
@@ -4310,6 +4485,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-10-16,WK_Ngatea,0
 2022-10-16,WK_Otorohanga,0
 2022-10-16,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-10-16,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-10-16,WK_Taupo,3
 2022-10-16,WK_TeAwamutu,5
 2022-10-16,WK_Thames,1
@@ -4412,6 +4591,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-10-23,WK_Ngatea,0
 2022-10-23,WK_Otorohanga,1
 2022-10-23,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-10-23,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-10-23,WK_Taupo,8
 2022-10-23,WK_TeAwamutu,4
 2022-10-23,WK_Thames,4
@@ -4514,6 +4697,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-10-30,WK_Hamilton,145
 2022-10-30,WK_Otorohanga,1
 2022-10-30,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-10-30,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-10-30,WK_Taupo,12
 2022-10-30,WK_TeAwamutu,3
 2022-10-30,WK_Thames,2
@@ -4618,6 +4805,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-11-06,WK_Ngatea,0
 2022-11-06,WK_Otorohanga,1
 2022-11-06,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-11-06,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-11-06,WK_Taupo,8
 2022-11-06,WK_TeAwamutu,4
 2022-11-06,WK_Thames,0
@@ -4723,6 +4914,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-11-13,WK_Ngatea,0
 2022-11-13,WK_Otorohanga,1
 2022-11-13,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-11-13,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-11-13,WK_Taupo,9
 2022-11-13,WK_TeAwamutu,5
 2022-11-13,WK_Thames,1
@@ -4831,6 +5026,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-11-20,WK_Ngatea,1
 2022-11-20,WK_Otorohanga,2
 2022-11-20,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2022-11-20,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-11-20,WK_Taupo,10
 2022-11-20,WK_TeAwamutu,5
 2022-11-20,WK_Thames,2
@@ -4934,6 +5133,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-11-27,WK_Ngatea,1
 2022-11-27,WK_Otorohanga,1
 2022-11-27,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-11-27,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-11-27,WK_Taupo,7
 2022-11-27,WK_TeAwamutu,5
 2022-11-27,WK_Thames,1
@@ -5038,6 +5241,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-12-04,WK_Ngatea,0
 2022-12-04,WK_Otorohanga,1
 2022-12-04,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-12-04,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-12-04,WK_Taupo,12
 2022-12-04,WK_TeAwamutu,4
 2022-12-04,WK_Thames,2
@@ -5148,6 +5355,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-12-11,WK_Ngatea,1
 2022-12-11,WK_Otorohanga,0
 2022-12-11,WK_Paeroa,3
+<<<<<<< HEAD
+=======
+2022-12-11,WK_Putaruru,2
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-12-11,WK_Taupo,12
 2022-12-11,WK_TeAwamutu,9
 2022-12-11,WK_Thames,2
@@ -5259,6 +5470,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-12-18,WK_Ngatea,0
 2022-12-18,WK_Otorohanga,1
 2022-12-18,WK_Paeroa,4
+<<<<<<< HEAD
+=======
+2022-12-18,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-12-18,WK_Taupo,15
 2022-12-18,WK_TeAwamutu,7
 2022-12-18,WK_Thames,4
@@ -5363,6 +5578,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-12-25,WK_Ngatea,1
 2022-12-25,WK_Otorohanga,3
 2022-12-25,WK_Paeroa,2
+<<<<<<< HEAD
+=======
+2022-12-25,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2022-12-25,WK_Taupo,11
 2022-12-25,WK_TeAwamutu,9
 2022-12-25,WK_Thames,3
@@ -5469,6 +5688,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-01-01,WK_Ngatea,0
 2023-01-01,WK_Otorohanga,2
 2023-01-01,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2023-01-01,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-01-01,WK_Taupo,10
 2023-01-01,WK_TeAwamutu,4
 2023-01-01,WK_Thames,2
@@ -5576,6 +5799,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-01-08,WK_Ngatea,0
 2023-01-08,WK_Otorohanga,1
 2023-01-08,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2023-01-08,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-01-08,WK_Taupo,11
 2023-01-08,WK_TeAwamutu,4
 2023-01-08,WK_Thames,2
@@ -5681,6 +5908,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-01-15,WK_Ngatea,1
 2023-01-15,WK_Otorohanga,0
 2023-01-15,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2023-01-15,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-01-15,WK_Taupo,9
 2023-01-15,WK_TeAwamutu,2
 2023-01-15,WK_Thames,1
@@ -5782,6 +6013,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-01-22,WK_Hamilton,120
 2023-01-22,WK_Otorohanga,1
 2023-01-22,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-01-22,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-01-22,WK_Taupo,7
 2023-01-22,WK_TeAwamutu,3
 2023-01-22,WK_Thames,1
@@ -6149,6 +6384,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-02-19,WK_Ngatea,0
 2023-02-19,WK_Otorohanga,1
 2023-02-19,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-02-19,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-02-19,WK_Taupo,2
 2023-02-19,WK_TeAwamutu,1
 2023-02-19,WK_Thames,1
@@ -6420,6 +6659,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-03-12,WK_Hamilton,82
 2023-03-12,WK_Ngatea,0
 2023-03-12,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-03-12,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-03-12,WK_Taupo,3
 2023-03-12,WK_TeAwamutu,1
 2023-03-12,WK_Thames,0
@@ -6518,6 +6761,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-03-19,WK_Ngatea,0
 2023-03-19,WK_Otorohanga,0
 2023-03-19,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-03-19,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-03-19,WK_Taupo,3
 2023-03-19,WK_TeAwamutu,1
 2023-03-19,WK_Thames,0
@@ -6569,7 +6816,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-03-26,MW_Taumarunui,0
 2023-03-26,MW_Whanganui,15
 2023-03-26,MW_Woodville,0
+<<<<<<< HEAD
 2023-03-26,NE_BellIsland,17
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-03-26,NE_Nelson,30
 2023-03-26,NO_Dargaville,0
 2023-03-26,NO_Kawakawa,0
@@ -6615,6 +6865,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-03-26,WK_Hamilton,86
 2023-03-26,WK_Otorohanga,0
 2023-03-26,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-03-26,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-03-26,WK_Taupo,6
 2023-03-26,WK_TeAwamutu,1
 2023-03-26,WK_Thames,0
@@ -6661,7 +6915,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-02,MW_PalmerstonNorth,51
 2023-04-02,MW_Taumarunui,1
 2023-04-02,MW_Whanganui,18
+<<<<<<< HEAD
 2023-04-02,NE_BellIsland,18
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-02,NE_Nelson,29
 2023-04-02,NO_Ahipara,0
 2023-04-02,NO_Dargaville,1
@@ -6756,7 +7013,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-09,MW_Taumarunui,0
 2023-04-09,MW_Whanganui,17
 2023-04-09,MW_Woodville,0
+<<<<<<< HEAD
 2023-04-09,NE_BellIsland,10
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-09,NE_Nelson,36
 2023-04-09,NO_Kaikohe,0
 2023-04-09,NO_Kaitaia,0
@@ -6768,7 +7028,11 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-09,OT_Alexandra,2
 2023-04-09,OT_Balclutha,0
 2023-04-09,OT_Cromwell,1
+<<<<<<< HEAD
 2023-04-09,OT_DunedinTahuna,104
+=======
+2023-04-09,OT_DunedinTahuna,102
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-09,OT_GreenIsland,80
 2023-04-09,OT_Mosgiel,80
 2023-04-09,OT_Oamaru,7
@@ -6798,6 +7062,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-09,WK_Hamilton,97
 2023-04-09,WK_Otorohanga,0
 2023-04-09,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2023-04-09,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-09,WK_Taupo,5
 2023-04-09,WK_TeAwamutu,1
 2023-04-09,WK_Thames,1
@@ -6847,7 +7115,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-16,MW_PalmerstonNorth,62
 2023-04-16,MW_Whanganui,21
 2023-04-16,MW_Woodville,0
+<<<<<<< HEAD
 2023-04-16,NE_BellIsland,18
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-16,NE_Nelson,32
 2023-04-16,NO_Ahipara,0
 2023-04-16,NO_Dargaville,0
@@ -6894,6 +7165,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-16,WK_Ngatea,0
 2023-04-16,WK_Otorohanga,0
 2023-04-16,WK_Paeroa,1
+<<<<<<< HEAD
+=======
+2023-04-16,WK_Putaruru,1
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-16,WK_Taupo,8
 2023-04-16,WK_TeAwamutu,1
 2023-04-16,WK_Thames,0
@@ -6942,7 +7217,10 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-23,MW_Taumarunui,1
 2023-04-23,MW_Whanganui,15
 2023-04-23,MW_Woodville,1
+<<<<<<< HEAD
 2023-04-23,NE_BellIsland,15
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-23,NE_Nelson,31
 2023-04-23,NO_Dargaville,0
 2023-04-23,NO_Hikurangi,0
@@ -6988,10 +7266,15 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-23,WK_Hamilton,107
 2023-04-23,WK_Otorohanga,0
 2023-04-23,WK_Paeroa,0
+<<<<<<< HEAD
+=======
+2023-04-23,WK_Putaruru,0
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-23,WK_Taupo,5
 2023-04-23,WK_TeAwamutu,1
 2023-04-23,WK_Tokoroa,2
 2023-04-23,WK_Turangi,0
+<<<<<<< HEAD
 2023-04-30,AU_ArmyBay,7
 2023-04-30,AU_Beachlands,2
 2023-04-30,AU_Eastern,225
@@ -7090,6 +7373,8 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-30,WK_Tokoroa,2
 2023-04-30,WK_Whangamata,1
 2023-04-30,WK_Whitianga,0
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2021-06-06,AU_Mangere,2
 2021-06-13,AU_Mangere,3
 2021-06-20,AU_Mangere,1
@@ -7189,4 +7474,7 @@ week_end_date,SampleLocation,case_7d_avg
 2023-04-09,AU_Mangere,332
 2023-04-16,AU_Mangere,361
 2023-04-23,AU_Mangere,361
+<<<<<<< HEAD
 2023-04-30,AU_Mangere,327
+=======
+>>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
