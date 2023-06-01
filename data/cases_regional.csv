@@ -1286,7 +1286,7 @@ week_end_date,Region,case_7d_avg
 2023-04-30,Nelson,50
 2023-04-30,Northland,40
 2023-04-30,Otago,129
-2023-04-30,Southland,29
+2023-04-30,Southland,30
 2023-04-30,Taranaki,40
 2023-04-30,Tasman,6
 2023-04-30,Waikato,126
@@ -1303,7 +1303,7 @@ week_end_date,Region,case_7d_avg
 2023-05-07,Nelson,43
 2023-05-07,Northland,52
 2023-05-07,Otago,117
-2023-05-07,Southland,28
+2023-05-07,Southland,29
 2023-05-07,Taranaki,40
 2023-05-07,Tasman,10
 2023-05-07,Waikato,141
@@ -1344,3 +1344,20 @@ week_end_date,Region,case_7d_avg
 2023-05-21,Wellington,187
 2023-05-21,West Coast,11
 2023-05-21,NA,16
+2023-05-28,Auckland,551
+2023-05-28,Bay of Plenty,114
+2023-05-28,Canterbury,352
+2023-05-28,Gisborne,11
+2023-05-28,Hawke's Bay,37
+2023-05-28,Manawatu-Whanganui,110
+2023-05-28,Marlborough,14
+2023-05-28,Nelson,49
+2023-05-28,Northland,78
+2023-05-28,Otago,115
+2023-05-28,Southland,37
+2023-05-28,Taranaki,56
+2023-05-28,Tasman,7
+2023-05-28,Waikato,191
+2023-05-28,Wellington,200
+2023-05-28,West Coast,9
+2023-05-28,NA,14
