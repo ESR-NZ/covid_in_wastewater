@@ -1,0 +1,81 @@
+variant,DisplayName,detected
+BA.4/BA.5,Whangarei,FALSE
+CH.1.1,Whangarei,TRUE
+XBB,Whangarei,TRUE
+XBC,Whangarei,TRUE
+BA.4/BA.5,North Shore,FALSE
+CH.1.1,North Shore,TRUE
+XBB,North Shore,TRUE
+XBC,North Shore,TRUE
+BA.4/BA.5,Auckland West,TRUE
+CH.1.1,Auckland West,TRUE
+XBB,Auckland West,TRUE
+XBC,Auckland West,FALSE
+BA.4/BA.5,Auckland East,FALSE
+CH.1.1,Auckland East,TRUE
+XBB,Auckland East,TRUE
+XBC,Auckland East,TRUE
+BA.4/BA.5,Auckland Southwest,FALSE
+CH.1.1,Auckland Southwest,TRUE
+XBB,Auckland Southwest,TRUE
+XBC,Auckland Southwest,FALSE
+BA.4/BA.5,Taupo,FALSE
+CH.1.1,Taupo,TRUE
+XBB,Taupo,TRUE
+XBC,Taupo,FALSE
+BA.4/BA.5,Tauranga,FALSE
+CH.1.1,Tauranga,TRUE
+XBB,Tauranga,TRUE
+XBC,Tauranga,TRUE
+BA.4/BA.5,Mt Maunganui/Papamoa,FALSE
+CH.1.1,Mt Maunganui/Papamoa,TRUE
+XBB,Mt Maunganui/Papamoa,TRUE
+XBC,Mt Maunganui/Papamoa,TRUE
+BA.4/BA.5,Rotorua,FALSE
+CH.1.1,Rotorua,FALSE
+XBB,Rotorua,TRUE
+XBC,Rotorua,TRUE
+BA.4/BA.5,Gisborne,FALSE
+CH.1.1,Gisborne,TRUE
+XBB,Gisborne,TRUE
+XBC,Gisborne,FALSE
+BA.4/BA.5,New Plymouth,FALSE
+CH.1.1,New Plymouth,TRUE
+XBB,New Plymouth,TRUE
+XBC,New Plymouth,FALSE
+BA.4/BA.5,Palmerston North,FALSE
+CH.1.1,Palmerston North,TRUE
+XBB,Palmerston North,TRUE
+XBC,Palmerston North,FALSE
+BA.4/BA.5,Porirua,FALSE
+CH.1.1,Porirua,TRUE
+XBB,Porirua,TRUE
+XBC,Porirua,FALSE
+BA.4/BA.5,Hutt Valley,FALSE
+CH.1.1,Hutt Valley,TRUE
+XBB,Hutt Valley,TRUE
+XBC,Hutt Valley,FALSE
+BA.4/BA.5,Nelson Central/North,FALSE
+CH.1.1,Nelson Central/North,TRUE
+XBB,Nelson Central/North,TRUE
+XBC,Nelson Central/North,TRUE
+BA.4/BA.5,Christchurch,FALSE
+CH.1.1,Christchurch,FALSE
+XBB,Christchurch,TRUE
+XBC,Christchurch,FALSE
+BA.4/BA.5,Queenstown,FALSE
+CH.1.1,Queenstown,TRUE
+XBB,Queenstown,TRUE
+XBC,Queenstown,FALSE
+BA.4/BA.5,Dunedin (Mosgiel),FALSE
+CH.1.1,Dunedin (Mosgiel),TRUE
+XBB,Dunedin (Mosgiel),TRUE
+XBC,Dunedin (Mosgiel),TRUE
+BA.4/BA.5,Dunedin (Tahuna),FALSE
+CH.1.1,Dunedin (Tahuna),TRUE
+XBB,Dunedin (Tahuna),TRUE
+XBC,Dunedin (Tahuna),TRUE
+BA.4/BA.5,National,TRUE
+CH.1.1,National,TRUE
+XBB,National,TRUE
+XBC,National,TRUE
