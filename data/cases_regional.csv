@@ -1366,7 +1366,7 @@ week_end_date,Region,case_7d_avg
 2023-06-04,Canterbury,272
 2023-06-04,Gisborne,13
 2023-06-04,Hawke's Bay,39
-2023-06-04,Manawatu-Whanganui,88
+2023-06-04,Manawatu-Whanganui,89
 2023-06-04,Marlborough,8
 2023-06-04,Nelson,49
 2023-06-04,Northland,56
@@ -1378,3 +1378,20 @@ week_end_date,Region,case_7d_avg
 2023-06-04,Wellington,183
 2023-06-04,West Coast,7
 2023-06-04,NA,12
+2023-06-11,Auckland,392
+2023-06-11,Bay of Plenty,72
+2023-06-11,Canterbury,225
+2023-06-11,Gisborne,13
+2023-06-11,Hawke's Bay,38
+2023-06-11,Manawatu-Whanganui,68
+2023-06-11,Marlborough,9
+2023-06-11,Nelson,45
+2023-06-11,Northland,42
+2023-06-11,Otago,96
+2023-06-11,Southland,19
+2023-06-11,Taranaki,45
+2023-06-11,Tasman,9
+2023-06-11,Waikato,138
+2023-06-11,Wellington,147
+2023-06-11,West Coast,10
+2023-06-11,NA,10
