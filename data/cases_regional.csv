@@ -1234,11 +1234,7 @@ week_end_date,Region,case_7d_avg
 2023-04-09,Marlborough,13
 2023-04-09,Nelson,44
 2023-04-09,Northland,44
-<<<<<<< HEAD
 2023-04-09,Otago,145
-=======
-2023-04-09,Otago,143
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-09,Southland,42
 2023-04-09,Taranaki,46
 2023-04-09,Tasman,7
@@ -1265,11 +1261,7 @@ week_end_date,Region,case_7d_avg
 2023-04-16,NA,17
 2023-04-23,Auckland,452
 2023-04-23,Bay of Plenty,112
-<<<<<<< HEAD
 2023-04-23,Canterbury,345
-=======
-2023-04-23,Canterbury,344
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
 2023-04-23,Gisborne,16
 2023-04-23,Hawke's Bay,47
 2023-04-23,Manawatu-Whanganui,82
@@ -1277,14 +1269,13 @@ week_end_date,Region,case_7d_avg
 2023-04-23,Nelson,43
 2023-04-23,Northland,53
 2023-04-23,Otago,125
-2023-04-23,Southland,41
+2023-04-23,Southland,42
 2023-04-23,Taranaki,43
 2023-04-23,Tasman,10
 2023-04-23,Waikato,143
 2023-04-23,Wellington,163
 2023-04-23,West Coast,15
 2023-04-23,NA,13
-<<<<<<< HEAD
 2023-04-30,Auckland,402
 2023-04-30,Bay of Plenty,107
 2023-04-30,Canterbury,292
@@ -1294,13 +1285,130 @@ week_end_date,Region,case_7d_avg
 2023-04-30,Marlborough,20
 2023-04-30,Nelson,50
 2023-04-30,Northland,40
-2023-04-30,Otago,127
-2023-04-30,Southland,29
+2023-04-30,Otago,129
+2023-04-30,Southland,30
 2023-04-30,Taranaki,40
 2023-04-30,Tasman,6
 2023-04-30,Waikato,126
 2023-04-30,Wellington,142
 2023-04-30,West Coast,11
 2023-04-30,NA,15
-=======
->>>>>>> ecc6bb9507982717e76e57f5d4cac809c30aa4fe
+2023-05-07,Auckland,462
+2023-05-07,Bay of Plenty,120
+2023-05-07,Canterbury,285
+2023-05-07,Gisborne,14
+2023-05-07,Hawke's Bay,48
+2023-05-07,Manawatu-Whanganui,121
+2023-05-07,Marlborough,19
+2023-05-07,Nelson,43
+2023-05-07,Northland,52
+2023-05-07,Otago,117
+2023-05-07,Southland,29
+2023-05-07,Taranaki,40
+2023-05-07,Tasman,10
+2023-05-07,Waikato,141
+2023-05-07,Wellington,179
+2023-05-07,West Coast,17
+2023-05-07,NA,17
+2023-05-14,Auckland,430
+2023-05-14,Bay of Plenty,100
+2023-05-14,Canterbury,278
+2023-05-14,Gisborne,19
+2023-05-14,Hawke's Bay,44
+2023-05-14,Manawatu-Whanganui,136
+2023-05-14,Marlborough,20
+2023-05-14,Nelson,38
+2023-05-14,Northland,49
+2023-05-14,Otago,125
+2023-05-14,Southland,33
+2023-05-14,Taranaki,35
+2023-05-14,Tasman,8
+2023-05-14,Waikato,131
+2023-05-14,Wellington,170
+2023-05-14,West Coast,12
+2023-05-14,NA,15
+2023-05-21,Auckland,525
+2023-05-21,Bay of Plenty,112
+2023-05-21,Canterbury,308
+2023-05-21,Gisborne,13
+2023-05-21,Hawke's Bay,31
+2023-05-21,Manawatu-Whanganui,133
+2023-05-21,Marlborough,18
+2023-05-21,Nelson,49
+2023-05-21,Northland,61
+2023-05-21,Otago,125
+2023-05-21,Southland,34
+2023-05-21,Taranaki,51
+2023-05-21,Tasman,7
+2023-05-21,Waikato,167
+2023-05-21,Wellington,187
+2023-05-21,West Coast,11
+2023-05-21,NA,16
+2023-05-28,Auckland,551
+2023-05-28,Bay of Plenty,114
+2023-05-28,Canterbury,352
+2023-05-28,Gisborne,11
+2023-05-28,Hawke's Bay,37
+2023-05-28,Manawatu-Whanganui,110
+2023-05-28,Marlborough,14
+2023-05-28,Nelson,49
+2023-05-28,Northland,78
+2023-05-28,Otago,115
+2023-05-28,Southland,37
+2023-05-28,Taranaki,56
+2023-05-28,Tasman,7
+2023-05-28,Waikato,191
+2023-05-28,Wellington,200
+2023-05-28,West Coast,9
+2023-05-28,NA,14
+2023-06-04,Auckland,477
+2023-06-04,Bay of Plenty,100
+2023-06-04,Canterbury,272
+2023-06-04,Gisborne,13
+2023-06-04,Hawke's Bay,39
+2023-06-04,Manawatu-Whanganui,89
+2023-06-04,Marlborough,8
+2023-06-04,Nelson,49
+2023-06-04,Northland,56
+2023-06-04,Otago,103
+2023-06-04,Southland,33
+2023-06-04,Taranaki,62
+2023-06-04,Tasman,8
+2023-06-04,Waikato,164
+2023-06-04,Wellington,183
+2023-06-04,West Coast,7
+2023-06-04,NA,12
+2023-06-11,Auckland,392
+2023-06-11,Bay of Plenty,72
+2023-06-11,Canterbury,225
+2023-06-11,Gisborne,13
+2023-06-11,Hawke's Bay,38
+2023-06-11,Manawatu-Whanganui,68
+2023-06-11,Marlborough,9
+2023-06-11,Nelson,45
+2023-06-11,Northland,42
+2023-06-11,Otago,97
+2023-06-11,Southland,19
+2023-06-11,Taranaki,45
+2023-06-11,Tasman,9
+2023-06-11,Waikato,138
+2023-06-11,Wellington,147
+2023-06-11,West Coast,10
+2023-06-11,NA,10
+2023-06-18,Auckland,354
+2023-06-18,Bay of Plenty,71
+2023-06-18,Canterbury,188
+2023-06-18,Gisborne,9
+2023-06-18,Hawke's Bay,32
+2023-06-18,Manawatu-Whanganui,63
+2023-06-18,Marlborough,8
+2023-06-18,Nelson,37
+2023-06-18,Northland,34
+2023-06-18,Otago,75
+2023-06-18,Southland,14
+2023-06-18,Taranaki,41
+2023-06-18,Tasman,7
+2023-06-18,Waikato,120
+2023-06-18,Wellington,119
+2023-06-18,West Coast,11
+2023-06-18,NA,10
