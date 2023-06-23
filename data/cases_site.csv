@@ -7348,11 +7348,7 @@ week_end_date,SampleLocation,case_7d_avg
 2023-05-21,OT_Alexandra,1
 2023-05-21,OT_Balclutha,1
 2023-05-21,OT_Cromwell,0
-<<<<<<< HEAD
 2023-05-21,OT_DunedinTahuna,90
-=======
-2023-05-21,OT_DunedinTahuna,91
->>>>>>> 4864dd1d09b3139a489d8a120b4cb2628119b878
 2023-05-21,OT_GreenIsland,62
 2023-05-21,OT_Mosgiel,62
 2023-05-21,OT_Oamaru,9
@@ -7679,7 +7675,6 @@ week_end_date,SampleLocation,case_7d_avg
 2023-06-11,WK_Thames,0
 2023-06-11,WK_Tokoroa,0
 2023-06-11,WK_Whangamata,0
-<<<<<<< HEAD
 2023-06-18,AU_ArmyBay,7
 2023-06-18,AU_Beachlands,2
 2023-06-18,AU_Eastern,193
@@ -7772,8 +7767,6 @@ week_end_date,SampleLocation,case_7d_avg
 2023-06-18,WK_Thames,1
 2023-06-18,WK_Tokoroa,1
 2023-06-18,WK_Whitianga,0
-=======
->>>>>>> 4864dd1d09b3139a489d8a120b4cb2628119b878
 2021-06-06,AU_Mangere,2
 2021-06-13,AU_Mangere,3
 2021-06-20,AU_Mangere,1
@@ -7880,7 +7873,4 @@ week_end_date,SampleLocation,case_7d_avg
 2023-05-28,AU_Mangere,430
 2023-06-04,AU_Mangere,388
 2023-06-11,AU_Mangere,311
-<<<<<<< HEAD
 2023-06-18,AU_Mangere,287
-=======
->>>>>>> 4864dd1d09b3139a489d8a120b4cb2628119b878

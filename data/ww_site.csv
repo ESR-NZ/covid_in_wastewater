@@ -8734,7 +8734,6 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-11,WK_Thames,853985
 2023-06-11,WK_Whangamata,1458210
 2023-06-11,WK_Whitianga,1015738
-<<<<<<< HEAD
 2023-06-18,AU_Eastern,1227053
 2023-06-18,AU_Mangere,1894751
 2023-06-18,AU_Rosedale,2585550
@@ -8788,5 +8787,3 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-18,WK_Taupo,1527942.5
 2023-06-18,WK_TeAwamutu,179948
 2023-06-18,WK_Whitianga,591559
-=======
->>>>>>> 4864dd1d09b3139a489d8a120b4cb2628119b878

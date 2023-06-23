@@ -1526,7 +1526,6 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2023-06-11,Waikato,3111377,243300,7
 2023-06-11,Wellington,1957577,465000,7
 2023-06-11,West Coast,126995,15000,2
-<<<<<<< HEAD
 2023-06-18,Auckland,1257168,1355000,4
 2023-06-18,Bay of Plenty,1865897,211720,6
 2023-06-18,Canterbury,1245477,475600,6
@@ -1543,5 +1542,3 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2023-06-18,Waikato,288316,231800,5
 2023-06-18,Wellington,931997,459200,6
 2023-06-18,West Coast,439875,15000,2
-=======
->>>>>>> 4864dd1d09b3139a489d8a120b4cb2628119b878
