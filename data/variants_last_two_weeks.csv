@@ -1,81 +1,103 @@
-variant,DisplayName,detected
-BA.4/BA.5,Whangarei,FALSE
-CH.1.1,Whangarei,TRUE
-XBB,Whangarei,TRUE
-XBC,Whangarei,TRUE
-BA.4/BA.5,North Shore,FALSE
-CH.1.1,North Shore,TRUE
-XBB,North Shore,TRUE
-XBC,North Shore,TRUE
-BA.4/BA.5,Auckland West,TRUE
-CH.1.1,Auckland West,TRUE
-XBB,Auckland West,TRUE
-XBC,Auckland West,FALSE
-BA.4/BA.5,Auckland East,FALSE
-CH.1.1,Auckland East,TRUE
-XBB,Auckland East,TRUE
-XBC,Auckland East,TRUE
-BA.4/BA.5,Auckland Southwest,FALSE
-CH.1.1,Auckland Southwest,TRUE
-XBB,Auckland Southwest,TRUE
-XBC,Auckland Southwest,FALSE
-BA.4/BA.5,Taupo,FALSE
-CH.1.1,Taupo,TRUE
-XBB,Taupo,TRUE
-XBC,Taupo,FALSE
-BA.4/BA.5,Tauranga,FALSE
-CH.1.1,Tauranga,TRUE
-XBB,Tauranga,TRUE
-XBC,Tauranga,TRUE
-BA.4/BA.5,Mt Maunganui/Papamoa,FALSE
-CH.1.1,Mt Maunganui/Papamoa,TRUE
-XBB,Mt Maunganui/Papamoa,TRUE
-XBC,Mt Maunganui/Papamoa,TRUE
-BA.4/BA.5,Rotorua,FALSE
-CH.1.1,Rotorua,FALSE
-XBB,Rotorua,TRUE
-XBC,Rotorua,TRUE
-BA.4/BA.5,Gisborne,FALSE
-CH.1.1,Gisborne,TRUE
-XBB,Gisborne,TRUE
-XBC,Gisborne,FALSE
-BA.4/BA.5,New Plymouth,FALSE
-CH.1.1,New Plymouth,TRUE
-XBB,New Plymouth,TRUE
-XBC,New Plymouth,FALSE
-BA.4/BA.5,Palmerston North,FALSE
-CH.1.1,Palmerston North,TRUE
-XBB,Palmerston North,TRUE
-XBC,Palmerston North,FALSE
-BA.4/BA.5,Porirua,FALSE
-CH.1.1,Porirua,TRUE
-XBB,Porirua,TRUE
-XBC,Porirua,FALSE
-BA.4/BA.5,Hutt Valley,FALSE
-CH.1.1,Hutt Valley,TRUE
-XBB,Hutt Valley,TRUE
-XBC,Hutt Valley,FALSE
-BA.4/BA.5,Nelson Central/North,FALSE
-CH.1.1,Nelson Central/North,TRUE
-XBB,Nelson Central/North,TRUE
-XBC,Nelson Central/North,TRUE
-BA.4/BA.5,Christchurch,FALSE
-CH.1.1,Christchurch,FALSE
-XBB,Christchurch,TRUE
-XBC,Christchurch,FALSE
-BA.4/BA.5,Queenstown,FALSE
-CH.1.1,Queenstown,TRUE
-XBB,Queenstown,TRUE
-XBC,Queenstown,FALSE
-BA.4/BA.5,Dunedin (Mosgiel),FALSE
-CH.1.1,Dunedin (Mosgiel),TRUE
-XBB,Dunedin (Mosgiel),TRUE
-XBC,Dunedin (Mosgiel),TRUE
-BA.4/BA.5,Dunedin (Tahuna),FALSE
-CH.1.1,Dunedin (Tahuna),TRUE
-XBB,Dunedin (Tahuna),TRUE
-XBC,Dunedin (Tahuna),TRUE
-BA.4/BA.5,National,TRUE
-CH.1.1,National,TRUE
-XBB,National,TRUE
-XBC,National,TRUE
+DisplayName,variant,seen,detected
+North Shore,BA.2.75,FALSE,FALSE
+North Shore,CH.1.1,TRUE,TRUE
+North Shore,Recombinant,TRUE,TRUE
+North Shore,XBB,TRUE,TRUE
+North Shore,XBB.1.16,TRUE,TRUE
+North Shore,XBB.1.5,TRUE,TRUE
+Auckland West,BA.2.75,TRUE,TRUE
+Auckland West,CH.1.1,TRUE,TRUE
+Auckland West,Recombinant,TRUE,TRUE
+Auckland West,XBB,TRUE,TRUE
+Auckland West,XBB.1.16,TRUE,TRUE
+Auckland West,XBB.1.5,TRUE,TRUE
+Auckland East,BA.2.75,TRUE,TRUE
+Auckland East,CH.1.1,TRUE,TRUE
+Auckland East,Recombinant,TRUE,TRUE
+Auckland East,XBB,TRUE,TRUE
+Auckland East,XBB.1.16,TRUE,TRUE
+Auckland East,XBB.1.5,TRUE,TRUE
+Auckland Southwest,BA.2.75,TRUE,TRUE
+Auckland Southwest,CH.1.1,TRUE,TRUE
+Auckland Southwest,Recombinant,TRUE,TRUE
+Auckland Southwest,XBB,TRUE,TRUE
+Auckland Southwest,XBB.1.16,TRUE,TRUE
+Auckland Southwest,XBB.1.5,TRUE,TRUE
+Tauranga,BA.2.75,TRUE,TRUE
+Tauranga,CH.1.1,TRUE,TRUE
+Tauranga,Recombinant,TRUE,TRUE
+Tauranga,XBB,TRUE,TRUE
+Tauranga,XBB.1.16,TRUE,TRUE
+Tauranga,XBB.1.5,TRUE,TRUE
+Mt Maunganui/Papamoa,BA.2.75,TRUE,TRUE
+Mt Maunganui/Papamoa,CH.1.1,TRUE,TRUE
+Mt Maunganui/Papamoa,Recombinant,FALSE,FALSE
+Mt Maunganui/Papamoa,XBB,FALSE,FALSE
+Mt Maunganui/Papamoa,XBB.1.16,TRUE,TRUE
+Mt Maunganui/Papamoa,XBB.1.5,TRUE,TRUE
+Gisborne,BA.2.75,FALSE,FALSE
+Gisborne,CH.1.1,TRUE,TRUE
+Gisborne,Recombinant,TRUE,TRUE
+Gisborne,XBB,TRUE,TRUE
+Gisborne,XBB.1.16,TRUE,TRUE
+Gisborne,XBB.1.5,TRUE,TRUE
+New Plymouth,BA.2.75,TRUE,TRUE
+New Plymouth,CH.1.1,TRUE,TRUE
+New Plymouth,Recombinant,TRUE,TRUE
+New Plymouth,XBB,TRUE,TRUE
+New Plymouth,XBB.1.16,TRUE,TRUE
+New Plymouth,XBB.1.5,TRUE,TRUE
+Porirua,BA.2.75,FALSE,FALSE
+Porirua,CH.1.1,FALSE,FALSE
+Porirua,Recombinant,TRUE,TRUE
+Porirua,XBB,TRUE,TRUE
+Porirua,XBB.1.16,TRUE,TRUE
+Porirua,XBB.1.5,TRUE,TRUE
+Hutt Valley,BA.2.75,TRUE,TRUE
+Hutt Valley,CH.1.1,TRUE,TRUE
+Hutt Valley,Recombinant,TRUE,TRUE
+Hutt Valley,XBB,TRUE,TRUE
+Hutt Valley,XBB.1.16,TRUE,TRUE
+Hutt Valley,XBB.1.5,TRUE,TRUE
+Wellington (Moa Point),BA.2.75,TRUE,TRUE
+Wellington (Moa Point),CH.1.1,TRUE,TRUE
+Wellington (Moa Point),Recombinant,TRUE,TRUE
+Wellington (Moa Point),XBB,TRUE,TRUE
+Wellington (Moa Point),XBB.1.16,TRUE,TRUE
+Wellington (Moa Point),XBB.1.5,TRUE,TRUE
+Nelson Central/North,BA.2.75,TRUE,TRUE
+Nelson Central/North,CH.1.1,TRUE,TRUE
+Nelson Central/North,Recombinant,TRUE,TRUE
+Nelson Central/North,XBB,TRUE,TRUE
+Nelson Central/North,XBB.1.16,TRUE,TRUE
+Nelson Central/North,XBB.1.5,TRUE,TRUE
+Christchurch,BA.2.75,FALSE,FALSE
+Christchurch,CH.1.1,TRUE,TRUE
+Christchurch,Recombinant,TRUE,TRUE
+Christchurch,XBB,TRUE,TRUE
+Christchurch,XBB.1.16,TRUE,TRUE
+Christchurch,XBB.1.5,TRUE,TRUE
+Queenstown,BA.2.75,TRUE,TRUE
+Queenstown,CH.1.1,TRUE,TRUE
+Queenstown,Recombinant,TRUE,TRUE
+Queenstown,XBB,TRUE,TRUE
+Queenstown,XBB.1.16,TRUE,TRUE
+Queenstown,XBB.1.5,TRUE,TRUE
+Dunedin (Mosgiel),BA.2.75,TRUE,TRUE
+Dunedin (Mosgiel),CH.1.1,TRUE,TRUE
+Dunedin (Mosgiel),Recombinant,TRUE,TRUE
+Dunedin (Mosgiel),XBB,TRUE,TRUE
+Dunedin (Mosgiel),XBB.1.16,TRUE,TRUE
+Dunedin (Mosgiel),XBB.1.5,TRUE,TRUE
+Dunedin (Tahuna),BA.2.75,TRUE,TRUE
+Dunedin (Tahuna),CH.1.1,TRUE,TRUE
+Dunedin (Tahuna),Recombinant,TRUE,TRUE
+Dunedin (Tahuna),XBB,TRUE,TRUE
+Dunedin (Tahuna),XBB.1.16,TRUE,TRUE
+Dunedin (Tahuna),XBB.1.5,TRUE,TRUE
+National,BA.2.75,TRUE,TRUE
+National,CH.1.1,TRUE,TRUE
+National,Recombinant,TRUE,TRUE
+National,XBB,TRUE,TRUE
+National,XBB.1.16,TRUE,TRUE
+National,XBB.1.5,TRUE,TRUE
