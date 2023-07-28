@@ -1480,6 +1480,7 @@ week_end_date,Region,case_7d_avg
 2023-07-16,Wellington,79
 2023-07-16,West Coast,4
 2023-07-16,NA,5
+<<<<<<< HEAD
 2023-07-23,Auckland,140
 2023-07-23,Bay of Plenty,28
 2023-07-23,Canterbury,95
@@ -1497,3 +1498,5 @@ week_end_date,Region,case_7d_avg
 2023-07-23,Wellington,63
 2023-07-23,West Coast,3
 2023-07-23,NA,4
+=======
+>>>>>>> c39a95f971a10ae1948f98a7495a28278c018b2c
