@@ -8949,7 +8949,6 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-16,AU_SouthWestern,1020859
 2023-07-16,AU_Western,895591
 2023-07-16,BP_Rotorua,2797955
-<<<<<<< HEAD
 2023-07-16,BP_Tauranga,4668394
 2023-07-16,BP_TeMaunga,6773750
 2023-07-16,BP_Whakatane,7469848
@@ -8965,28 +8964,10 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-16,MW_PalmerstonNorth,1698521
 2023-07-16,MW_Whanganui,1868700
 2023-07-16,NE_Nelson,2968914
-=======
-2023-07-16,BP_Tauranga,3182466
-2023-07-16,BP_TeMaunga,5206659
-2023-07-16,BP_Whakatane,7469848
-2023-07-16,CA_Ashburton,2292368.5
-2023-07-16,CA_Christchurch,555980.5
-2023-07-16,CA_Rolleston,1651353.5
-2023-07-16,CA_Timaru,12807378
-2023-07-16,GI_Gisborne,422099
-2023-07-16,HB_Hastings,295899.5
-2023-07-16,HB_Napier,958811
-2023-07-16,MA_Blenheim,503004
-2023-07-16,MW_Levin,269419
-2023-07-16,MW_PalmerstonNorth,1698521
-2023-07-16,MW_Whanganui,1868700
-2023-07-16,NE_Nelson,2499204
->>>>>>> c39a95f971a10ae1948f98a7495a28278c018b2c
 2023-07-16,NO_Dargaville,254700
 2023-07-16,NO_Whangarei,341550
 2023-07-16,OT_Alexandra,980584
 2023-07-16,OT_Cromwell,515339
-<<<<<<< HEAD
 2023-07-16,OT_DunedinTahuna,749245
 2023-07-16,OT_GreenIsland,0
 2023-07-16,OT_Mosgiel,431791
@@ -9002,28 +8983,10 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-16,WG_MoaPoint,859650
 2023-07-16,WG_Otaki,2934666
 2023-07-16,WG_Paraparaumu,699822
-=======
-2023-07-16,OT_DunedinTahuna,456147.5
-2023-07-16,OT_GreenIsland,0
-2023-07-16,OT_Mosgiel,394699
-2023-07-16,OT_Queenstown,2898477
-2023-07-16,OT_Wanaka,130896
-2023-07-16,SO_Gore,3103144
-2023-07-16,SO_Invercargill,346994
-2023-07-16,TK_NewPlymouth,5122598
-2023-07-16,TS_Motueka,5996293
-2023-07-16,WC_Greymouth,37000
-2023-07-16,WC_Westport,250000
-2023-07-16,WG_Masterton,314347
-2023-07-16,WG_MoaPoint,859650
-2023-07-16,WG_Otaki,3220425
-2023-07-16,WG_Paraparaumu,751068
->>>>>>> c39a95f971a10ae1948f98a7495a28278c018b2c
 2023-07-16,WG_Porirua,660748.5
 2023-07-16,WG_Seaview,1371735
 2023-07-16,WK_Hamilton,301269
 2023-07-16,WK_Taupo,952608
-<<<<<<< HEAD
 2023-07-23,AU_Eastern,893466
 2023-07-23,AU_Mangere,761749
 2023-07-23,AU_Rosedale,2216782.5
@@ -9068,5 +9031,3 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-23,WG_Seaview,1331054
 2023-07-23,WK_Hamilton,426781
 2023-07-23,WK_Taupo,279223.5
-=======
->>>>>>> c39a95f971a10ae1948f98a7495a28278c018b2c
