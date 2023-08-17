@@ -1311,7 +1311,7 @@ week_end_date,Region,case_7d_avg
 2023-05-07,West Coast,17
 2023-05-07,NA,17
 2023-05-14,Auckland,430
-2023-05-14,Bay of Plenty,100
+2023-05-14,Bay of Plenty,99
 2023-05-14,Canterbury,278
 2023-05-14,Gisborne,19
 2023-05-14,Hawke's Bay,44
@@ -1379,7 +1379,7 @@ week_end_date,Region,case_7d_avg
 2023-06-04,West Coast,7
 2023-06-04,NA,12
 2023-06-11,Auckland,392
-2023-06-11,Bay of Plenty,72
+2023-06-11,Bay of Plenty,71
 2023-06-11,Canterbury,225
 2023-06-11,Gisborne,13
 2023-06-11,Hawke's Bay,38
@@ -1487,7 +1487,7 @@ week_end_date,Region,case_7d_avg
 2023-07-23,Hawke's Bay,14
 2023-07-23,Manawatu-Whanganui,31
 2023-07-23,Marlborough,6
-2023-07-23,Nelson,14
+2023-07-23,Nelson,13
 2023-07-23,Northland,13
 2023-07-23,Otago,22
 2023-07-23,Southland,8
@@ -1497,3 +1497,54 @@ week_end_date,Region,case_7d_avg
 2023-07-23,Wellington,63
 2023-07-23,West Coast,3
 2023-07-23,NA,4
+2023-07-30,Auckland,140
+2023-07-30,Bay of Plenty,28
+2023-07-30,Canterbury,85
+2023-07-30,Gisborne,12
+2023-07-30,Hawke's Bay,16
+2023-07-30,Manawatu-Whanganui,24
+2023-07-30,Marlborough,6
+2023-07-30,Nelson,10
+2023-07-30,Northland,21
+2023-07-30,Otago,25
+2023-07-30,Southland,8
+2023-07-30,Taranaki,16
+2023-07-30,Tasman,2
+2023-07-30,Waikato,51
+2023-07-30,Wellington,56
+2023-07-30,West Coast,1
+2023-07-30,NA,6
+2023-08-06,Auckland,173
+2023-08-06,Bay of Plenty,30
+2023-08-06,Canterbury,123
+2023-08-06,Gisborne,22
+2023-08-06,Hawke's Bay,25
+2023-08-06,Manawatu-Whanganui,31
+2023-08-06,Marlborough,4
+2023-08-06,Nelson,10
+2023-08-06,Northland,21
+2023-08-06,Otago,28
+2023-08-06,Southland,8
+2023-08-06,Taranaki,19
+2023-08-06,Tasman,2
+2023-08-06,Waikato,67
+2023-08-06,Wellington,77
+2023-08-06,West Coast,3
+2023-08-06,NA,5
+2023-08-13,Auckland,201
+2023-08-13,Bay of Plenty,42
+2023-08-13,Canterbury,127
+2023-08-13,Gisborne,20
+2023-08-13,Hawke's Bay,36
+2023-08-13,Manawatu-Whanganui,31
+2023-08-13,Marlborough,4
+2023-08-13,Nelson,14
+2023-08-13,Northland,21
+2023-08-13,Otago,35
+2023-08-13,Southland,9
+2023-08-13,Taranaki,28
+2023-08-13,Tasman,3
+2023-08-13,Waikato,70
+2023-08-13,Wellington,94
+2023-08-13,West Coast,3
+2023-08-13,NA,9
