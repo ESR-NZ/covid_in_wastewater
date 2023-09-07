@@ -2968,7 +2968,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-03-06,TK_Stratford,3905862
 2022-03-06,TK_Waverley,201666
 2022-03-06,TS_Motueka,20581110
-2022-03-06,WC_Greymouth,410421
+2022-03-06,WC_Greymouth,732186
 2022-03-06,WC_Hokitika,422931
 2022-03-06,WC_Reefton,400000
 2022-03-06,WC_Westport,250000
@@ -3084,7 +3084,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-03-13,TK_Stratford,10013570
 2022-03-13,TK_Waverley,743342.5
 2022-03-13,TS_Motueka,22394213
-2022-03-13,WC_Greymouth,1831976
+2022-03-13,WC_Greymouth,3548740
 2022-03-13,WC_Hokitika,422931
 2022-03-13,WC_Reefton,400000
 2022-03-13,WC_Westport,250000
@@ -3197,7 +3197,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-03-20,TK_Stratford,7542461
 2022-03-20,TK_Waverley,36279218.5
 2022-03-20,TS_Motueka,7717042
-2022-03-20,WC_Greymouth,2376876
+2022-03-20,WC_Greymouth,2992159
 2022-03-20,WC_Hokitika,2875863
 2022-03-20,WC_Reefton,400000
 2022-03-20,WC_Westport,4987185
@@ -3312,7 +3312,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-03-27,TK_Stratford,11557698.5
 2022-03-27,TK_Waverley,3742566.5
 2022-03-27,TS_Motueka,29449548
-2022-03-27,WC_Greymouth,4196743
+2022-03-27,WC_Greymouth,5804183
 2022-03-27,WC_Hokitika,3674873
 2022-03-27,WC_Reefton,3115384
 2022-03-27,WC_Westport,4710865
@@ -3426,7 +3426,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-04-03,TK_Patea,20735876.5
 2022-04-03,TK_Waverley,18244388
 2022-04-03,TS_Motueka,39156431
-2022-04-03,WC_Greymouth,4033836
+2022-04-03,WC_Greymouth,5740960
 2022-04-03,WC_Hokitika,1178285
 2022-04-03,WC_Reefton,19712800
 2022-04-03,WC_Westport,1680500
@@ -3539,7 +3539,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-04-10,TK_Patea,32450765.5
 2022-04-10,TK_Waverley,9091227.5
 2022-04-10,TS_Motueka,929710
-2022-04-10,WC_Greymouth,5565924
+2022-04-10,WC_Greymouth,8185183
 2022-04-10,WC_Reefton,81312880
 2022-04-10,WC_Westport,5520010
 2022-04-10,WG_Carterton,66792607.5
@@ -3649,7 +3649,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-04-17,TK_Patea,7550258
 2022-04-17,TK_Waverley,5490779.5
 2022-04-17,TS_Motueka,20502187
-2022-04-17,WC_Greymouth,2234990
+2022-04-17,WC_Greymouth,2137953
 2022-04-17,WC_Reefton,7931336
 2022-04-17,WC_Westport,1474300
 2022-04-17,WG_Carterton,8450818.5
@@ -3759,7 +3759,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-04-24,TK_Patea,4133198
 2022-04-24,TK_Waverley,3324154
 2022-04-24,TS_Motueka,9630403
-2022-04-24,WC_Greymouth,5123394
+2022-04-24,WC_Greymouth,4727517
 2022-04-24,WC_Hokitika,7858481
 2022-04-24,WC_Reefton,1357616
 2022-04-24,WC_Westport,3827065
@@ -3867,7 +3867,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-05-01,TK_Patea,3881203
 2022-05-01,TK_Waverley,906820
 2022-05-01,TS_Motueka,15796865
-2022-05-01,WC_Greymouth,6831739
+2022-05-01,WC_Greymouth,7102601
 2022-05-01,WC_Reefton,20735448
 2022-05-01,WC_Westport,691140
 2022-05-01,WG_Carterton,13785020.5
@@ -4090,7 +4090,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-05-15,TK_Stratford,11497627
 2022-05-15,TK_Waverley,1716492
 2022-05-15,TS_Motueka,41877803
-2022-05-15,WC_Greymouth,5071210
+2022-05-15,WC_Greymouth,7200970
 2022-05-15,WC_Hokitika,3928014
 2022-05-15,WC_Reefton,4941864
 2022-05-15,WC_Westport,4947740
@@ -4198,7 +4198,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-05-22,TK_Stratford,10055270
 2022-05-22,TK_Waverley,19401574
 2022-05-22,TS_Motueka,7721648
-2022-05-22,WC_Greymouth,5564410
+2022-05-22,WC_Greymouth,5399046
 2022-05-22,WC_Hokitika,16668617
 2022-05-22,WC_Reefton,400000
 2022-05-22,WC_Westport,8124190
@@ -4304,7 +4304,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-05-29,TK_Stratford,1584830
 2022-05-29,TK_Waverley,13734612.5
 2022-05-29,TS_Motueka,2490575
-2022-05-29,WC_Greymouth,1410451
+2022-05-29,WC_Greymouth,1922274
 2022-05-29,WC_Hokitika,12721587
 2022-05-29,WC_Reefton,0
 2022-05-29,WC_Westport,1040880
@@ -4411,7 +4411,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-06-05,TK_Stratford,2231884
 2022-06-05,TK_Waverley,393888
 2022-06-05,TS_Motueka,21646483
-2022-06-05,WC_Greymouth,5776041
+2022-06-05,WC_Greymouth,9909308
 2022-06-05,WC_Reefton,400000
 2022-06-05,WC_Westport,6974220
 2022-06-05,WG_Carterton,2478359
@@ -4518,7 +4518,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-06-12,TK_Stratford,1487545
 2022-06-12,TK_Waverley,146768
 2022-06-12,TS_Motueka,6660216
-2022-06-12,WC_Greymouth,1162880
+2022-06-12,WC_Greymouth,964564
 2022-06-12,WC_Hokitika,422931
 2022-06-12,WC_Reefton,400000
 2022-06-12,WC_Westport,1030015
@@ -4625,7 +4625,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-06-19,TK_Patea,3837491
 2022-06-19,TK_Stratford,6491735
 2022-06-19,TK_Waverley,5226796
-2022-06-19,WC_Greymouth,2666360
+2022-06-19,WC_Greymouth,2744360
 2022-06-19,WC_Hokitika,12685444
 2022-06-19,WC_Reefton,400000
 2022-06-19,WC_Westport,1844940
@@ -4730,7 +4730,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-06-26,TK_Patea,1223601
 2022-06-26,TK_Waverley,110000
 2022-06-26,TS_Motueka,10345804
-2022-06-26,WC_Greymouth,917894
+2022-06-26,WC_Greymouth,1215298
 2022-06-26,WC_Hokitika,2484601
 2022-06-26,WC_Reefton,0
 2022-06-26,WC_Westport,4649705
@@ -4835,7 +4835,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-07-03,TK_Patea,15744575
 2022-07-03,TK_Waverley,1432224
 2022-07-03,TS_Motueka,13965111
-2022-07-03,WC_Greymouth,611461
+2022-07-03,WC_Greymouth,713371
 2022-07-03,WC_Hokitika,129675392
 2022-07-03,WC_Reefton,0
 2022-07-03,WC_Westport,3075855
@@ -4944,7 +4944,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-07-10,TK_Patea,6881510
 2022-07-10,TK_Waverley,1768063886
 2022-07-10,TS_Motueka,35743135
-2022-07-10,WC_Greymouth,6181554
+2022-07-10,WC_Greymouth,18193171
 2022-07-10,WC_Hokitika,18536898
 2022-07-10,WC_Reefton,655824
 2022-07-10,WC_Westport,4539995
@@ -5048,7 +5048,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-07-17,TK_Patea,15381899
 2022-07-17,TK_Waverley,439276
 2022-07-17,TS_Motueka,8775338
-2022-07-17,WC_Greymouth,3746618
+2022-07-17,WC_Greymouth,5179364
 2022-07-17,WC_Reefton,400000
 2022-07-17,WC_Westport,2154330
 2022-07-17,WG_Carterton,27367905.5
@@ -5151,7 +5151,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-07-24,TK_Patea,993407
 2022-07-24,TK_Waverley,4871462
 2022-07-24,TS_Motueka,15581371
-2022-07-24,WC_Greymouth,3225731
+2022-07-24,WC_Greymouth,3241740
 2022-07-24,WC_Hokitika,11289737
 2022-07-24,WC_Reefton,400000
 2022-07-24,WC_Westport,1942275
@@ -5256,7 +5256,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-07-31,TK_Patea,1327803
 2022-07-31,TK_Waverley,3656048
 2022-07-31,TS_Motueka,11990233
-2022-07-31,WC_Greymouth,1919377
+2022-07-31,WC_Greymouth,2697191
 2022-07-31,WC_Hokitika,17659578
 2022-07-31,WC_Reefton,0
 2022-07-31,WC_Westport,11922260
@@ -5359,7 +5359,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-08-07,TK_Patea,5261718
 2022-08-07,TK_Waverley,110000
 2022-08-07,TS_Motueka,1578224
-2022-08-07,WC_Greymouth,5210058
+2022-08-07,WC_Greymouth,3496638
 2022-08-07,WC_Hokitika,193516459
 2022-08-07,WC_Reefton,400000
 2022-08-07,WC_Westport,2198629
@@ -5459,7 +5459,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-08-14,TK_Patea,10145879
 2022-08-14,TK_Waverley,648265
 2022-08-14,TS_Motueka,9361907
-2022-08-14,WC_Greymouth,4388667
+2022-08-14,WC_Greymouth,6181742
 2022-08-14,WC_Hokitika,6208136
 2022-08-14,WC_Reefton,0
 2022-08-14,WG_Carterton,13262626
@@ -5556,7 +5556,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-08-21,TK_Opunake,3314344
 2022-08-21,TK_Patea,1624017
 2022-08-21,TK_Waverley,110000
-2022-08-21,WC_Greymouth,3140947
+2022-08-21,WC_Greymouth,4202370
 2022-08-21,WC_Reefton,400000
 2022-08-21,WG_Carterton,8616139
 2022-08-21,WG_Featherston,303216
@@ -5652,7 +5652,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-08-28,TK_Patea,4424235
 2022-08-28,TK_Waverley,1256618
 2022-08-28,TS_Motueka,12301289
-2022-08-28,WC_Greymouth,2457678
+2022-08-28,WC_Greymouth,4111443
 2022-08-28,WC_Reefton,0
 2022-08-28,WG_Carterton,69597028
 2022-08-28,WG_Featherston,19704757.5
@@ -5748,7 +5748,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-09-04,TK_Opunake,4364496
 2022-09-04,TK_Patea,1113692
 2022-09-04,TK_Waverley,149261
-2022-09-04,WC_Greymouth,117400
+2022-09-04,WC_Greymouth,128650
 2022-09-04,WC_Hokitika,2530946
 2022-09-04,WC_Reefton,0
 2022-09-04,WG_Carterton,1880442
@@ -5849,7 +5849,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-09-11,TK_Patea,309026
 2022-09-11,TK_Waverley,190080
 2022-09-11,TS_Motueka,3410686
-2022-09-11,WC_Greymouth,158350
+2022-09-11,WC_Greymouth,231100
 2022-09-11,WC_Reefton,0
 2022-09-11,WG_Carterton,23541632.5
 2022-09-11,WG_Featherston,463092
@@ -5944,7 +5944,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-09-18,TK_Patea,3546106
 2022-09-18,TK_Waverley,110000
 2022-09-18,TS_Motueka,404592
-2022-09-18,WC_Greymouth,1139264
+2022-09-18,WC_Greymouth,1213004
 2022-09-18,WC_Reefton,400000
 2022-09-18,WG_Carterton,5148286.5
 2022-09-18,WG_Featherston,427789.5
@@ -6039,7 +6039,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-09-25,TK_Patea,494950
 2022-09-25,TK_Waverley,0
 2022-09-25,TS_Motueka,1548888
-2022-09-25,WC_Greymouth,177550
+2022-09-25,WC_Greymouth,151400
 2022-09-25,WC_Reefton,400000
 2022-09-25,WG_Carterton,7628601.5
 2022-09-25,WG_Featherston,805408.5
@@ -6126,7 +6126,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-10-02,TK_Hawera,1536158.5
 2022-10-02,TK_NewPlymouth,1614700
 2022-10-02,TS_Motueka,1563729
-2022-10-02,WC_Greymouth,1238299
+2022-10-02,WC_Greymouth,1530622
 2022-10-02,WC_Reefton,400000
 2022-10-02,WG_Carterton,4564078
 2022-10-02,WG_Featherston,222000
@@ -6215,7 +6215,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-10-09,TK_Eltham,522172
 2022-10-09,TK_Hawera,3388081.5
 2022-10-09,TK_NewPlymouth,3050119
-2022-10-09,WC_Greymouth,1641370
+2022-10-09,WC_Greymouth,2150940
 2022-10-09,WC_Hokitika,8774084
 2022-10-09,WC_Reefton,400000
 2022-10-09,WG_Carterton,2009293.5
@@ -6302,7 +6302,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-10-16,TK_Eltham,5892717
 2022-10-16,TK_Hawera,2207458
 2022-10-16,TK_NewPlymouth,3856821.5
-2022-10-16,WC_Greymouth,4473454
+2022-10-16,WC_Greymouth,3730331
 2022-10-16,WC_Reefton,400000
 2022-10-16,WG_Carterton,15344583.5
 2022-10-16,WG_Featherston,1916783
@@ -6387,7 +6387,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-10-23,TK_Eltham,2569020
 2022-10-23,TK_Hawera,220166
 2022-10-23,TK_NewPlymouth,4952009.5
-2022-10-23,WC_Greymouth,256637
+2022-10-23,WC_Greymouth,337001
 2022-10-23,WC_Reefton,667824
 2022-10-23,WG_Carterton,14605445.5
 2022-10-23,WG_Featherston,1179976
@@ -6471,7 +6471,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-10-30,TK_Eltham,2759938
 2022-10-30,TK_Hawera,9994856.5
 2022-10-30,TK_NewPlymouth,3095774.5
-2022-10-30,WC_Greymouth,10276822
+2022-10-30,WC_Greymouth,17395962
 2022-10-30,WC_Reefton,2846784
 2022-10-30,WG_Carterton,2793261
 2022-10-30,WG_Featherston,1668189.5
@@ -6554,7 +6554,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-11-06,TK_Eltham,1517204
 2022-11-06,TK_Hawera,1426238
 2022-11-06,TK_NewPlymouth,3911194
-2022-11-06,WC_Greymouth,7567143
+2022-11-06,WC_Greymouth,6662820
 2022-11-06,WC_Reefton,2725304
 2022-11-06,WG_Carterton,1171206.5
 2022-11-06,WG_Featherston,2369993.5
@@ -6635,7 +6635,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-11-13,TK_Hawera,802721
 2022-11-13,TK_NewPlymouth,3453886.5
 2022-11-13,TS_Motueka,156024
-2022-11-13,WC_Greymouth,601238
+2022-11-13,WC_Greymouth,711286
 2022-11-13,WC_Reefton,4583696
 2022-11-13,WG_Carterton,4067454.5
 2022-11-13,WG_Featherston,222000
@@ -6803,7 +6803,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-11-27,TK_Eltham,615844
 2022-11-27,TK_Hawera,1919171
 2022-11-27,TK_NewPlymouth,2839407.5
-2022-11-27,WC_Greymouth,1462319
+2022-11-27,WC_Greymouth,1699431
 2022-11-27,WC_Reefton,400000
 2022-11-27,WC_Westport,311040
 2022-11-27,WG_Carterton,9853666
@@ -6887,7 +6887,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-12-04,TK_Eltham,4671491
 2022-12-04,TK_Hawera,1965434.5
 2022-12-04,TK_NewPlymouth,6153046
-2022-12-04,WC_Greymouth,501611
+2022-12-04,WC_Greymouth,1179686
 2022-12-04,WC_Reefton,0
 2022-12-04,WC_Westport,120000
 2022-12-04,WG_Carterton,21826778
@@ -6969,7 +6969,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-12-11,TK_Eltham,4697887
 2022-12-11,TK_Hawera,2778125.5
 2022-12-11,TK_NewPlymouth,4219317.5
-2022-12-11,WC_Greymouth,5681233
+2022-12-11,WC_Greymouth,8098435
 2022-12-11,WC_Reefton,400000
 2022-12-11,WC_Westport,161985
 2022-12-11,WG_Carterton,11919060
@@ -7125,7 +7125,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2022-12-25,TK_Eltham,7665706
 2022-12-25,TK_Hawera,3251190.5
 2022-12-25,TK_NewPlymouth,8051220
-2022-12-25,WC_Greymouth,2169672
+2022-12-25,WC_Greymouth,3041321
 2022-12-25,WC_Reefton,400000
 2022-12-25,WC_Westport,21092443
 2022-12-25,WG_Carterton,14241389
@@ -7210,7 +7210,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-01-15,TK_Eltham,453163
 2023-01-15,TK_Hawera,3895532.5
 2023-01-15,TK_NewPlymouth,3854589
-2023-01-15,WC_Greymouth,1023213
+2023-01-15,WC_Greymouth,633508
 2023-01-15,WC_Reefton,400000
 2023-01-15,WC_Westport,1150095
 2023-01-15,WG_Carterton,4302393
@@ -7293,7 +7293,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-01-22,TK_Eltham,734095
 2023-01-22,TK_Hawera,670162.5
 2023-01-22,TK_NewPlymouth,3144819.5
-2023-01-22,WC_Greymouth,1090477
+2023-01-22,WC_Greymouth,1938339
 2023-01-22,WC_Reefton,883784
 2023-01-22,WC_Westport,3532617
 2023-01-22,WG_Carterton,5905562.5
@@ -7377,7 +7377,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-01-29,SO_Invercargill,1017133
 2023-01-29,TK_Eltham,600704
 2023-01-29,TK_Hawera,4758543
-2023-01-29,WC_Greymouth,203450
+2023-01-29,WC_Greymouth,151200
 2023-01-29,WC_Reefton,4980216
 2023-01-29,WC_Westport,146880
 2023-01-29,WG_Carterton,4552886.5
@@ -7453,7 +7453,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-02-05,TK_Eltham,675172
 2023-02-05,TK_Hawera,1127422
 2023-02-05,TK_NewPlymouth,2419084.5
-2023-02-05,WC_Greymouth,361453
+2023-02-05,WC_Greymouth,510246
 2023-02-05,WC_Reefton,0
 2023-02-05,WC_Westport,62100
 2023-02-05,WG_Carterton,17135553.5
@@ -7529,7 +7529,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-02-12,TK_Eltham,563898
 2023-02-12,TK_Hawera,357302
 2023-02-12,TK_NewPlymouth,1691515
-2023-02-12,WC_Greymouth,6948144
+2023-02-12,WC_Greymouth,9155712
 2023-02-12,WC_Reefton,400000
 2023-02-12,WC_Westport,929664
 2023-02-12,WG_Carterton,13255005
@@ -7600,7 +7600,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-02-19,TK_Eltham,0
 2023-02-19,TK_Hawera,1734954
 2023-02-19,TK_NewPlymouth,2831598
-2023-02-19,WC_Greymouth,197400
+2023-02-19,WC_Greymouth,97300
 2023-02-19,WC_Reefton,3188000
 2023-02-19,WC_Westport,235602
 2023-02-19,WG_Carterton,13085083.5
@@ -7670,7 +7670,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-02-26,TK_Eltham,805538
 2023-02-26,TK_Hawera,274687
 2023-02-26,TK_NewPlymouth,1536495.5
-2023-02-26,WC_Greymouth,1767447
+2023-02-26,WC_Greymouth,2601939
 2023-02-26,WC_Reefton,454400
 2023-02-26,WC_Westport,139467
 2023-02-26,WG_Carterton,5456899
@@ -7742,7 +7742,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-03-05,TK_Eltham,2130179
 2023-03-05,TK_Hawera,280179
 2023-03-05,TK_NewPlymouth,2393480
-2023-03-05,WC_Greymouth,536553
+2023-03-05,WC_Greymouth,170617
 2023-03-05,WC_Reefton,7543200
 2023-03-05,WC_Westport,54300
 2023-03-05,WG_Carterton,980659.5
@@ -7820,7 +7820,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-03-12,TK_Eltham,610965
 2023-03-12,TK_Hawera,825826.5
 2023-03-12,TK_NewPlymouth,1833438
-2023-03-12,WC_Greymouth,13067926
+2023-03-12,WC_Greymouth,6541122
 2023-03-12,WC_Reefton,7525600
 2023-03-12,WC_Westport,410417
 2023-03-12,WG_Carterton,439959
@@ -7899,7 +7899,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-03-19,TK_Eltham,314897
 2023-03-19,TK_Hawera,809472
 2023-03-19,TK_NewPlymouth,2089892
-2023-03-19,WC_Greymouth,5288036
+2023-03-19,WC_Greymouth,5521816
 2023-03-19,WC_Reefton,0
 2023-03-19,WC_Westport,34560
 2023-03-19,WG_Carterton,931745
@@ -7975,7 +7975,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-03-26,TK_Eltham,5060351
 2023-03-26,TK_Hawera,3142103
 2023-03-26,TK_NewPlymouth,3200779
-2023-03-26,WC_Greymouth,2793137
+2023-03-26,WC_Greymouth,3426659
 2023-03-26,WC_Reefton,0
 2023-03-26,WC_Westport,2138292
 2023-03-26,WG_Carterton,3824860
@@ -8056,7 +8056,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-04-02,TK_Hawera,2864398
 2023-04-02,TK_NewPlymouth,3600109
 2023-04-02,TS_Motueka,614544
-2023-04-02,WC_Greymouth,4245695
+2023-04-02,WC_Greymouth,2874622
 2023-04-02,WC_Reefton,400000
 2023-04-02,WC_Westport,374013
 2023-04-02,WG_Carterton,4668097.5
@@ -8131,7 +8131,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-04-09,TK_Hawera,413603.5
 2023-04-09,TK_NewPlymouth,2288604
 2023-04-09,TS_Motueka,156024
-2023-04-09,WC_Greymouth,3431284
+2023-04-09,WC_Greymouth,4744942
 2023-04-09,WC_Reefton,1077712
 2023-04-09,WC_Westport,8116406
 2023-04-09,WG_Carterton,12614668
@@ -8205,7 +8205,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-04-16,TK_Hawera,8074357.5
 2023-04-16,TK_NewPlymouth,5632730
 2023-04-16,TS_Motueka,7501033
-2023-04-16,WC_Greymouth,2731266
+2023-04-16,WC_Greymouth,2850173
 2023-04-16,WC_Reefton,400000
 2023-04-16,WC_Westport,2193841
 2023-04-16,WG_Carterton,1267671.5
@@ -8276,7 +8276,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-04-23,TK_Hawera,6578121.5
 2023-04-23,TK_NewPlymouth,4519013.5
 2023-04-23,TS_Motueka,29009628
-2023-04-23,WC_Greymouth,1009503
+2023-04-23,WC_Greymouth,1237708
 2023-04-23,WC_Westport,285120
 2023-04-23,WG_Carterton,7720262
 2023-04-23,WG_Masterton,1660371.5
@@ -8339,7 +8339,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-04-30,TK_Eltham,3457937
 2023-04-30,TK_Hawera,626100
 2023-04-30,TK_NewPlymouth,3508879
-2023-04-30,WC_Greymouth,3815620
+2023-04-30,WC_Greymouth,2532431
 2023-04-30,WC_Westport,39417
 2023-04-30,WG_Carterton,3320528
 2023-04-30,WG_MoaPoint,1727635
@@ -8404,7 +8404,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-05-07,TK_Hawera,1702200
 2023-05-07,TK_NewPlymouth,3432200
 2023-05-07,TS_Motueka,218745
-2023-05-07,WC_Greymouth,1595770
+2023-05-07,WC_Greymouth,1835040
 2023-05-07,WC_Westport,216000
 2023-05-07,WG_Carterton,7711033
 2023-05-07,WG_Masterton,484936.5
@@ -8462,7 +8462,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-05-14,TK_Eltham,1215067
 2023-05-14,TK_Hawera,626000
 2023-05-14,TK_NewPlymouth,1641035.5
-2023-05-14,WC_Greymouth,395000
+2023-05-14,WC_Greymouth,413950
 2023-05-14,WC_Westport,760320
 2023-05-14,WG_Carterton,5234896
 2023-05-14,WG_Masterton,1485302
@@ -8522,7 +8522,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-05-21,TK_Eltham,604843
 2023-05-21,TK_Hawera,400000
 2023-05-21,TK_NewPlymouth,447999.5
-2023-05-21,WC_Greymouth,252750
+2023-05-21,WC_Greymouth,386250
 2023-05-21,WC_Westport,174400
 2023-05-21,WG_Carterton,23295978
 2023-05-21,WG_Masterton,1607516.5
@@ -8588,7 +8588,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-05-28,TK_Hawera,600000
 2023-05-28,TK_NewPlymouth,4043229
 2023-05-28,TS_Motueka,156024
-2023-05-28,WC_Greymouth,1305188
+2023-05-28,WC_Greymouth,1567980
 2023-05-28,WC_Westport,1019048
 2023-05-28,WG_Carterton,110887056.5
 2023-05-28,WG_Masterton,5515722
@@ -8649,7 +8649,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-04,TK_Eltham,15983186
 2023-06-04,TK_Hawera,1671880
 2023-06-04,TK_NewPlymouth,4741911.5
-2023-06-04,WC_Greymouth,383950
+2023-06-04,WC_Greymouth,368900
 2023-06-04,WC_Westport,3236352
 2023-06-04,WG_Carterton,2556013
 2023-06-04,WG_Masterton,2675973.5
@@ -8713,7 +8713,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-11,TK_Hawera,200000
 2023-06-11,TK_NewPlymouth,3993006.5
 2023-06-11,TS_Motueka,16061073
-2023-06-11,WC_Greymouth,390037
+2023-06-11,WC_Greymouth,239580
 2023-06-11,WC_Westport,259200
 2023-06-11,WG_Carterton,31439178
 2023-06-11,WG_Masterton,1106463
@@ -8769,7 +8769,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-18,TK_Hawera,567171
 2023-06-18,TK_NewPlymouth,4515575.5
 2023-06-18,TS_Motueka,2510168
-2023-06-18,WC_Greymouth,69192
+2023-06-18,WC_Greymouth,805817
 2023-06-18,WC_Westport,2041182
 2023-06-18,WG_Masterton,993540.5
 2023-06-18,WG_MoaPoint,543108.5
@@ -8822,7 +8822,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-06-25,TK_Hawera,857341.5
 2023-06-25,TK_NewPlymouth,1168697.5
 2023-06-25,TS_Motueka,3539322
-2023-06-25,WC_Greymouth,149310
+2023-06-25,WC_Greymouth,643649
 2023-06-25,WC_Westport,21063090
 2023-06-25,WG_Masterton,753274
 2023-06-25,WG_MoaPoint,3369149.5
@@ -8876,7 +8876,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-02,TK_Hawera,350000
 2023-07-02,TK_NewPlymouth,2480543.5
 2023-07-02,TS_Motueka,267927
-2023-07-02,WC_Greymouth,665002
+2023-07-02,WC_Greymouth,8433849
 2023-07-02,WC_Westport,236189
 2023-07-02,WG_Masterton,504347
 2023-07-02,WG_MoaPoint,1048624
@@ -8927,7 +8927,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-09,TK_Hawera,2747828
 2023-07-09,TK_NewPlymouth,1849122
 2023-07-09,TS_Motueka,1100182
-2023-07-09,WC_Greymouth,37000
+2023-07-09,WC_Greymouth,382300
 2023-07-09,WC_Westport,5687643
 2023-07-09,WG_Masterton,895605.5
 2023-07-09,WG_MoaPoint,1247098
@@ -8972,7 +8972,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-16,SO_Invercargill,256577
 2023-07-16,TK_NewPlymouth,5361572
 2023-07-16,TS_Motueka,5996293
-2023-07-16,WC_Greymouth,37000
+2023-07-16,WC_Greymouth,281250
 2023-07-16,WC_Westport,166200
 2023-07-16,WG_Masterton,314347
 2023-07-16,WG_MoaPoint,859650
@@ -9017,7 +9017,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-23,SO_Invercargill,799689
 2023-07-23,TK_Hawera,1846191
 2023-07-23,TK_NewPlymouth,1938757
-2023-07-23,WC_Greymouth,37000
+2023-07-23,WC_Greymouth,222000
 2023-07-23,WC_Westport,88700
 2023-07-23,WG_Masterton,1498853
 2023-07-23,WG_MoaPoint,1672210
@@ -9064,7 +9064,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-07-30,TK_Hawera,1341780
 2023-07-30,TK_NewPlymouth,1665125
 2023-07-30,TS_Motueka,207140
-2023-07-30,WC_Greymouth,264884
+2023-07-30,WC_Greymouth,1733203
 2023-07-30,WC_Westport,148600
 2023-07-30,WG_Masterton,693175
 2023-07-30,WG_MoaPoint,911896
@@ -9147,7 +9147,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-08-13,SO_Invercargill,2251538
 2023-08-13,TK_Hawera,2077257
 2023-08-13,TK_NewPlymouth,3184729
-2023-08-13,WC_Greymouth,37000
+2023-08-13,WC_Greymouth,238800
 2023-08-13,WC_Westport,194700
 2023-08-13,WG_Masterton,846729.5
 2023-08-13,WG_MoaPoint,988889.5
@@ -9193,7 +9193,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-08-20,TK_Hawera,2795642.5
 2023-08-20,TK_NewPlymouth,1026295
 2023-08-20,TS_Motueka,435893
-2023-08-20,WC_Greymouth,54241
+2023-08-20,WC_Greymouth,738194
 2023-08-20,WC_Westport,231500
 2023-08-20,WG_Masterton,646632
 2023-08-20,WG_MoaPoint,2745264.5
@@ -9237,7 +9237,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-08-27,TK_Hawera,1322231
 2023-08-27,TK_NewPlymouth,1456707.5
 2023-08-27,TS_Motueka,571485
-2023-08-27,WC_Greymouth,105504
+2023-08-27,WC_Greymouth,836624
 2023-08-27,WC_Westport,1303875
 2023-08-27,WG_Masterton,1299479
 2023-08-27,WG_MoaPoint,563614
@@ -9248,3 +9248,47 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2023-08-27,WK_Hamilton,367929.5
 2023-08-27,WK_Taupo,1669957
 2023-08-27,WK_Whitianga,885272
+2023-09-03,AU_Eastern,1862821.5
+2023-09-03,AU_Mangere,855650
+2023-09-03,AU_Rosedale,1917594
+2023-09-03,AU_SouthWestern,576113
+2023-09-03,AU_Western,662860.5
+2023-09-03,BP_Kawerau,2957940
+2023-09-03,BP_Rotorua,2292146.5
+2023-09-03,BP_Tauranga,1111466.5
+2023-09-03,BP_TeMaunga,1232323
+2023-09-03,BP_Whakatane,844658
+2023-09-03,CA_Ashburton,653852.5
+2023-09-03,CA_Christchurch,540499
+2023-09-03,CA_Rolleston,1173354
+2023-09-03,CA_Timaru,3969005
+2023-09-03,GI_Gisborne,2089631.5
+2023-09-03,HB_Hastings,5981908.5
+2023-09-03,HB_Napier,3104725
+2023-09-03,MA_Blenheim,589490
+2023-09-03,MW_Levin,1155533.5
+2023-09-03,MW_PalmerstonNorth,880454
+2023-09-03,MW_Whanganui,1827988.5
+2023-09-03,NE_Nelson,2634697.5
+2023-09-03,NO_Dargaville,465627
+2023-09-03,OT_DunedinTahuna,686914.5
+2023-09-03,OT_GreenIsland,141189.5
+2023-09-03,OT_Mosgiel,701708.5
+2023-09-03,OT_Queenstown,3860803
+2023-09-03,SO_Gore,1088877
+2023-09-03,SO_Invercargill,4637590
+2023-09-03,TK_Hawera,4501354.5
+2023-09-03,TK_NewPlymouth,2227228
+2023-09-03,TS_Motueka,0
+2023-09-03,WC_Greymouth,37000
+2023-09-03,WC_Westport,0
+2023-09-03,WG_Masterton,649106.5
+2023-09-03,WG_MoaPoint,1353191
+2023-09-03,WG_Otaki,2742167
+2023-09-03,WG_Paraparaumu,694106
+2023-09-03,WG_Porirua,2333701.5
+2023-09-03,WG_Seaview,2276649.5
+2023-09-03,WK_Hamilton,229569.5
+2023-09-03,WK_Taupo,8617631.5
+2023-09-03,WK_Whangamata,177375
+2023-09-03,WK_Whitianga,3687947
