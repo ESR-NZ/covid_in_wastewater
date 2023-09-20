@@ -1,126 +1,160 @@
 DisplayName,variant,seen,detected
-Whangarei,CH.1.1,TRUE,TRUE
+Whangarei,BA.2.86,TRUE,TRUE
+Whangarei,CH.1.1,FALSE,FALSE
 Whangarei,EG.5,TRUE,TRUE
+Whangarei,Recombinant,TRUE,TRUE
 Whangarei,XBB,TRUE,TRUE
 Whangarei,XBB.1.16,TRUE,TRUE
 Whangarei,XBB.1.5,TRUE,TRUE
 Whangarei,XBC,TRUE,TRUE
+North Shore,BA.2.86,FALSE,FALSE
 North Shore,CH.1.1,TRUE,TRUE
 North Shore,EG.5,TRUE,TRUE
+North Shore,Recombinant,FALSE,FALSE
 North Shore,XBB,TRUE,TRUE
 North Shore,XBB.1.16,TRUE,TRUE
 North Shore,XBB.1.5,TRUE,TRUE
 North Shore,XBC,TRUE,TRUE
+Auckland West,BA.2.86,TRUE,TRUE
 Auckland West,CH.1.1,TRUE,TRUE
 Auckland West,EG.5,TRUE,TRUE
+Auckland West,Recombinant,TRUE,TRUE
 Auckland West,XBB,TRUE,TRUE
 Auckland West,XBB.1.16,TRUE,TRUE
 Auckland West,XBB.1.5,TRUE,TRUE
 Auckland West,XBC,TRUE,TRUE
+Auckland East,BA.2.86,FALSE,FALSE
 Auckland East,CH.1.1,FALSE,FALSE
 Auckland East,EG.5,TRUE,TRUE
+Auckland East,Recombinant,TRUE,TRUE
 Auckland East,XBB,TRUE,TRUE
 Auckland East,XBB.1.16,TRUE,TRUE
 Auckland East,XBB.1.5,TRUE,TRUE
 Auckland East,XBC,TRUE,TRUE
+Auckland Southwest,BA.2.86,FALSE,FALSE
 Auckland Southwest,CH.1.1,TRUE,TRUE
 Auckland Southwest,EG.5,TRUE,TRUE
+Auckland Southwest,Recombinant,FALSE,FALSE
 Auckland Southwest,XBB,TRUE,TRUE
 Auckland Southwest,XBB.1.16,TRUE,TRUE
 Auckland Southwest,XBB.1.5,TRUE,TRUE
 Auckland Southwest,XBC,TRUE,TRUE
+Hamilton,BA.2.86,FALSE,FALSE
 Hamilton,CH.1.1,FALSE,FALSE
 Hamilton,EG.5,TRUE,TRUE
-Hamilton,XBB,FALSE,FALSE
+Hamilton,Recombinant,TRUE,TRUE
+Hamilton,XBB,TRUE,TRUE
 Hamilton,XBB.1.16,FALSE,FALSE
 Hamilton,XBB.1.5,TRUE,TRUE
-Hamilton,XBC,TRUE,TRUE
+Hamilton,XBC,FALSE,FALSE
+Taupo,BA.2.86,FALSE,FALSE
 Taupo,CH.1.1,TRUE,TRUE
 Taupo,EG.5,TRUE,TRUE
+Taupo,Recombinant,FALSE,FALSE
 Taupo,XBB,TRUE,TRUE
 Taupo,XBB.1.16,TRUE,TRUE
 Taupo,XBB.1.5,TRUE,TRUE
 Taupo,XBC,TRUE,TRUE
+Mt Maunganui/Papamoa,BA.2.86,FALSE,FALSE
 Mt Maunganui/Papamoa,CH.1.1,FALSE,FALSE
 Mt Maunganui/Papamoa,EG.5,TRUE,TRUE
+Mt Maunganui/Papamoa,Recombinant,FALSE,FALSE
 Mt Maunganui/Papamoa,XBB,TRUE,TRUE
 Mt Maunganui/Papamoa,XBB.1.16,TRUE,TRUE
 Mt Maunganui/Papamoa,XBB.1.5,TRUE,TRUE
 Mt Maunganui/Papamoa,XBC,TRUE,TRUE
-Rotorua,CH.1.1,FALSE,FALSE
+Rotorua,BA.2.86,FALSE,FALSE
+Rotorua,CH.1.1,TRUE,TRUE
 Rotorua,EG.5,TRUE,TRUE
+Rotorua,Recombinant,FALSE,FALSE
 Rotorua,XBB,TRUE,TRUE
-Rotorua,XBB.1.16,TRUE,TRUE
+Rotorua,XBB.1.16,FALSE,FALSE
 Rotorua,XBB.1.5,TRUE,TRUE
 Rotorua,XBC,TRUE,TRUE
-Gisborne,CH.1.1,FALSE,FALSE
+Gisborne,BA.2.86,FALSE,FALSE
+Gisborne,CH.1.1,TRUE,TRUE
 Gisborne,EG.5,TRUE,TRUE
-Gisborne,XBB,FALSE,FALSE
-Gisborne,XBB.1.16,FALSE,FALSE
-Gisborne,XBB.1.5,FALSE,FALSE
+Gisborne,Recombinant,FALSE,FALSE
+Gisborne,XBB,TRUE,TRUE
+Gisborne,XBB.1.16,TRUE,TRUE
+Gisborne,XBB.1.5,TRUE,TRUE
 Gisborne,XBC,TRUE,TRUE
+Hastings,BA.2.86,FALSE,FALSE
 Hastings,CH.1.1,TRUE,TRUE
 Hastings,EG.5,TRUE,TRUE
+Hastings,Recombinant,TRUE,TRUE
 Hastings,XBB,TRUE,TRUE
 Hastings,XBB.1.16,TRUE,TRUE
 Hastings,XBB.1.5,TRUE,TRUE
 Hastings,XBC,TRUE,TRUE
-New Plymouth,CH.1.1,TRUE,TRUE
+New Plymouth,BA.2.86,FALSE,FALSE
+New Plymouth,CH.1.1,FALSE,FALSE
 New Plymouth,EG.5,TRUE,TRUE
+New Plymouth,Recombinant,FALSE,FALSE
 New Plymouth,XBB,TRUE,TRUE
 New Plymouth,XBB.1.16,TRUE,TRUE
 New Plymouth,XBB.1.5,TRUE,TRUE
 New Plymouth,XBC,TRUE,TRUE
+Palmerston North,BA.2.86,FALSE,FALSE
 Palmerston North,CH.1.1,TRUE,TRUE
 Palmerston North,EG.5,TRUE,TRUE
+Palmerston North,Recombinant,FALSE,FALSE
 Palmerston North,XBB,TRUE,TRUE
 Palmerston North,XBB.1.16,TRUE,TRUE
 Palmerston North,XBB.1.5,TRUE,TRUE
 Palmerston North,XBC,TRUE,TRUE
+Porirua,BA.2.86,FALSE,FALSE
 Porirua,CH.1.1,TRUE,TRUE
 Porirua,EG.5,TRUE,TRUE
+Porirua,Recombinant,FALSE,FALSE
 Porirua,XBB,TRUE,TRUE
 Porirua,XBB.1.16,TRUE,TRUE
 Porirua,XBB.1.5,TRUE,TRUE
 Porirua,XBC,TRUE,TRUE
-Wellington (Moa Point),CH.1.1,FALSE,FALSE
+Wellington (Moa Point),BA.2.86,FALSE,FALSE
+Wellington (Moa Point),CH.1.1,TRUE,TRUE
 Wellington (Moa Point),EG.5,TRUE,TRUE
+Wellington (Moa Point),Recombinant,FALSE,FALSE
 Wellington (Moa Point),XBB,TRUE,TRUE
 Wellington (Moa Point),XBB.1.16,TRUE,TRUE
 Wellington (Moa Point),XBB.1.5,TRUE,TRUE
 Wellington (Moa Point),XBC,TRUE,TRUE
-Richmond/Nelson South,CH.1.1,TRUE,TRUE
-Richmond/Nelson South,EG.5,TRUE,TRUE
-Richmond/Nelson South,XBB,TRUE,TRUE
-Richmond/Nelson South,XBB.1.16,TRUE,TRUE
-Richmond/Nelson South,XBB.1.5,TRUE,TRUE
-Richmond/Nelson South,XBC,TRUE,TRUE
+Christchurch,BA.2.86,FALSE,FALSE
 Christchurch,CH.1.1,TRUE,TRUE
 Christchurch,EG.5,TRUE,TRUE
+Christchurch,Recombinant,FALSE,FALSE
 Christchurch,XBB,TRUE,TRUE
 Christchurch,XBB.1.16,TRUE,TRUE
 Christchurch,XBB.1.5,TRUE,TRUE
 Christchurch,XBC,TRUE,TRUE
+Queenstown,BA.2.86,FALSE,FALSE
 Queenstown,CH.1.1,TRUE,TRUE
 Queenstown,EG.5,TRUE,TRUE
+Queenstown,Recombinant,TRUE,TRUE
 Queenstown,XBB,TRUE,TRUE
 Queenstown,XBB.1.16,TRUE,TRUE
 Queenstown,XBB.1.5,TRUE,TRUE
 Queenstown,XBC,TRUE,TRUE
+Dunedin (Tahuna),BA.2.86,FALSE,FALSE
 Dunedin (Tahuna),CH.1.1,TRUE,TRUE
 Dunedin (Tahuna),EG.5,TRUE,TRUE
+Dunedin (Tahuna),Recombinant,FALSE,FALSE
 Dunedin (Tahuna),XBB,TRUE,TRUE
-Dunedin (Tahuna),XBB.1.16,TRUE,TRUE
+Dunedin (Tahuna),XBB.1.16,FALSE,FALSE
 Dunedin (Tahuna),XBB.1.5,TRUE,TRUE
 Dunedin (Tahuna),XBC,TRUE,TRUE
+Invercargill,BA.2.86,FALSE,FALSE
 Invercargill,CH.1.1,FALSE,FALSE
-Invercargill,EG.5,FALSE,FALSE
+Invercargill,EG.5,TRUE,TRUE
+Invercargill,Recombinant,FALSE,FALSE
 Invercargill,XBB,TRUE,TRUE
 Invercargill,XBB.1.16,TRUE,TRUE
 Invercargill,XBB.1.5,TRUE,TRUE
 Invercargill,XBC,TRUE,TRUE
+National,BA.2.86,TRUE,TRUE
 National,CH.1.1,TRUE,TRUE
 National,EG.5,TRUE,TRUE
+National,Recombinant,TRUE,TRUE
 National,XBB,TRUE,TRUE
 National,XBB.1.16,TRUE,TRUE
 National,XBB.1.5,TRUE,TRUE
