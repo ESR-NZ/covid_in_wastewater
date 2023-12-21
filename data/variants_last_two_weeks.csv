@@ -1,17 +1,15 @@
 region_id,DisplayName,variant,seen,detected
-1,Whangarei,BA.2.75,NA,FALSE
-1,Whangarei,BA.2.86,NA,FALSE
+1,Whangarei,BA.2.86,TRUE,TRUE
 1,Whangarei,CH.1.1,NA,FALSE
 1,Whangarei,EG.5,TRUE,TRUE
 1,Whangarei,HK.1.2,NA,FALSE
 1,Whangarei,HK.3,TRUE,TRUE
 1,Whangarei,HV.1,TRUE,TRUE
-1,Whangarei,JD.1.1,NA,FALSE
-1,Whangarei,JN.1,NA,FALSE
+1,Whangarei,JD.1.1,TRUE,TRUE
+1,Whangarei,JN.1,TRUE,TRUE
 1,Whangarei,Recombinant,TRUE,TRUE
 1,Whangarei,XBB,TRUE,TRUE
-1,Whangarei,XBC,TRUE,TRUE
-2,North Shore,BA.2.75,NA,FALSE
+1,Whangarei,XBC,NA,FALSE
 2,North Shore,BA.2.86,TRUE,TRUE
 2,North Shore,CH.1.1,TRUE,TRUE
 2,North Shore,EG.5,TRUE,TRUE
@@ -22,20 +20,18 @@ region_id,DisplayName,variant,seen,detected
 2,North Shore,JN.1,TRUE,TRUE
 2,North Shore,Recombinant,TRUE,TRUE
 2,North Shore,XBB,TRUE,TRUE
-2,North Shore,XBC,TRUE,TRUE
-2,Auckland West,BA.2.75,TRUE,TRUE
-2,Auckland West,BA.2.86,NA,FALSE
-2,Auckland West,CH.1.1,TRUE,TRUE
+2,North Shore,XBC,NA,FALSE
+2,Auckland West,BA.2.86,TRUE,TRUE
+2,Auckland West,CH.1.1,NA,FALSE
 2,Auckland West,EG.5,TRUE,TRUE
 2,Auckland West,HK.1.2,TRUE,TRUE
 2,Auckland West,HK.3,TRUE,TRUE
 2,Auckland West,HV.1,TRUE,TRUE
-2,Auckland West,JD.1.1,TRUE,TRUE
+2,Auckland West,JD.1.1,NA,FALSE
 2,Auckland West,JN.1,TRUE,TRUE
 2,Auckland West,Recombinant,TRUE,TRUE
 2,Auckland West,XBB,TRUE,TRUE
 2,Auckland West,XBC,TRUE,TRUE
-2,Auckland East,BA.2.75,NA,FALSE
 2,Auckland East,BA.2.86,TRUE,TRUE
 2,Auckland East,CH.1.1,NA,FALSE
 2,Auckland East,EG.5,TRUE,TRUE
@@ -47,7 +43,6 @@ region_id,DisplayName,variant,seen,detected
 2,Auckland East,Recombinant,TRUE,TRUE
 2,Auckland East,XBB,TRUE,TRUE
 2,Auckland East,XBC,TRUE,TRUE
-2,Auckland Southwest,BA.2.75,NA,FALSE
 2,Auckland Southwest,BA.2.86,TRUE,TRUE
 2,Auckland Southwest,CH.1.1,NA,FALSE
 2,Auckland Southwest,EG.5,TRUE,TRUE
@@ -59,43 +54,39 @@ region_id,DisplayName,variant,seen,detected
 2,Auckland Southwest,Recombinant,TRUE,TRUE
 2,Auckland Southwest,XBB,TRUE,TRUE
 2,Auckland Southwest,XBC,TRUE,TRUE
-3,Hamilton,BA.2.75,NA,FALSE
 3,Hamilton,BA.2.86,NA,FALSE
-3,Hamilton,CH.1.1,TRUE,TRUE
+3,Hamilton,CH.1.1,NA,FALSE
 3,Hamilton,EG.5,TRUE,TRUE
-3,Hamilton,HK.1.2,NA,FALSE
+3,Hamilton,HK.1.2,TRUE,TRUE
 3,Hamilton,HK.3,TRUE,TRUE
 3,Hamilton,HV.1,NA,FALSE
 3,Hamilton,JD.1.1,NA,FALSE
-3,Hamilton,JN.1,NA,FALSE
+3,Hamilton,JN.1,TRUE,TRUE
 3,Hamilton,Recombinant,TRUE,TRUE
-3,Hamilton,XBB,TRUE,TRUE
-3,Hamilton,XBC,TRUE,TRUE
-3,Taupo,BA.2.75,NA,FALSE
+3,Hamilton,XBB,NA,FALSE
+3,Hamilton,XBC,NA,FALSE
 3,Taupo,BA.2.86,TRUE,TRUE
 3,Taupo,CH.1.1,NA,FALSE
 3,Taupo,EG.5,TRUE,TRUE
 3,Taupo,HK.1.2,TRUE,TRUE
-3,Taupo,HK.3,TRUE,TRUE
+3,Taupo,HK.3,NA,FALSE
 3,Taupo,HV.1,TRUE,TRUE
-3,Taupo,JD.1.1,NA,FALSE
+3,Taupo,JD.1.1,TRUE,TRUE
 3,Taupo,JN.1,TRUE,TRUE
 3,Taupo,Recombinant,TRUE,TRUE
 3,Taupo,XBB,TRUE,TRUE
-3,Taupo,XBC,TRUE,TRUE
-4,Mt Maunganui/Papamoa,BA.2.75,NA,FALSE
+3,Taupo,XBC,NA,FALSE
 4,Mt Maunganui/Papamoa,BA.2.86,NA,FALSE
 4,Mt Maunganui/Papamoa,CH.1.1,NA,FALSE
 4,Mt Maunganui/Papamoa,EG.5,TRUE,TRUE
 4,Mt Maunganui/Papamoa,HK.1.2,TRUE,TRUE
 4,Mt Maunganui/Papamoa,HK.3,TRUE,TRUE
 4,Mt Maunganui/Papamoa,HV.1,TRUE,TRUE
-4,Mt Maunganui/Papamoa,JD.1.1,NA,FALSE
+4,Mt Maunganui/Papamoa,JD.1.1,TRUE,TRUE
 4,Mt Maunganui/Papamoa,JN.1,TRUE,TRUE
 4,Mt Maunganui/Papamoa,Recombinant,TRUE,TRUE
 4,Mt Maunganui/Papamoa,XBB,TRUE,TRUE
-4,Mt Maunganui/Papamoa,XBC,TRUE,TRUE
-4,Rotorua,BA.2.75,NA,FALSE
+4,Mt Maunganui/Papamoa,XBC,NA,FALSE
 4,Rotorua,BA.2.86,TRUE,TRUE
 4,Rotorua,CH.1.1,NA,FALSE
 4,Rotorua,EG.5,TRUE,TRUE
@@ -106,32 +97,18 @@ region_id,DisplayName,variant,seen,detected
 4,Rotorua,JN.1,TRUE,TRUE
 4,Rotorua,Recombinant,TRUE,TRUE
 4,Rotorua,XBB,TRUE,TRUE
-4,Rotorua,XBC,TRUE,TRUE
-5,Gisborne,BA.2.75,NA,FALSE
-5,Gisborne,BA.2.86,NA,FALSE
-5,Gisborne,CH.1.1,NA,FALSE
-5,Gisborne,EG.5,TRUE,TRUE
-5,Gisborne,HK.1.2,TRUE,TRUE
-5,Gisborne,HK.3,TRUE,TRUE
-5,Gisborne,HV.1,NA,FALSE
-5,Gisborne,JD.1.1,TRUE,TRUE
-5,Gisborne,JN.1,NA,FALSE
-5,Gisborne,Recombinant,TRUE,TRUE
-5,Gisborne,XBB,TRUE,TRUE
-5,Gisborne,XBC,NA,FALSE
-6,Hastings,BA.2.75,TRUE,TRUE
-6,Hastings,BA.2.86,TRUE,TRUE
-6,Hastings,CH.1.1,TRUE,TRUE
+4,Rotorua,XBC,NA,FALSE
+6,Hastings,BA.2.86,NA,FALSE
+6,Hastings,CH.1.1,NA,FALSE
 6,Hastings,EG.5,TRUE,TRUE
 6,Hastings,HK.1.2,TRUE,TRUE
 6,Hastings,HK.3,TRUE,TRUE
 6,Hastings,HV.1,TRUE,TRUE
 6,Hastings,JD.1.1,TRUE,TRUE
-6,Hastings,JN.1,NA,FALSE
+6,Hastings,JN.1,TRUE,TRUE
 6,Hastings,Recombinant,TRUE,TRUE
 6,Hastings,XBB,TRUE,TRUE
 6,Hastings,XBC,TRUE,TRUE
-7,New Plymouth,BA.2.75,NA,FALSE
 7,New Plymouth,BA.2.86,TRUE,TRUE
 7,New Plymouth,CH.1.1,NA,FALSE
 7,New Plymouth,EG.5,TRUE,TRUE
@@ -143,67 +120,61 @@ region_id,DisplayName,variant,seen,detected
 7,New Plymouth,Recombinant,TRUE,TRUE
 7,New Plymouth,XBB,TRUE,TRUE
 7,New Plymouth,XBC,TRUE,TRUE
-8,Palmerston North,BA.2.75,TRUE,TRUE
-8,Palmerston North,BA.2.86,TRUE,TRUE
-8,Palmerston North,CH.1.1,TRUE,TRUE
+8,Palmerston North,BA.2.86,NA,FALSE
+8,Palmerston North,CH.1.1,NA,FALSE
 8,Palmerston North,EG.5,TRUE,TRUE
 8,Palmerston North,HK.1.2,TRUE,TRUE
 8,Palmerston North,HK.3,TRUE,TRUE
 8,Palmerston North,HV.1,TRUE,TRUE
-8,Palmerston North,JD.1.1,TRUE,TRUE
-8,Palmerston North,JN.1,NA,FALSE
+8,Palmerston North,JD.1.1,NA,FALSE
+8,Palmerston North,JN.1,TRUE,TRUE
 8,Palmerston North,Recombinant,TRUE,TRUE
 8,Palmerston North,XBB,TRUE,TRUE
 8,Palmerston North,XBC,TRUE,TRUE
-9,Porirua,BA.2.75,NA,FALSE
 9,Porirua,BA.2.86,TRUE,TRUE
 9,Porirua,CH.1.1,NA,FALSE
 9,Porirua,EG.5,TRUE,TRUE
 9,Porirua,HK.1.2,TRUE,TRUE
 9,Porirua,HK.3,TRUE,TRUE
 9,Porirua,HV.1,TRUE,TRUE
-9,Porirua,JD.1.1,NA,FALSE
+9,Porirua,JD.1.1,TRUE,TRUE
 9,Porirua,JN.1,TRUE,TRUE
 9,Porirua,Recombinant,TRUE,TRUE
 9,Porirua,XBB,TRUE,TRUE
 9,Porirua,XBC,TRUE,TRUE
-9,Wellington (Moa Point),BA.2.75,NA,FALSE
-9,Wellington (Moa Point),BA.2.86,NA,FALSE
+9,Wellington (Moa Point),BA.2.86,TRUE,TRUE
 9,Wellington (Moa Point),CH.1.1,NA,FALSE
 9,Wellington (Moa Point),EG.5,TRUE,TRUE
 9,Wellington (Moa Point),HK.1.2,TRUE,TRUE
 9,Wellington (Moa Point),HK.3,TRUE,TRUE
-9,Wellington (Moa Point),HV.1,NA,FALSE
+9,Wellington (Moa Point),HV.1,TRUE,TRUE
 9,Wellington (Moa Point),JD.1.1,NA,FALSE
-9,Wellington (Moa Point),JN.1,NA,FALSE
+9,Wellington (Moa Point),JN.1,TRUE,TRUE
 9,Wellington (Moa Point),Recombinant,TRUE,TRUE
-9,Wellington (Moa Point),XBB,NA,FALSE
-9,Wellington (Moa Point),XBC,NA,FALSE
-11,Nelson Central/North,BA.2.75,NA,FALSE
-11,Nelson Central/North,BA.2.86,TRUE,TRUE
+9,Wellington (Moa Point),XBB,TRUE,TRUE
+9,Wellington (Moa Point),XBC,TRUE,TRUE
+11,Nelson Central/North,BA.2.86,NA,FALSE
 11,Nelson Central/North,CH.1.1,NA,FALSE
 11,Nelson Central/North,EG.5,TRUE,TRUE
 11,Nelson Central/North,HK.1.2,TRUE,TRUE
 11,Nelson Central/North,HK.3,TRUE,TRUE
 11,Nelson Central/North,HV.1,TRUE,TRUE
-11,Nelson Central/North,JD.1.1,NA,FALSE
+11,Nelson Central/North,JD.1.1,TRUE,TRUE
 11,Nelson Central/North,JN.1,TRUE,TRUE
 11,Nelson Central/North,Recombinant,TRUE,TRUE
 11,Nelson Central/North,XBB,TRUE,TRUE
-11,Nelson Central/North,XBC,TRUE,TRUE
-14,Christchurch,BA.2.75,NA,FALSE
-14,Christchurch,BA.2.86,NA,FALSE
-14,Christchurch,CH.1.1,TRUE,TRUE
+11,Nelson Central/North,XBC,NA,FALSE
+14,Christchurch,BA.2.86,TRUE,TRUE
+14,Christchurch,CH.1.1,NA,FALSE
 14,Christchurch,EG.5,TRUE,TRUE
-14,Christchurch,HK.1.2,NA,FALSE
+14,Christchurch,HK.1.2,TRUE,TRUE
 14,Christchurch,HK.3,TRUE,TRUE
 14,Christchurch,HV.1,TRUE,TRUE
-14,Christchurch,JD.1.1,NA,FALSE
+14,Christchurch,JD.1.1,TRUE,TRUE
 14,Christchurch,JN.1,TRUE,TRUE
 14,Christchurch,Recombinant,TRUE,TRUE
 14,Christchurch,XBB,TRUE,TRUE
-14,Christchurch,XBC,TRUE,TRUE
-15,Queenstown,BA.2.75,NA,FALSE
+14,Christchurch,XBC,NA,FALSE
 15,Queenstown,BA.2.86,TRUE,TRUE
 15,Queenstown,CH.1.1,NA,FALSE
 15,Queenstown,EG.5,TRUE,TRUE
@@ -215,27 +186,25 @@ region_id,DisplayName,variant,seen,detected
 15,Queenstown,Recombinant,TRUE,TRUE
 15,Queenstown,XBB,TRUE,TRUE
 15,Queenstown,XBC,TRUE,TRUE
-15,Dunedin (Tahuna),BA.2.75,NA,FALSE
 15,Dunedin (Tahuna),BA.2.86,NA,FALSE
 15,Dunedin (Tahuna),CH.1.1,NA,FALSE
 15,Dunedin (Tahuna),EG.5,TRUE,TRUE
-15,Dunedin (Tahuna),HK.1.2,TRUE,TRUE
+15,Dunedin (Tahuna),HK.1.2,NA,FALSE
 15,Dunedin (Tahuna),HK.3,TRUE,TRUE
 15,Dunedin (Tahuna),HV.1,TRUE,TRUE
 15,Dunedin (Tahuna),JD.1.1,TRUE,TRUE
 15,Dunedin (Tahuna),JN.1,TRUE,TRUE
 15,Dunedin (Tahuna),Recombinant,TRUE,TRUE
 15,Dunedin (Tahuna),XBB,TRUE,TRUE
-15,Dunedin (Tahuna),XBC,TRUE,TRUE
-16,Invercargill,BA.2.75,NA,FALSE
+15,Dunedin (Tahuna),XBC,NA,FALSE
 16,Invercargill,BA.2.86,TRUE,TRUE
 16,Invercargill,CH.1.1,NA,FALSE
 16,Invercargill,EG.5,TRUE,TRUE
 16,Invercargill,HK.1.2,TRUE,TRUE
 16,Invercargill,HK.3,TRUE,TRUE
 16,Invercargill,HV.1,TRUE,TRUE
-16,Invercargill,JD.1.1,TRUE,TRUE
-16,Invercargill,JN.1,NA,FALSE
+16,Invercargill,JD.1.1,NA,FALSE
+16,Invercargill,JN.1,TRUE,TRUE
 16,Invercargill,Recombinant,TRUE,TRUE
 16,Invercargill,XBB,TRUE,TRUE
 16,Invercargill,XBC,NA,FALSE
