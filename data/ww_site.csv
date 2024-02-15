@@ -10059,11 +10059,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-01-21,WG_Seaview,8444387
 2024-01-21,WK_Hamilton,186856
 2024-01-21,WK_Taupo,5080961
-<<<<<<< HEAD
 2024-01-28,AU_Eastern,2620380
-=======
-2024-01-28,AU_Eastern,2049122
->>>>>>> 763a4d55664a1028e2d61ca72d680907bbda0d3b
 2024-01-28,AU_Mangere,2881979
 2024-01-28,AU_Pukekohe,2686551
 2024-01-28,AU_Rosedale,4146198.5
@@ -10073,11 +10069,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-01-28,BP_Rotorua,3164236
 2024-01-28,BP_Tauranga,4275243.5
 2024-01-28,BP_TeMaunga,3741928.5
-<<<<<<< HEAD
 2024-01-28,BP_Whakatane,1245957
-=======
-2024-01-28,BP_Whakatane,1655603
->>>>>>> 763a4d55664a1028e2d61ca72d680907bbda0d3b
 2024-01-28,CA_Ashburton,1023057
 2024-01-28,CA_Christchurch,5912382.5
 2024-01-28,CA_Rolleston,3629947.5
@@ -10092,24 +10084,14 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-01-28,NE_Nelson,3006176
 2024-01-28,NO_Dargaville,286787
 2024-01-28,NO_Whangarei,2374330
-<<<<<<< HEAD
 2024-01-28,OT_DunedinTahuna,951466
 2024-01-28,OT_GreenIsland,120873
 2024-01-28,OT_Mosgiel,954898.5
-=======
-2024-01-28,OT_DunedinTahuna,1115536
-2024-01-28,OT_GreenIsland,118089.5
-2024-01-28,OT_Mosgiel,897224
->>>>>>> 763a4d55664a1028e2d61ca72d680907bbda0d3b
 2024-01-28,OT_Queenstown,5408811
 2024-01-28,SO_Gore,5812968
 2024-01-28,SO_Invercargill,2025719
 2024-01-28,TK_Hawera,2210744.5
-<<<<<<< HEAD
 2024-01-28,TK_NewPlymouth,1569190
-=======
-2024-01-28,TK_NewPlymouth,1318579.5
->>>>>>> 763a4d55664a1028e2d61ca72d680907bbda0d3b
 2024-01-28,WC_Greymouth,37000
 2024-01-28,WC_Westport,6645171
 2024-01-28,WG_Masterton,2468391
@@ -10128,7 +10110,6 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-02-04,AU_Western,4088482.5
 2024-02-04,BP_Kawerau,3649104
 2024-02-04,BP_Rotorua,2496976.5
-<<<<<<< HEAD
 2024-02-04,BP_Tauranga,2416667.5
 2024-02-04,BP_TeMaunga,2803876.5
 2024-02-04,BP_Whakatane,3089628
@@ -10200,39 +10181,3 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-02-11,WG_Seaview,3958063
 2024-02-11,WK_Hamilton,336073
 2024-02-11,WK_Taupo,3822523
-=======
-2024-02-04,BP_Tauranga,2799588.5
-2024-02-04,BP_TeMaunga,2902627.5
-2024-02-04,BP_Whakatane,3089628
-2024-02-04,CA_Ashburton,2511989.5
-2024-02-04,CA_Christchurch,4439399
-2024-02-04,CA_Rolleston,3389115.5
-2024-02-04,CA_Timaru,4369301
-2024-02-04,GI_Gisborne,4044402
-2024-02-04,HB_Hastings,4844468.5
-2024-02-04,HB_Napier,7015605.5
-2024-02-04,MA_Blenheim,11086222
-2024-02-04,MW_Levin,3562644
-2024-02-04,MW_PalmerstonNorth,1672765.5
-2024-02-04,MW_Whanganui,3205517
-2024-02-04,NE_Nelson,1786229
-2024-02-04,NO_Whangarei,2336933
-2024-02-04,OT_DunedinTahuna,835531.5
-2024-02-04,OT_Mosgiel,1761453
-2024-02-04,OT_Queenstown,3166749
-2024-02-04,SO_Gore,2144073
-2024-02-04,SO_Invercargill,3751568
-2024-02-04,TK_Hawera,3915349
-2024-02-04,TK_NewPlymouth,2778844
-2024-02-04,TS_Motueka,5175943
-2024-02-04,WC_Greymouth,593134
-2024-02-04,WC_Westport,216000
-2024-02-04,WG_Masterton,518599.5
-2024-02-04,WG_MoaPoint,3818516.5
-2024-02-04,WG_Otaki,2878989
-2024-02-04,WG_Paraparaumu,2238382
-2024-02-04,WG_Porirua,4786278.5
-2024-02-04,WG_Seaview,3906214
-2024-02-04,WK_Hamilton,737587
-2024-02-04,WK_Taupo,2173294
->>>>>>> 763a4d55664a1028e2d61ca72d680907bbda0d3b
