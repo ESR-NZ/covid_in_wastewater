@@ -141,6 +141,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Western,58
 2024-02-11,AU_Western,65
 2024-02-18,AU_Western,60
+2024-02-25,AU_Western,60
 2021-06-06,AU_Eastern,1
 2021-06-13,AU_Eastern,3
 2021-06-20,AU_Eastern,1
@@ -283,6 +284,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Eastern,146
 2024-02-11,AU_Eastern,152
 2024-02-18,AU_Eastern,153
+2024-02-25,AU_Eastern,145
 2021-06-06,AU_Rosedale,0
 2021-06-13,AU_Rosedale,0
 2021-06-20,AU_Rosedale,0
@@ -425,6 +427,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Rosedale,31
 2024-02-11,AU_Rosedale,31
 2024-02-18,AU_Rosedale,37
+2024-02-25,AU_Rosedale,35
 2021-06-06,AU_SouthWestern,1
 2021-06-13,AU_SouthWestern,1
 2021-06-20,AU_SouthWestern,0
@@ -567,6 +570,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_SouthWestern,17
 2024-02-11,AU_SouthWestern,16
 2024-02-18,AU_SouthWestern,18
+2024-02-25,AU_SouthWestern,20
 2021-06-06,WG_MoaPoint,0
 2021-06-13,WG_MoaPoint,0
 2021-06-20,WG_MoaPoint,0
@@ -709,6 +713,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_MoaPoint,36
 2024-02-11,WG_MoaPoint,36
 2024-02-18,WG_MoaPoint,40
+2024-02-25,WG_MoaPoint,39
 2021-06-06,AU_ArmyBay,0
 2021-06-13,AU_ArmyBay,0
 2021-06-20,AU_ArmyBay,0
@@ -851,6 +856,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_ArmyBay,4
 2024-02-11,AU_ArmyBay,4
 2024-02-18,AU_ArmyBay,6
+2024-02-25,AU_ArmyBay,5
 2021-06-06,AU_Pukekohe,0
 2021-06-13,AU_Pukekohe,0
 2021-06-20,AU_Pukekohe,0
@@ -993,6 +999,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Pukekohe,1
 2024-02-11,AU_Pukekohe,1
 2024-02-18,AU_Pukekohe,1
+2024-02-25,AU_Pukekohe,1
 2021-06-06,BP_Rotorua,0
 2021-06-13,BP_Rotorua,0
 2021-06-20,BP_Rotorua,0
@@ -1135,6 +1142,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Rotorua,9
 2024-02-11,BP_Rotorua,7
 2024-02-18,BP_Rotorua,16
+2024-02-25,BP_Rotorua,9
 2021-06-06,BP_TeMaunga,0
 2021-06-13,BP_TeMaunga,0
 2021-06-20,BP_TeMaunga,0
@@ -1277,6 +1285,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_TeMaunga,2
 2024-02-11,BP_TeMaunga,3
 2024-02-18,BP_TeMaunga,3
+2024-02-25,BP_TeMaunga,4
 2021-06-06,CA_Christchurch,0
 2021-06-13,CA_Christchurch,0
 2021-06-20,CA_Christchurch,0
@@ -1419,6 +1428,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Christchurch,88
 2024-02-11,CA_Christchurch,92
 2024-02-18,CA_Christchurch,105
+2024-02-25,CA_Christchurch,106
 2021-06-06,CA_Woodend,0
 2021-06-13,CA_Woodend,0
 2021-06-20,CA_Woodend,0
@@ -1561,6 +1571,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Woodend,0
 2024-02-11,CA_Woodend,0
 2024-02-18,CA_Woodend,0
+2024-02-25,CA_Woodend,0
 2021-06-06,HB_Napier,0
 2021-06-13,HB_Napier,0
 2021-06-20,HB_Napier,0
@@ -1703,6 +1714,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Napier,18
 2024-02-11,HB_Napier,27
 2024-02-18,HB_Napier,25
+2024-02-25,HB_Napier,19
 2021-06-06,MA_Blenheim,0
 2021-06-13,MA_Blenheim,0
 2021-06-20,MA_Blenheim,0
@@ -1845,6 +1857,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MA_Blenheim,8
 2024-02-11,MA_Blenheim,6
 2024-02-18,MA_Blenheim,9
+2024-02-25,MA_Blenheim,9
 2021-06-06,MW_PalmerstonNorth,0
 2021-06-13,MW_PalmerstonNorth,0
 2021-06-20,MW_PalmerstonNorth,0
@@ -1987,6 +2000,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_PalmerstonNorth,20
 2024-02-11,MW_PalmerstonNorth,24
 2024-02-18,MW_PalmerstonNorth,29
+2024-02-25,MW_PalmerstonNorth,28
 2021-06-06,NE_BellIsland,0
 2021-06-13,NE_BellIsland,0
 2021-06-20,NE_BellIsland,0
@@ -2129,6 +2143,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NE_BellIsland,4
 2024-02-11,NE_BellIsland,6
 2024-02-18,NE_BellIsland,4
+2024-02-25,NE_BellIsland,5
 2021-06-06,NO_Paihia,0
 2021-06-13,NO_Paihia,0
 2021-06-20,NO_Paihia,0
@@ -2271,6 +2286,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Paihia,0
 2024-02-11,NO_Paihia,0
 2024-02-18,NO_Paihia,0
+2024-02-25,NO_Paihia,0
 2021-06-06,NO_Whangarei,0
 2021-06-13,NO_Whangarei,0
 2021-06-20,NO_Whangarei,0
@@ -2413,6 +2429,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Whangarei,22
 2024-02-11,NO_Whangarei,24
 2024-02-18,NO_Whangarei,19
+2024-02-25,NO_Whangarei,17
 2021-06-06,OT_DunedinTahuna,0
 2021-06-13,OT_DunedinTahuna,0
 2021-06-20,OT_DunedinTahuna,0
@@ -2555,6 +2572,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_DunedinTahuna,22
 2024-02-11,OT_DunedinTahuna,26
 2024-02-18,OT_DunedinTahuna,36
+2024-02-25,OT_DunedinTahuna,40
 2021-06-06,OT_GreenIsland,0
 2021-06-13,OT_GreenIsland,0
 2021-06-20,OT_GreenIsland,0
@@ -2697,6 +2715,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_GreenIsland,16
 2024-02-11,OT_GreenIsland,18
 2024-02-18,OT_GreenIsland,27
+2024-02-25,OT_GreenIsland,24
 2021-06-06,OT_Mosgiel,0
 2021-06-13,OT_Mosgiel,0
 2021-06-20,OT_Mosgiel,0
@@ -2839,6 +2858,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Mosgiel,16
 2024-02-11,OT_Mosgiel,18
 2024-02-18,OT_Mosgiel,27
+2024-02-25,OT_Mosgiel,24
 2021-06-06,OT_Queenstown,0
 2021-06-13,OT_Queenstown,0
 2021-06-20,OT_Queenstown,0
@@ -2981,6 +3001,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Queenstown,2
 2024-02-11,OT_Queenstown,1
 2024-02-18,OT_Queenstown,1
+2024-02-25,OT_Queenstown,1
 2021-06-06,SO_Invercargill,0
 2021-06-13,SO_Invercargill,0
 2021-06-20,SO_Invercargill,0
@@ -3123,6 +3144,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,SO_Invercargill,9
 2024-02-11,SO_Invercargill,16
 2024-02-18,SO_Invercargill,13
+2024-02-25,SO_Invercargill,12
 2021-06-06,TK_NewPlymouth,0
 2021-06-13,TK_NewPlymouth,0
 2021-06-20,TK_NewPlymouth,0
@@ -3265,6 +3287,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_NewPlymouth,13
 2024-02-11,TK_NewPlymouth,15
 2024-02-18,TK_NewPlymouth,18
+2024-02-25,TK_NewPlymouth,15
 2021-06-06,WG_Carterton,0
 2021-06-13,WG_Carterton,0
 2021-06-20,WG_Carterton,0
@@ -3407,6 +3430,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Carterton,0
 2024-02-11,WG_Carterton,0
 2024-02-18,WG_Carterton,0
+2024-02-25,WG_Carterton,1
 2021-06-06,WG_Masterton,0
 2021-06-13,WG_Masterton,0
 2021-06-20,WG_Masterton,0
@@ -3549,6 +3573,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Masterton,3
 2024-02-11,WG_Masterton,2
 2024-02-18,WG_Masterton,2
+2024-02-25,WG_Masterton,4
 2021-06-06,WG_Paraparaumu,0
 2021-06-13,WG_Paraparaumu,0
 2021-06-20,WG_Paraparaumu,0
@@ -3691,6 +3716,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Paraparaumu,4
 2024-02-11,WG_Paraparaumu,5
 2024-02-18,WG_Paraparaumu,5
+2024-02-25,WG_Paraparaumu,5
 2021-06-06,WG_Porirua,0
 2021-06-13,WG_Porirua,0
 2021-06-20,WG_Porirua,0
@@ -3833,6 +3859,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Porirua,17
 2024-02-11,WG_Porirua,15
 2024-02-18,WG_Porirua,18
+2024-02-25,WG_Porirua,17
 2021-06-06,WG_Seaview,0
 2021-06-13,WG_Seaview,0
 2021-06-20,WG_Seaview,0
@@ -3975,6 +4002,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Seaview,45
 2024-02-11,WG_Seaview,41
 2024-02-18,WG_Seaview,46
+2024-02-25,WG_Seaview,37
 2021-06-06,WK_Cambridge,0
 2021-06-13,WK_Cambridge,0
 2021-06-20,WK_Cambridge,0
@@ -4117,6 +4145,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Cambridge,1
 2024-02-11,WK_Cambridge,2
 2024-02-18,WK_Cambridge,1
+2024-02-25,WK_Cambridge,1
 2021-06-06,WK_Hamilton,0
 2021-06-13,WK_Hamilton,0
 2021-06-20,WK_Hamilton,0
@@ -4259,6 +4288,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Hamilton,52
 2024-02-11,WK_Hamilton,55
 2024-02-18,WK_Hamilton,52
+2024-02-25,WK_Hamilton,58
 2021-06-06,WK_Taupo,0
 2021-06-13,WK_Taupo,0
 2021-06-20,WK_Taupo,0
@@ -4401,6 +4431,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Taupo,2
 2024-02-11,WK_Taupo,1
 2024-02-18,WK_Taupo,2
+2024-02-25,WK_Taupo,1
 2021-06-06,AU_Beachlands,0
 2021-06-13,AU_Beachlands,0
 2021-06-20,AU_Beachlands,0
@@ -4543,6 +4574,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Beachlands,1
 2024-02-11,AU_Beachlands,1
 2024-02-18,AU_Beachlands,3
+2024-02-25,AU_Beachlands,1
 2021-06-06,AU_Omaha,0
 2021-06-13,AU_Omaha,0
 2021-06-20,AU_Omaha,0
@@ -4685,6 +4717,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Omaha,0
 2024-02-11,AU_Omaha,0
 2024-02-18,AU_Omaha,0
+2024-02-25,AU_Omaha,0
 2021-06-06,AU_Warkworth,0
 2021-06-13,AU_Warkworth,0
 2021-06-20,AU_Warkworth,0
@@ -4827,6 +4860,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Warkworth,0
 2024-02-11,AU_Warkworth,0
 2024-02-18,AU_Warkworth,0
+2024-02-25,AU_Warkworth,1
 2021-06-06,BP_Tauranga,0
 2021-06-13,BP_Tauranga,0
 2021-06-20,BP_Tauranga,0
@@ -4969,6 +5003,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Tauranga,19
 2024-02-11,BP_Tauranga,22
 2024-02-18,BP_Tauranga,26
+2024-02-25,BP_Tauranga,18
 2021-06-06,BP_WaihiBeach,0
 2021-06-13,BP_WaihiBeach,0
 2021-06-20,BP_WaihiBeach,0
@@ -5111,6 +5146,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_WaihiBeach,0
 2024-02-11,BP_WaihiBeach,0
 2024-02-18,BP_WaihiBeach,0
+2024-02-25,BP_WaihiBeach,0
 2021-06-06,CA_Amberley,0
 2021-06-13,CA_Amberley,0
 2021-06-20,CA_Amberley,0
@@ -5253,6 +5289,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Amberley,0
 2024-02-11,CA_Amberley,0
 2024-02-18,CA_Amberley,0
+2024-02-25,CA_Amberley,0
 2021-06-06,CA_Kaikoura,0
 2021-06-13,CA_Kaikoura,0
 2021-06-20,CA_Kaikoura,0
@@ -5395,6 +5432,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Kaikoura,0
 2024-02-11,CA_Kaikoura,0
 2024-02-18,CA_Kaikoura,0
+2024-02-25,CA_Kaikoura,0
 2021-06-06,CA_Leeston,0
 2021-06-13,CA_Leeston,0
 2021-06-20,CA_Leeston,0
@@ -5537,6 +5575,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Leeston,0
 2024-02-11,CA_Leeston,0
 2024-02-18,CA_Leeston,0
+2024-02-25,CA_Leeston,0
 2021-06-06,CA_Rangiora,0
 2021-06-13,CA_Rangiora,0
 2021-06-20,CA_Rangiora,0
@@ -5679,6 +5718,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Rangiora,0
 2024-02-11,CA_Rangiora,0
 2024-02-18,CA_Rangiora,0
+2024-02-25,CA_Rangiora,1
 2021-06-06,CA_Rolleston,0
 2021-06-13,CA_Rolleston,0
 2021-06-20,CA_Rolleston,0
@@ -5821,6 +5861,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Rolleston,1
 2024-02-11,CA_Rolleston,1
 2024-02-18,CA_Rolleston,1
+2024-02-25,CA_Rolleston,1
 2021-06-06,CA_Timaru,0
 2021-06-13,CA_Timaru,0
 2021-06-20,CA_Timaru,0
@@ -5963,6 +6004,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Timaru,7
 2024-02-11,CA_Timaru,9
 2024-02-18,CA_Timaru,9
+2024-02-25,CA_Timaru,9
 2021-06-06,HB_Hastings,0
 2021-06-13,HB_Hastings,0
 2021-06-20,HB_Hastings,0
@@ -6105,6 +6147,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Hastings,8
 2024-02-11,HB_Hastings,10
 2024-02-18,HB_Hastings,8
+2024-02-25,HB_Hastings,6
 2021-06-06,HB_Mahia,0
 2021-06-13,HB_Mahia,0
 2021-06-20,HB_Mahia,0
@@ -6247,6 +6290,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Mahia,0
 2024-02-11,HB_Mahia,0
 2024-02-18,HB_Mahia,0
+2024-02-25,HB_Mahia,0
 2021-06-06,MW_Eketahuna,0
 2021-06-13,MW_Eketahuna,0
 2021-06-20,MW_Eketahuna,0
@@ -6389,6 +6433,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Eketahuna,0
 2024-02-11,MW_Eketahuna,0
 2024-02-18,MW_Eketahuna,0
+2024-02-25,MW_Eketahuna,0
 2021-06-06,MW_Feilding,0
 2021-06-13,MW_Feilding,0
 2021-06-20,MW_Feilding,0
@@ -6531,6 +6576,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Feilding,1
 2024-02-11,MW_Feilding,0
 2024-02-18,MW_Feilding,0
+2024-02-25,MW_Feilding,0
 2021-06-06,MW_Levin,0
 2021-06-13,MW_Levin,0
 2021-06-20,MW_Levin,0
@@ -6673,6 +6719,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Levin,0
 2024-02-11,MW_Levin,1
 2024-02-18,MW_Levin,1
+2024-02-25,MW_Levin,3
 2021-06-06,NE_Nelson,0
 2021-06-13,NE_Nelson,0
 2021-06-20,NE_Nelson,0
@@ -6815,6 +6862,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NE_Nelson,12
 2024-02-11,NE_Nelson,9
 2024-02-18,NE_Nelson,11
+2024-02-25,NE_Nelson,14
 2021-06-06,NO_Mangawhai,0
 2021-06-13,NO_Mangawhai,0
 2021-06-20,NO_Mangawhai,0
@@ -6957,6 +7005,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Mangawhai,0
 2024-02-11,NO_Mangawhai,0
 2024-02-18,NO_Mangawhai,0
+2024-02-25,NO_Mangawhai,0
 2021-06-06,NO_Ruakaka,0
 2021-06-13,NO_Ruakaka,0
 2021-06-20,NO_Ruakaka,0
@@ -7099,6 +7148,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Ruakaka,0
 2024-02-11,NO_Ruakaka,0
 2024-02-18,NO_Ruakaka,0
+2024-02-25,NO_Ruakaka,0
 2021-06-06,OT_Cromwell,0
 2021-06-13,OT_Cromwell,0
 2021-06-20,OT_Cromwell,0
@@ -7241,6 +7291,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Cromwell,0
 2024-02-11,OT_Cromwell,0
 2024-02-18,OT_Cromwell,1
+2024-02-25,OT_Cromwell,0
 2021-06-06,OT_Wanaka,0
 2021-06-13,OT_Wanaka,0
 2021-06-20,OT_Wanaka,0
@@ -7383,6 +7434,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Wanaka,1
 2024-02-11,OT_Wanaka,0
 2024-02-18,OT_Wanaka,0
+2024-02-25,OT_Wanaka,1
 2021-06-06,TK_Stratford,0
 2021-06-13,TK_Stratford,0
 2021-06-20,TK_Stratford,0
@@ -7525,6 +7577,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_Stratford,0
 2024-02-11,TK_Stratford,0
 2024-02-18,TK_Stratford,0
+2024-02-25,TK_Stratford,1
 2021-06-06,WC_Greymouth,0
 2021-06-13,WC_Greymouth,0
 2021-06-20,WC_Greymouth,0
@@ -7667,6 +7720,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WC_Greymouth,3
 2024-02-11,WC_Greymouth,3
 2024-02-18,WC_Greymouth,4
+2024-02-25,WC_Greymouth,4
 2021-06-06,WK_TeAwamutu,0
 2021-06-13,WK_TeAwamutu,0
 2021-06-20,WK_TeAwamutu,0
@@ -7809,6 +7863,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_TeAwamutu,1
 2024-02-11,WK_TeAwamutu,2
 2024-02-18,WK_TeAwamutu,0
+2024-02-25,WK_TeAwamutu,0
 2021-06-06,WK_Tokoroa,0
 2021-06-13,WK_Tokoroa,0
 2021-06-20,WK_Tokoroa,0
@@ -7951,6 +8006,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Tokoroa,0
 2024-02-11,WK_Tokoroa,1
 2024-02-18,WK_Tokoroa,0
+2024-02-25,WK_Tokoroa,1
 2021-06-06,WK_Whangamata,0
 2021-06-13,WK_Whangamata,0
 2021-06-20,WK_Whangamata,0
@@ -8093,6 +8149,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Whangamata,0
 2024-02-11,WK_Whangamata,0
 2024-02-18,WK_Whangamata,0
+2024-02-25,WK_Whangamata,0
 2021-06-06,WK_Whitianga,0
 2021-06-13,WK_Whitianga,0
 2021-06-20,WK_Whitianga,0
@@ -8235,6 +8292,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Whitianga,0
 2024-02-11,WK_Whitianga,0
 2024-02-18,WK_Whitianga,0
+2024-02-25,WK_Whitianga,0
 2021-06-06,AU_SnellsAlgies,0
 2021-06-13,AU_SnellsAlgies,0
 2021-06-20,AU_SnellsAlgies,0
@@ -8377,6 +8435,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_SnellsAlgies,0
 2024-02-11,AU_SnellsAlgies,0
 2024-02-18,AU_SnellsAlgies,0
+2024-02-25,AU_SnellsAlgies,0
 2021-06-06,MW_Dannevirke,0
 2021-06-13,MW_Dannevirke,0
 2021-06-20,MW_Dannevirke,0
@@ -8519,6 +8578,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Dannevirke,0
 2024-02-11,MW_Dannevirke,0
 2024-02-18,MW_Dannevirke,0
+2024-02-25,MW_Dannevirke,1
 2021-06-06,MW_Whanganui,0
 2021-06-13,MW_Whanganui,0
 2021-06-20,MW_Whanganui,0
@@ -8661,6 +8721,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Whanganui,12
 2024-02-11,MW_Whanganui,11
 2024-02-18,MW_Whanganui,12
+2024-02-25,MW_Whanganui,12
 2021-06-06,NO_Kaikohe,0
 2021-06-13,NO_Kaikohe,0
 2021-06-20,NO_Kaikohe,0
@@ -8803,6 +8864,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Kaikohe,0
 2024-02-11,NO_Kaikohe,0
 2024-02-18,NO_Kaikohe,0
+2024-02-25,NO_Kaikohe,0
 2021-06-06,OT_Alexandra,0
 2021-06-13,OT_Alexandra,0
 2021-06-20,OT_Alexandra,0
@@ -8945,6 +9007,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Alexandra,0
 2024-02-11,OT_Alexandra,0
 2024-02-18,OT_Alexandra,0
+2024-02-25,OT_Alexandra,1
 2021-06-06,SO_Gore,0
 2021-06-13,SO_Gore,0
 2021-06-20,SO_Gore,0
@@ -9087,6 +9150,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,SO_Gore,0
 2024-02-11,SO_Gore,0
 2024-02-18,SO_Gore,2
+2024-02-25,SO_Gore,1
 2021-06-06,WG_Martinborough,0
 2021-06-13,WG_Martinborough,0
 2021-06-20,WG_Martinborough,0
@@ -9229,6 +9293,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Martinborough,0
 2024-02-11,WG_Martinborough,0
 2024-02-18,WG_Martinborough,0
+2024-02-25,WG_Martinborough,0
 2021-06-06,WK_Ngatea,0
 2021-06-13,WK_Ngatea,0
 2021-06-20,WK_Ngatea,0
@@ -9371,6 +9436,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Ngatea,0
 2024-02-11,WK_Ngatea,0
 2024-02-18,WK_Ngatea,0
+2024-02-25,WK_Ngatea,0
 2021-06-06,WK_Otorohanga,0
 2021-06-13,WK_Otorohanga,0
 2021-06-20,WK_Otorohanga,0
@@ -9513,6 +9579,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Otorohanga,0
 2024-02-11,WK_Otorohanga,0
 2024-02-18,WK_Otorohanga,0
+2024-02-25,WK_Otorohanga,1
 2021-06-06,NO_Kerikeri,0
 2021-06-13,NO_Kerikeri,0
 2021-06-20,NO_Kerikeri,0
@@ -9655,6 +9722,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Kerikeri,0
 2024-02-11,NO_Kerikeri,0
 2024-02-18,NO_Kerikeri,0
+2024-02-25,NO_Kerikeri,0
 2021-06-06,SO_Bluff,0
 2021-06-13,SO_Bluff,0
 2021-06-20,SO_Bluff,0
@@ -9797,6 +9865,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,SO_Bluff,0
 2024-02-11,SO_Bluff,0
 2024-02-18,SO_Bluff,0
+2024-02-25,SO_Bluff,0
 2021-06-06,CA_Kaiapoi,0
 2021-06-13,CA_Kaiapoi,0
 2021-06-20,CA_Kaiapoi,0
@@ -9939,6 +10008,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Kaiapoi,1
 2024-02-11,CA_Kaiapoi,0
 2024-02-18,CA_Kaiapoi,0
+2024-02-25,CA_Kaiapoi,0
 2021-06-06,WK_Turangi,0
 2021-06-13,WK_Turangi,0
 2021-06-20,WK_Turangi,0
@@ -10081,6 +10151,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Turangi,0
 2024-02-11,WK_Turangi,0
 2024-02-18,WK_Turangi,0
+2024-02-25,WK_Turangi,0
 2021-06-06,TS_Motueka,0
 2021-06-13,TS_Motueka,0
 2021-06-20,TS_Motueka,0
@@ -10223,6 +10294,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TS_Motueka,1
 2024-02-11,TS_Motueka,1
 2024-02-18,TS_Motueka,0
+2024-02-25,TS_Motueka,0
 2021-06-06,AU_Waiuku,0
 2021-06-13,AU_Waiuku,0
 2021-06-20,AU_Waiuku,0
@@ -10365,6 +10437,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Waiuku,0
 2024-02-11,AU_Waiuku,0
 2024-02-18,AU_Waiuku,0
+2024-02-25,AU_Waiuku,0
 2021-06-06,AU_ClarksBeach,0
 2021-06-13,AU_ClarksBeach,0
 2021-06-20,AU_ClarksBeach,0
@@ -10507,6 +10580,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_ClarksBeach,0
 2024-02-11,AU_ClarksBeach,0
 2024-02-18,AU_ClarksBeach,0
+2024-02-25,AU_ClarksBeach,0
 2021-06-06,AU_Wellsford,0
 2021-06-13,AU_Wellsford,0
 2021-06-20,AU_Wellsford,0
@@ -10649,6 +10723,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Wellsford,0
 2024-02-11,AU_Wellsford,0
 2024-02-18,AU_Wellsford,0
+2024-02-25,AU_Wellsford,0
 2021-06-06,AU_Helensville,0
 2021-06-13,AU_Helensville,0
 2021-06-20,AU_Helensville,0
@@ -10791,6 +10866,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Helensville,0
 2024-02-11,AU_Helensville,0
 2024-02-18,AU_Helensville,0
+2024-02-25,AU_Helensville,0
 2021-06-06,NO_Rawene,0
 2021-06-13,NO_Rawene,0
 2021-06-20,NO_Rawene,0
@@ -10933,6 +11009,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Rawene,0
 2024-02-11,NO_Rawene,0
 2024-02-18,NO_Rawene,0
+2024-02-25,NO_Rawene,0
 2021-06-06,NO_Kaitaia,0
 2021-06-13,NO_Kaitaia,0
 2021-06-20,NO_Kaitaia,0
@@ -11075,6 +11152,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Kaitaia,0
 2024-02-11,NO_Kaitaia,0
 2024-02-18,NO_Kaitaia,0
+2024-02-25,NO_Kaitaia,0
 2021-06-06,NO_Dargaville,0
 2021-06-13,NO_Dargaville,0
 2021-06-20,NO_Dargaville,0
@@ -11217,6 +11295,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Dargaville,0
 2024-02-11,NO_Dargaville,0
 2024-02-18,NO_Dargaville,0
+2024-02-25,NO_Dargaville,0
 2021-06-06,WK_Thames,0
 2021-06-13,WK_Thames,0
 2021-06-20,WK_Thames,0
@@ -11359,6 +11438,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Thames,0
 2024-02-11,WK_Thames,0
 2024-02-18,WK_Thames,0
+2024-02-25,WK_Thames,0
 2021-06-06,BP_Kawerau,0
 2021-06-13,BP_Kawerau,0
 2021-06-20,BP_Kawerau,0
@@ -11501,6 +11581,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Kawerau,0
 2024-02-11,BP_Kawerau,0
 2024-02-18,BP_Kawerau,0
+2024-02-25,BP_Kawerau,1
 2021-06-06,BP_TePuke,0
 2021-06-13,BP_TePuke,0
 2021-06-20,BP_TePuke,0
@@ -11643,6 +11724,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_TePuke,0
 2024-02-11,BP_TePuke,0
 2024-02-18,BP_TePuke,0
+2024-02-25,BP_TePuke,0
 2021-06-06,BP_Whakatane,0
 2021-06-13,BP_Whakatane,0
 2021-06-20,BP_Whakatane,0
@@ -11785,6 +11867,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Whakatane,1
 2024-02-11,BP_Whakatane,0
 2024-02-18,BP_Whakatane,0
+2024-02-25,BP_Whakatane,1
 2021-06-06,MW_Pahiatua,0
 2021-06-13,MW_Pahiatua,0
 2021-06-20,MW_Pahiatua,0
@@ -11927,6 +12010,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Pahiatua,0
 2024-02-11,MW_Pahiatua,0
 2024-02-18,MW_Pahiatua,0
+2024-02-25,MW_Pahiatua,0
 2021-06-06,BP_Maketu,0
 2021-06-13,BP_Maketu,0
 2021-06-20,BP_Maketu,0
@@ -12069,6 +12153,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Maketu,0
 2024-02-11,BP_Maketu,0
 2024-02-18,BP_Maketu,0
+2024-02-25,BP_Maketu,0
 2021-06-06,NO_Kawakawa,0
 2021-06-13,NO_Kawakawa,0
 2021-06-20,NO_Kawakawa,0
@@ -12211,6 +12296,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Kawakawa,0
 2024-02-11,NO_Kawakawa,0
 2024-02-18,NO_Kawakawa,0
+2024-02-25,NO_Kawakawa,0
 2021-06-06,BP_Opotiki,0
 2021-06-13,BP_Opotiki,0
 2021-06-20,BP_Opotiki,0
@@ -12353,6 +12439,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Opotiki,0
 2024-02-11,BP_Opotiki,0
 2024-02-18,BP_Opotiki,0
+2024-02-25,BP_Opotiki,0
 2021-06-06,MW_Taumarunui,0
 2021-06-13,MW_Taumarunui,0
 2021-06-20,MW_Taumarunui,0
@@ -12495,6 +12582,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Taumarunui,1
 2024-02-11,MW_Taumarunui,1
 2024-02-18,MW_Taumarunui,0
+2024-02-25,MW_Taumarunui,0
 2021-06-06,TK_Eltham,0
 2021-06-13,TK_Eltham,0
 2021-06-20,TK_Eltham,0
@@ -12637,6 +12725,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_Eltham,1
 2024-02-11,TK_Eltham,1
 2024-02-18,TK_Eltham,1
+2024-02-25,TK_Eltham,1
 2021-06-06,TK_Hawera,0
 2021-06-13,TK_Hawera,0
 2021-06-20,TK_Hawera,0
@@ -12779,6 +12868,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_Hawera,1
 2024-02-11,TK_Hawera,1
 2024-02-18,TK_Hawera,1
+2024-02-25,TK_Hawera,1
 2021-06-06,GI_Gisborne,0
 2021-06-13,GI_Gisborne,0
 2021-06-20,GI_Gisborne,0
@@ -12921,6 +13011,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,GI_Gisborne,9
 2024-02-11,GI_Gisborne,10
 2024-02-18,GI_Gisborne,11
+2024-02-25,GI_Gisborne,11
 2021-06-06,WG_Featherston,0
 2021-06-13,WG_Featherston,0
 2021-06-20,WG_Featherston,0
@@ -13063,6 +13154,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Featherston,0
 2024-02-11,WG_Featherston,0
 2024-02-18,WG_Featherston,0
+2024-02-25,WG_Featherston,0
 2021-06-06,WC_Hokitika,0
 2021-06-13,WC_Hokitika,0
 2021-06-20,WC_Hokitika,0
@@ -13205,6 +13297,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WC_Hokitika,0
 2024-02-11,WC_Hokitika,0
 2024-02-18,WC_Hokitika,0
+2024-02-25,WC_Hokitika,0
 2021-06-06,BP_Katikati,0
 2021-06-13,BP_Katikati,0
 2021-06-20,BP_Katikati,0
@@ -13347,6 +13440,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,BP_Katikati,0
 2024-02-11,BP_Katikati,0
 2024-02-18,BP_Katikati,0
+2024-02-25,BP_Katikati,0
 2021-06-06,WK_Paeroa,0
 2021-06-13,WK_Paeroa,0
 2021-06-20,WK_Paeroa,0
@@ -13489,6 +13583,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WK_Paeroa,1
 2024-02-11,WK_Paeroa,1
 2024-02-18,WK_Paeroa,0
+2024-02-25,WK_Paeroa,0
 2021-06-06,NO_Whatuwhiwhi,0
 2021-06-13,NO_Whatuwhiwhi,0
 2021-06-20,NO_Whatuwhiwhi,0
@@ -13631,6 +13726,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Whatuwhiwhi,0
 2024-02-11,NO_Whatuwhiwhi,0
 2024-02-18,NO_Whatuwhiwhi,0
+2024-02-25,NO_Whatuwhiwhi,0
 2021-06-06,NO_Hikurangi,0
 2021-06-13,NO_Hikurangi,0
 2021-06-20,NO_Hikurangi,0
@@ -13773,6 +13869,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Hikurangi,0
 2024-02-11,NO_Hikurangi,0
 2024-02-18,NO_Hikurangi,0
+2024-02-25,NO_Hikurangi,0
 2021-06-06,WG_Otaki,0
 2021-06-13,WG_Otaki,0
 2021-06-20,WG_Otaki,0
@@ -13915,6 +14012,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Otaki,0
 2024-02-11,WG_Otaki,0
 2024-02-18,WG_Otaki,0
+2024-02-25,WG_Otaki,0
 2021-06-06,CA_Ashburton,0
 2021-06-13,CA_Ashburton,0
 2021-06-20,CA_Ashburton,0
@@ -14057,6 +14155,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,CA_Ashburton,3
 2024-02-11,CA_Ashburton,3
 2024-02-18,CA_Ashburton,3
+2024-02-25,CA_Ashburton,3
 2021-06-06,HB_Wairoa,0
 2021-06-13,HB_Wairoa,0
 2021-06-20,HB_Wairoa,0
@@ -14199,6 +14298,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Wairoa,0
 2024-02-11,HB_Wairoa,0
 2024-02-18,HB_Wairoa,0
+2024-02-25,HB_Wairoa,0
 2021-06-06,MA_Picton,0
 2021-06-13,MA_Picton,0
 2021-06-20,MA_Picton,0
@@ -14341,6 +14441,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MA_Picton,1
 2024-02-11,MA_Picton,0
 2024-02-18,MA_Picton,0
+2024-02-25,MA_Picton,0
 2021-06-06,OT_Oamaru,0
 2021-06-13,OT_Oamaru,0
 2021-06-20,OT_Oamaru,0
@@ -14483,6 +14584,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Oamaru,2
 2024-02-11,OT_Oamaru,2
 2024-02-18,OT_Oamaru,2
+2024-02-25,OT_Oamaru,2
 2021-06-06,WG_Karori,0
 2021-06-13,WG_Karori,0
 2021-06-20,WG_Karori,0
@@ -14625,6 +14727,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Karori,3
 2024-02-11,WG_Karori,2
 2024-02-18,WG_Karori,4
+2024-02-25,WG_Karori,4
 2021-06-06,HB_Waipawa,0
 2021-06-13,HB_Waipawa,0
 2021-06-20,HB_Waipawa,0
@@ -14767,6 +14870,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Waipawa,0
 2024-02-11,HB_Waipawa,0
 2024-02-18,HB_Waipawa,0
+2024-02-25,HB_Waipawa,0
 2021-06-06,HB_Waipukurau,0
 2021-06-13,HB_Waipukurau,0
 2021-06-20,HB_Waipukurau,0
@@ -14909,6 +15013,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,HB_Waipukurau,0
 2024-02-11,HB_Waipukurau,0
 2024-02-18,HB_Waipukurau,0
+2024-02-25,HB_Waipukurau,0
 2021-06-06,MW_Woodville,0
 2021-06-13,MW_Woodville,0
 2021-06-20,MW_Woodville,0
@@ -15051,6 +15156,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,MW_Woodville,0
 2024-02-11,MW_Woodville,0
 2024-02-18,MW_Woodville,0
+2024-02-25,MW_Woodville,0
 2021-06-06,NO_Ahipara,0
 2021-06-13,NO_Ahipara,0
 2021-06-20,NO_Ahipara,0
@@ -15193,6 +15299,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Ahipara,0
 2024-02-11,NO_Ahipara,0
 2024-02-18,NO_Ahipara,0
+2024-02-25,NO_Ahipara,0
 2021-06-06,NO_Kaeo,0
 2021-06-13,NO_Kaeo,0
 2021-06-20,NO_Kaeo,0
@@ -15335,6 +15442,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Kaeo,0
 2024-02-11,NO_Kaeo,0
 2024-02-18,NO_Kaeo,0
+2024-02-25,NO_Kaeo,0
 2021-06-06,NO_Maungaturoto,0
 2021-06-13,NO_Maungaturoto,0
 2021-06-20,NO_Maungaturoto,0
@@ -15477,6 +15585,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,NO_Maungaturoto,0
 2024-02-11,NO_Maungaturoto,0
 2024-02-18,NO_Maungaturoto,0
+2024-02-25,NO_Maungaturoto,0
 2021-06-06,OT_Balclutha,0
 2021-06-13,OT_Balclutha,0
 2021-06-20,OT_Balclutha,0
@@ -15619,6 +15728,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,OT_Balclutha,0
 2024-02-11,OT_Balclutha,0
 2024-02-18,OT_Balclutha,1
+2024-02-25,OT_Balclutha,0
 2021-06-06,TK_Opunake,0
 2021-06-13,TK_Opunake,0
 2021-06-20,TK_Opunake,0
@@ -15761,6 +15871,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_Opunake,0
 2024-02-11,TK_Opunake,0
 2024-02-18,TK_Opunake,0
+2024-02-25,TK_Opunake,0
 2021-06-06,WC_Westport,0
 2021-06-13,WC_Westport,0
 2021-06-20,WC_Westport,0
@@ -15903,6 +16014,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WC_Westport,0
 2024-02-11,WC_Westport,0
 2024-02-18,WC_Westport,0
+2024-02-25,WC_Westport,0
 2021-06-06,WG_Greytown,0
 2021-06-13,WG_Greytown,0
 2021-06-20,WG_Greytown,0
@@ -16045,6 +16157,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WG_Greytown,0
 2024-02-11,WG_Greytown,0
 2024-02-18,WG_Greytown,0
+2024-02-25,WG_Greytown,0
 2021-06-06,TK_Patea,0
 2021-06-13,TK_Patea,0
 2021-06-20,TK_Patea,0
@@ -16187,6 +16300,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,TK_Patea,0
 2024-02-11,TK_Patea,0
 2024-02-18,TK_Patea,0
+2024-02-25,TK_Patea,0
 2021-06-06,WC_Reefton,0
 2021-06-13,WC_Reefton,0
 2021-06-20,WC_Reefton,0
@@ -16329,6 +16443,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,WC_Reefton,0
 2024-02-11,WC_Reefton,0
 2024-02-18,WC_Reefton,0
+2024-02-25,WC_Reefton,0
 2021-06-06,AU_Mangere,2
 2021-06-13,AU_Mangere,3
 2021-06-20,AU_Mangere,1
@@ -16471,3 +16586,4 @@ week_end_date,SampleLocation,case_7d_avg
 2024-02-04,AU_Mangere,216
 2024-02-11,AU_Mangere,227
 2024-02-18,AU_Mangere,226
+2024-02-25,AU_Mangere,220
