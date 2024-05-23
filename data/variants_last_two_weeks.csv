@@ -9,22 +9,22 @@ region_id,DisplayName,variant,seen,detected
 2,North Shore,JN.1.16,TRUE,TRUE
 2,North Shore,KP.2,TRUE,TRUE
 2,North Shore,KP.3,TRUE,TRUE
-2,Auckland West,BA.2.86,TRUE,TRUE
+2,Auckland West,BA.2.86,NA,FALSE
 2,Auckland West,JN.1,TRUE,TRUE
 2,Auckland West,JN.1.16,TRUE,TRUE
 2,Auckland West,KP.2,TRUE,TRUE
 2,Auckland West,KP.3,TRUE,TRUE
-2,Auckland East,BA.2.86,NA,FALSE
+2,Auckland East,BA.2.86,TRUE,TRUE
 2,Auckland East,JN.1,TRUE,TRUE
 2,Auckland East,JN.1.16,TRUE,TRUE
 2,Auckland East,KP.2,TRUE,TRUE
 2,Auckland East,KP.3,TRUE,TRUE
-2,Auckland Southwest,BA.2.86,TRUE,TRUE
+2,Auckland Southwest,BA.2.86,NA,FALSE
 2,Auckland Southwest,JN.1,TRUE,TRUE
 2,Auckland Southwest,JN.1.16,TRUE,TRUE
 2,Auckland Southwest,KP.2,TRUE,TRUE
 2,Auckland Southwest,KP.3,TRUE,TRUE
-3,Hamilton,BA.2.86,NA,FALSE
+3,Hamilton,BA.2.86,TRUE,TRUE
 3,Hamilton,JN.1,TRUE,TRUE
 3,Hamilton,JN.1.16,TRUE,TRUE
 3,Hamilton,KP.2,TRUE,TRUE
@@ -33,13 +33,13 @@ region_id,DisplayName,variant,seen,detected
 3,Taupo,JN.1,TRUE,TRUE
 3,Taupo,JN.1.16,TRUE,TRUE
 3,Taupo,KP.2,TRUE,TRUE
-3,Taupo,KP.3,NA,FALSE
-4,Mt Maunganui/Papamoa,BA.2.86,TRUE,TRUE
+3,Taupo,KP.3,TRUE,TRUE
+4,Mt Maunganui/Papamoa,BA.2.86,NA,FALSE
 4,Mt Maunganui/Papamoa,JN.1,TRUE,TRUE
 4,Mt Maunganui/Papamoa,JN.1.16,TRUE,TRUE
 4,Mt Maunganui/Papamoa,KP.2,TRUE,TRUE
-4,Mt Maunganui/Papamoa,KP.3,NA,FALSE
-4,Rotorua,BA.2.86,TRUE,TRUE
+4,Mt Maunganui/Papamoa,KP.3,TRUE,TRUE
+4,Rotorua,BA.2.86,NA,FALSE
 4,Rotorua,JN.1,TRUE,TRUE
 4,Rotorua,JN.1.16,TRUE,TRUE
 4,Rotorua,KP.2,TRUE,TRUE
@@ -49,22 +49,22 @@ region_id,DisplayName,variant,seen,detected
 5,Gisborne,JN.1.16,NA,FALSE
 5,Gisborne,KP.2,NA,FALSE
 5,Gisborne,KP.3,NA,FALSE
-6,Hastings,BA.2.86,TRUE,TRUE
+6,Hastings,BA.2.86,NA,FALSE
 6,Hastings,JN.1,TRUE,TRUE
 6,Hastings,JN.1.16,TRUE,TRUE
 6,Hastings,KP.2,TRUE,TRUE
 6,Hastings,KP.3,TRUE,TRUE
-7,New Plymouth,BA.2.86,TRUE,TRUE
+7,New Plymouth,BA.2.86,NA,FALSE
 7,New Plymouth,JN.1,TRUE,TRUE
 7,New Plymouth,JN.1.16,TRUE,TRUE
 7,New Plymouth,KP.2,TRUE,TRUE
-7,New Plymouth,KP.3,NA,FALSE
-8,Palmerston North,BA.2.86,TRUE,TRUE
+7,New Plymouth,KP.3,TRUE,TRUE
+8,Palmerston North,BA.2.86,NA,FALSE
 8,Palmerston North,JN.1,TRUE,TRUE
 8,Palmerston North,JN.1.16,TRUE,TRUE
 8,Palmerston North,KP.2,TRUE,TRUE
 8,Palmerston North,KP.3,TRUE,TRUE
-9,Porirua,BA.2.86,TRUE,TRUE
+9,Porirua,BA.2.86,NA,FALSE
 9,Porirua,JN.1,TRUE,TRUE
 9,Porirua,JN.1.16,TRUE,TRUE
 9,Porirua,KP.2,TRUE,TRUE
@@ -74,27 +74,27 @@ region_id,DisplayName,variant,seen,detected
 9,Wellington (Moa Point),JN.1.16,TRUE,TRUE
 9,Wellington (Moa Point),KP.2,TRUE,TRUE
 9,Wellington (Moa Point),KP.3,TRUE,TRUE
-11,Nelson Central/North,BA.2.86,TRUE,TRUE
+11,Nelson Central/North,BA.2.86,NA,FALSE
 11,Nelson Central/North,JN.1,TRUE,TRUE
 11,Nelson Central/North,JN.1.16,TRUE,TRUE
 11,Nelson Central/North,KP.2,TRUE,TRUE
-11,Nelson Central/North,KP.3,NA,FALSE
-14,Christchurch,BA.2.86,TRUE,TRUE
+11,Nelson Central/North,KP.3,TRUE,TRUE
+14,Christchurch,BA.2.86,NA,FALSE
 14,Christchurch,JN.1,TRUE,TRUE
 14,Christchurch,JN.1.16,TRUE,TRUE
 14,Christchurch,KP.2,TRUE,TRUE
 14,Christchurch,KP.3,TRUE,TRUE
-15,Queenstown,BA.2.86,TRUE,TRUE
+15,Queenstown,BA.2.86,NA,FALSE
 15,Queenstown,JN.1,TRUE,TRUE
 15,Queenstown,JN.1.16,TRUE,TRUE
 15,Queenstown,KP.2,TRUE,TRUE
 15,Queenstown,KP.3,TRUE,TRUE
-15,Dunedin (Tahuna),BA.2.86,TRUE,TRUE
+15,Dunedin (Tahuna),BA.2.86,NA,FALSE
 15,Dunedin (Tahuna),JN.1,TRUE,TRUE
 15,Dunedin (Tahuna),JN.1.16,TRUE,TRUE
 15,Dunedin (Tahuna),KP.2,TRUE,TRUE
 15,Dunedin (Tahuna),KP.3,TRUE,TRUE
-16,Invercargill,BA.2.86,TRUE,TRUE
+16,Invercargill,BA.2.86,NA,FALSE
 16,Invercargill,JN.1,TRUE,TRUE
 16,Invercargill,JN.1.16,TRUE,TRUE
 16,Invercargill,KP.2,TRUE,TRUE
