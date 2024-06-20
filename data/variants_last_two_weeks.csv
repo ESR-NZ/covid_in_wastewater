@@ -1,10 +1,10 @@
 region_id,DisplayName,variant,seen,detected
-1,Whangarei,BA.2.86,NA,FALSE
+1,Whangarei,BA.2.86,TRUE,TRUE
 1,Whangarei,JN.1,TRUE,TRUE
 1,Whangarei,JN.1.16,TRUE,TRUE
 1,Whangarei,KP.2,TRUE,TRUE
 1,Whangarei,KP.3,TRUE,TRUE
-2,North Shore,BA.2.86,NA,FALSE
+2,North Shore,BA.2.86,TRUE,TRUE
 2,North Shore,JN.1,TRUE,TRUE
 2,North Shore,JN.1.16,TRUE,TRUE
 2,North Shore,KP.2,TRUE,TRUE
@@ -44,12 +44,12 @@ region_id,DisplayName,variant,seen,detected
 4,Rotorua,JN.1.16,TRUE,TRUE
 4,Rotorua,KP.2,TRUE,TRUE
 4,Rotorua,KP.3,TRUE,TRUE
-5,Gisborne,BA.2.86,NA,FALSE
+5,Gisborne,BA.2.86,TRUE,TRUE
 5,Gisborne,JN.1,TRUE,TRUE
 5,Gisborne,JN.1.16,TRUE,TRUE
 5,Gisborne,KP.2,TRUE,TRUE
 5,Gisborne,KP.3,TRUE,TRUE
-6,Hastings,BA.2.86,TRUE,TRUE
+6,Hastings,BA.2.86,NA,FALSE
 6,Hastings,JN.1,TRUE,TRUE
 6,Hastings,JN.1.16,TRUE,TRUE
 6,Hastings,KP.2,TRUE,TRUE
@@ -69,7 +69,7 @@ region_id,DisplayName,variant,seen,detected
 9,Porirua,JN.1.16,TRUE,TRUE
 9,Porirua,KP.2,TRUE,TRUE
 9,Porirua,KP.3,TRUE,TRUE
-9,Wellington (Moa Point),BA.2.86,TRUE,TRUE
+9,Wellington (Moa Point),BA.2.86,NA,FALSE
 9,Wellington (Moa Point),JN.1,TRUE,TRUE
 9,Wellington (Moa Point),JN.1.16,TRUE,TRUE
 9,Wellington (Moa Point),KP.2,TRUE,TRUE
@@ -79,12 +79,12 @@ region_id,DisplayName,variant,seen,detected
 11,Nelson Central/North,JN.1.16,TRUE,TRUE
 11,Nelson Central/North,KP.2,TRUE,TRUE
 11,Nelson Central/North,KP.3,TRUE,TRUE
-14,Christchurch,BA.2.86,NA,FALSE
+14,Christchurch,BA.2.86,TRUE,TRUE
 14,Christchurch,JN.1,TRUE,TRUE
 14,Christchurch,JN.1.16,TRUE,TRUE
 14,Christchurch,KP.2,TRUE,TRUE
 14,Christchurch,KP.3,TRUE,TRUE
-15,Queenstown,BA.2.86,TRUE,TRUE
+15,Queenstown,BA.2.86,NA,FALSE
 15,Queenstown,JN.1,TRUE,TRUE
 15,Queenstown,JN.1.16,TRUE,TRUE
 15,Queenstown,KP.2,TRUE,TRUE
