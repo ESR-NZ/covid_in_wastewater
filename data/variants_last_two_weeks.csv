@@ -1,61 +1,34 @@
 region_id,DisplayName,variant,seen,detected
-2,North Shore,BA.2.86,NA,FALSE
 2,North Shore,JN.1,TRUE,TRUE
-2,North Shore,JN.1.16,TRUE,TRUE
 2,North Shore,KP.2,TRUE,TRUE
 2,North Shore,KP.3,TRUE,TRUE
-2,North Shore,KP.3.1.1,TRUE,TRUE
-2,Auckland West,BA.2.86,NA,FALSE
 2,Auckland West,JN.1,TRUE,TRUE
-2,Auckland West,JN.1.16,TRUE,TRUE
 2,Auckland West,KP.2,TRUE,TRUE
 2,Auckland West,KP.3,TRUE,TRUE
-2,Auckland West,KP.3.1.1,TRUE,TRUE
-2,Auckland East,BA.2.86,NA,FALSE
 2,Auckland East,JN.1,TRUE,TRUE
-2,Auckland East,JN.1.16,TRUE,TRUE
-2,Auckland East,KP.2,TRUE,TRUE
+2,Auckland East,KP.2,NA,FALSE
 2,Auckland East,KP.3,TRUE,TRUE
-2,Auckland East,KP.3.1.1,TRUE,TRUE
-2,Auckland Southwest,BA.2.86,NA,FALSE
-2,Auckland Southwest,JN.1,TRUE,TRUE
-2,Auckland Southwest,JN.1.16,TRUE,TRUE
-2,Auckland Southwest,KP.2,TRUE,TRUE
+2,Auckland Southwest,JN.1,NA,FALSE
+2,Auckland Southwest,KP.2,NA,FALSE
 2,Auckland Southwest,KP.3,TRUE,TRUE
-2,Auckland Southwest,KP.3.1.1,TRUE,TRUE
-4,Rotorua,BA.2.86,NA,FALSE
 4,Rotorua,JN.1,TRUE,TRUE
-4,Rotorua,JN.1.16,TRUE,TRUE
 4,Rotorua,KP.2,TRUE,TRUE
 4,Rotorua,KP.3,TRUE,TRUE
-4,Rotorua,KP.3.1.1,TRUE,TRUE
-9,Porirua,BA.2.86,TRUE,TRUE
 9,Porirua,JN.1,TRUE,TRUE
-9,Porirua,JN.1.16,TRUE,TRUE
 9,Porirua,KP.2,TRUE,TRUE
 9,Porirua,KP.3,TRUE,TRUE
-9,Porirua,KP.3.1.1,TRUE,TRUE
-9,Wellington (Moa Point),BA.2.86,NA,FALSE
-9,Wellington (Moa Point),JN.1,TRUE,TRUE
-9,Wellington (Moa Point),JN.1.16,TRUE,TRUE
-9,Wellington (Moa Point),KP.2,TRUE,TRUE
+9,Hutt Valley,JN.1,NA,FALSE
+9,Hutt Valley,KP.2,NA,FALSE
+9,Hutt Valley,KP.3,TRUE,TRUE
+9,Wellington (Moa Point),JN.1,NA,FALSE
+9,Wellington (Moa Point),KP.2,NA,FALSE
 9,Wellington (Moa Point),KP.3,TRUE,TRUE
-9,Wellington (Moa Point),KP.3.1.1,TRUE,TRUE
-14,Christchurch,BA.2.86,NA,FALSE
 14,Christchurch,JN.1,TRUE,TRUE
-14,Christchurch,JN.1.16,TRUE,TRUE
 14,Christchurch,KP.2,TRUE,TRUE
 14,Christchurch,KP.3,TRUE,TRUE
-14,Christchurch,KP.3.1.1,TRUE,TRUE
-15,Queenstown,BA.2.86,NA,FALSE
 15,Queenstown,JN.1,TRUE,TRUE
-15,Queenstown,JN.1.16,TRUE,TRUE
 15,Queenstown,KP.2,TRUE,TRUE
 15,Queenstown,KP.3,TRUE,TRUE
-15,Queenstown,KP.3.1.1,TRUE,TRUE
-15,Dunedin (Tahuna),BA.2.86,TRUE,TRUE
 15,Dunedin (Tahuna),JN.1,TRUE,TRUE
-15,Dunedin (Tahuna),JN.1.16,TRUE,TRUE
 15,Dunedin (Tahuna),KP.2,TRUE,TRUE
 15,Dunedin (Tahuna),KP.3,TRUE,TRUE
-15,Dunedin (Tahuna),KP.3.1.1,TRUE,TRUE
