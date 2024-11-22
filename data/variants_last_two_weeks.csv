@@ -1,56 +1,61 @@
 region_id,DisplayName,variant,seen,detected
 2,North Shore,JN.1,TRUE,TRUE
-2,North Shore,KP.2,TRUE,TRUE
+2,North Shore,KP.2,NA,FALSE
 2,North Shore,KP.3,TRUE,TRUE
-2,North Shore,Recombinant,TRUE,TRUE
-2,North Shore,XEC,TRUE,TRUE
+2,North Shore,Recombinant,NA,FALSE
+2,North Shore,XDV,NA,FALSE
+2,North Shore,XEC,NA,FALSE
 2,Auckland West,JN.1,TRUE,TRUE
 2,Auckland West,KP.2,NA,FALSE
 2,Auckland West,KP.3,TRUE,TRUE
 2,Auckland West,Recombinant,TRUE,TRUE
+2,Auckland West,XDV,TRUE,TRUE
 2,Auckland West,XEC,TRUE,TRUE
-2,Auckland East,JN.1,TRUE,TRUE
-2,Auckland East,KP.2,NA,FALSE
-2,Auckland East,KP.3,TRUE,TRUE
-2,Auckland East,Recombinant,TRUE,TRUE
-2,Auckland East,XEC,TRUE,TRUE
 2,Auckland Southwest,JN.1,TRUE,TRUE
 2,Auckland Southwest,KP.2,NA,FALSE
 2,Auckland Southwest,KP.3,TRUE,TRUE
 2,Auckland Southwest,Recombinant,TRUE,TRUE
+2,Auckland Southwest,XDV,NA,FALSE
 2,Auckland Southwest,XEC,TRUE,TRUE
 4,Rotorua,JN.1,TRUE,TRUE
 4,Rotorua,KP.2,NA,FALSE
 4,Rotorua,KP.3,TRUE,TRUE
 4,Rotorua,Recombinant,TRUE,TRUE
+4,Rotorua,XDV,NA,FALSE
 4,Rotorua,XEC,TRUE,TRUE
 9,Porirua,JN.1,TRUE,TRUE
 9,Porirua,KP.2,NA,FALSE
 9,Porirua,KP.3,TRUE,TRUE
 9,Porirua,Recombinant,TRUE,TRUE
+9,Porirua,XDV,NA,FALSE
 9,Porirua,XEC,TRUE,TRUE
 9,Hutt Valley,JN.1,TRUE,TRUE
 9,Hutt Valley,KP.2,NA,FALSE
 9,Hutt Valley,KP.3,TRUE,TRUE
 9,Hutt Valley,Recombinant,TRUE,TRUE
+9,Hutt Valley,XDV,NA,FALSE
 9,Hutt Valley,XEC,TRUE,TRUE
 9,Wellington (Moa Point),JN.1,TRUE,TRUE
-9,Wellington (Moa Point),KP.2,TRUE,TRUE
+9,Wellington (Moa Point),KP.2,NA,FALSE
 9,Wellington (Moa Point),KP.3,TRUE,TRUE
 9,Wellington (Moa Point),Recombinant,TRUE,TRUE
+9,Wellington (Moa Point),XDV,NA,FALSE
 9,Wellington (Moa Point),XEC,TRUE,TRUE
 14,Christchurch,JN.1,TRUE,TRUE
 14,Christchurch,KP.2,NA,FALSE
 14,Christchurch,KP.3,TRUE,TRUE
 14,Christchurch,Recombinant,TRUE,TRUE
+14,Christchurch,XDV,NA,FALSE
 14,Christchurch,XEC,TRUE,TRUE
 15,Queenstown,JN.1,TRUE,TRUE
-15,Queenstown,KP.2,NA,FALSE
+15,Queenstown,KP.2,TRUE,TRUE
 15,Queenstown,KP.3,TRUE,TRUE
 15,Queenstown,Recombinant,TRUE,TRUE
+15,Queenstown,XDV,TRUE,TRUE
 15,Queenstown,XEC,TRUE,TRUE
 15,Dunedin (Tahuna),JN.1,TRUE,TRUE
-15,Dunedin (Tahuna),KP.2,NA,FALSE
-15,Dunedin (Tahuna),KP.3,TRUE,TRUE
+15,Dunedin (Tahuna),KP.2,TRUE,TRUE
+15,Dunedin (Tahuna),KP.3,NA,FALSE
 15,Dunedin (Tahuna),Recombinant,TRUE,TRUE
-15,Dunedin (Tahuna),XEC,TRUE,TRUE
+15,Dunedin (Tahuna),XDV,NA,FALSE
+15,Dunedin (Tahuna),XEC,NA,FALSE

@@ -11254,6 +11254,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-10-13,WG_Porirua,1204494.5
 2024-10-13,WG_Seaview,1877328.5
 2024-10-20,AU_Eastern,1217516
+2024-10-20,AU_Mangere,549672.5
 2024-10-20,AU_Rosedale,1091951
 2024-10-20,AU_SouthWestern,2011272
 2024-10-20,AU_Western,447609
@@ -11265,6 +11266,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-10-20,WG_Porirua,644048
 2024-10-20,WG_Seaview,965304
 2024-10-27,AU_Eastern,2374312
+2024-10-27,AU_Mangere,1640523
 2024-10-27,AU_Rosedale,2160041
 2024-10-27,AU_SouthWestern,1047428
 2024-10-27,AU_Western,2750714
@@ -11276,6 +11278,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-10-27,WG_Porirua,2551571
 2024-10-27,WG_Seaview,5139708
 2024-11-03,AU_Eastern,875797
+2024-11-03,AU_Mangere,1454084
 2024-11-03,AU_Rosedale,1218275
 2024-11-03,AU_SouthWestern,723060
 2024-11-03,AU_Western,1127966
@@ -11297,3 +11300,15 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2024-11-10,WG_MoaPoint,3472709.5
 2024-11-10,WG_Porirua,3277600.5
 2024-11-10,WG_Seaview,2824276
+2024-11-17,AU_Eastern,1507841
+2024-11-17,AU_Mangere,858834.5
+2024-11-17,AU_Rosedale,1263142.5
+2024-11-17,AU_SouthWestern,2183904
+2024-11-17,AU_Western,3196352
+2024-11-17,BP_Rotorua,627984.5
+2024-11-17,CA_Christchurch,1287722
+2024-11-17,OT_DunedinTahuna,255821
+2024-11-17,OT_Queenstown,1895462.5
+2024-11-17,WG_MoaPoint,1825682.5
+2024-11-17,WG_Porirua,1536987.5
+2024-11-17,WG_Seaview,3305361
