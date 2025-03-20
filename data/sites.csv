@@ -1,4 +1,5 @@
 SampleLocation,DisplayName,SampleType,Latitude,Longitude,Population,region_id,Region,shp_label
+AU_Central,Auckland Central,Autosampler,-36.953251,174.777333,315000,2,Auckland,Auckland - Central Interceptor
 AU_Eastern,Auckland East,Autosampler,-36.964212,174.780127,680000,2,Auckland,Auckland - Eastern Interceptor
 AU_Rosedale,North Shore,Autosampler,-36.749115,174.71579,240000,2,Auckland,Auckland - Rosedale
 AU_SouthWestern,Auckland Southwest,Autosampler,-36.967643,174.778084,120000,2,Auckland,Auckland - Southwestern Interceptor
