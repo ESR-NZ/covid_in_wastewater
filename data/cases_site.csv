@@ -389,7 +389,7 @@ week_end_date,SampleLocation,case_7d_avg
 2025-02-16,AU_Eastern,20
 2025-02-23,AU_Eastern,21
 2025-03-02,AU_Eastern,21
-2025-03-09,AU_Eastern,21
+2025-03-09,AU_Eastern,22
 2025-03-16,AU_Eastern,17
 2025-03-23,AU_Eastern,15
 2025-03-30,AU_Eastern,17
@@ -399,6 +399,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,AU_Eastern,10
 2025-05-04,AU_Eastern,8
 2025-05-11,AU_Eastern,12
+2025-05-18,AU_Eastern,17
+2025-05-25,AU_Eastern,19
 2021-06-06,AU_Rosedale,0
 2021-06-13,AU_Rosedale,0
 2021-06-20,AU_Rosedale,0
@@ -605,6 +607,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,AU_Rosedale,2
 2025-05-04,AU_Rosedale,3
 2025-05-11,AU_Rosedale,1
+2025-05-18,AU_Rosedale,4
+2025-05-25,AU_Rosedale,7
 2021-06-06,AU_SouthWestern,1
 2021-06-13,AU_SouthWestern,1
 2021-06-20,AU_SouthWestern,0
@@ -811,6 +815,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,AU_SouthWestern,1
 2025-05-04,AU_SouthWestern,1
 2025-05-11,AU_SouthWestern,1
+2025-05-18,AU_SouthWestern,1
+2025-05-25,AU_SouthWestern,2
 2021-06-06,WG_MoaPoint,0
 2021-06-13,WG_MoaPoint,0
 2021-06-20,WG_MoaPoint,0
@@ -1017,6 +1023,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,WG_MoaPoint,2
 2025-05-04,WG_MoaPoint,2
 2025-05-11,WG_MoaPoint,3
+2025-05-18,WG_MoaPoint,4
+2025-05-25,WG_MoaPoint,4
 2021-06-06,BP_Rotorua,0
 2021-06-13,BP_Rotorua,0
 2021-06-20,BP_Rotorua,0
@@ -1223,6 +1231,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,BP_Rotorua,0
 2025-05-04,BP_Rotorua,0
 2025-05-11,BP_Rotorua,2
+2025-05-18,BP_Rotorua,2
+2025-05-25,BP_Rotorua,1
 2021-06-06,CA_Christchurch,0
 2021-06-13,CA_Christchurch,0
 2021-06-20,CA_Christchurch,0
@@ -1262,10 +1272,10 @@ week_end_date,SampleLocation,case_7d_avg
 2022-02-13,CA_Christchurch,10
 2022-02-20,CA_Christchurch,36
 2022-02-27,CA_Christchurch,413
-2022-03-06,CA_Christchurch,906
-2022-03-13,CA_Christchurch,1567
-2022-03-20,CA_Christchurch,1772
-2022-03-27,CA_Christchurch,2038
+2022-03-06,CA_Christchurch,904
+2022-03-13,CA_Christchurch,1566
+2022-03-20,CA_Christchurch,1769
+2022-03-27,CA_Christchurch,2037
 2022-04-03,CA_Christchurch,1558
 2022-04-10,CA_Christchurch,1208
 2022-04-17,CA_Christchurch,1205
@@ -1391,7 +1401,7 @@ week_end_date,SampleLocation,case_7d_avg
 2024-08-04,CA_Christchurch,30
 2024-08-11,CA_Christchurch,30
 2024-08-18,CA_Christchurch,32
-2024-08-25,CA_Christchurch,29
+2024-08-25,CA_Christchurch,30
 2024-09-01,CA_Christchurch,22
 2024-09-08,CA_Christchurch,13
 2024-09-15,CA_Christchurch,14
@@ -1428,7 +1438,9 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-20,CA_Christchurch,5
 2025-04-27,CA_Christchurch,5
 2025-05-04,CA_Christchurch,7
-2025-05-11,CA_Christchurch,6
+2025-05-11,CA_Christchurch,7
+2025-05-18,CA_Christchurch,10
+2025-05-25,CA_Christchurch,8
 2021-06-06,OT_DunedinTahuna,0
 2021-06-13,OT_DunedinTahuna,0
 2021-06-20,OT_DunedinTahuna,0
@@ -1635,6 +1647,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,OT_DunedinTahuna,2
 2025-05-04,OT_DunedinTahuna,3
 2025-05-11,OT_DunedinTahuna,2
+2025-05-18,OT_DunedinTahuna,6
+2025-05-25,OT_DunedinTahuna,7
 2021-06-06,OT_Queenstown,0
 2021-06-13,OT_Queenstown,0
 2021-06-20,OT_Queenstown,0
@@ -1841,6 +1855,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,OT_Queenstown,0
 2025-05-04,OT_Queenstown,0
 2025-05-11,OT_Queenstown,0
+2025-05-18,OT_Queenstown,0
+2025-05-25,OT_Queenstown,0
 2021-06-06,WG_Porirua,0
 2021-06-13,WG_Porirua,0
 2021-06-20,WG_Porirua,0
@@ -2047,6 +2063,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,WG_Porirua,1
 2025-05-04,WG_Porirua,0
 2025-05-11,WG_Porirua,1
+2025-05-18,WG_Porirua,2
+2025-05-25,WG_Porirua,2
 2021-06-06,WG_Seaview,0
 2021-06-13,WG_Seaview,0
 2021-06-20,WG_Seaview,0
@@ -2253,6 +2271,8 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,WG_Seaview,2
 2025-05-04,WG_Seaview,2
 2025-05-11,WG_Seaview,4
+2025-05-18,WG_Seaview,5
+2025-05-25,WG_Seaview,4
 2025-02-23,AU_Central,7
 2025-03-02,AU_Central,7
 2025-03-09,AU_Central,5
@@ -2265,3 +2285,5 @@ week_end_date,SampleLocation,case_7d_avg
 2025-04-27,AU_Central,2
 2025-05-04,AU_Central,2
 2025-05-11,AU_Central,3
+2025-05-18,AU_Central,7
+2025-05-25,AU_Central,7
