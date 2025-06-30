@@ -1,6 +1,6 @@
 # Aotearoa New Zealand Wastewater COVID-19 Surveillance Programme
 
-This GitHub repo provides data sets used to support The Institute of Environmental Science & Research (ESR) wastewater COVID-19 surveillance programme (https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results). This includes for the current [wastewater dashboard](https://poops.nz/) and [historical dashboard](https://historic.poops.nz/). Data are SARS-CoV-2 RNA quantitation in wastewater, reported COVID-19 case data, and geographic metadata.
+This GitHub repo provides data sets used to support the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) wastewater COVID-19 surveillance programme (https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results). This includes for the current [wastewater dashboard](https://poops.nz/) and [historical dashboard](https://historic.poops.nz/). Data are SARS-CoV-2 RNA quantitation in wastewater, reported COVID-19 case data, and geographic metadata.
 
 Funding for the dashboard and data repository is provided by the [Ministry of Health](https://www.health.govt.nz/).
 
@@ -32,7 +32,7 @@ For the national aggregated data, each week the averaged and normalised site dat
 
 ## Reported Case Data
 
-Reported case numbers are calculated by summing up all the new reported cases to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via NCTS or [EpiSurv](https://www.esr.cri.nz/expertise/public-health/health-information-systems/#EpiSurvnotifiablediseasedatabase) is used. When the report date is not available, the first non-null value from the fields onset date, lab sample date, lab confirmed detection date, or earliest date is used.
+Reported case numbers are calculated by summing up all the new reported cases to the Ministry of Health for that week. Cases are reported on a per-day basis because wastewater samples are generally representative of the viral load in the catchment for the preceding 24-hrs. The report date is aligned with what the Ministry of Health publishes on their website. The average number of new COVID-19 cases reported per day via NCTS or [EpiSurv](https://www.phfscience.nz/expertise/public-health/health-information-systems/#EpiSurvnotifiablediseasedatabase) is used. When the report date is not available, the first non-null value from the fields onset date, lab sample date, lab confirmed detection date, or earliest date is used.
 
 ## Folder Structure
 
@@ -115,7 +115,7 @@ For further guidance, please refer to the 'Estimated variant prevalence' notes o
 
 ## Laboratory Methodology
 
-Samples are sent from each enrolled wastewater treatment plant to ESR. Processing first involves separating the solids from liquid by centrifugation, followed by eluting the virus from the solids. The virus from the solids is then combined with that in the liquid phase and concentrated to a small volume by polyethylene glycol (PEG) precipitation. The viral RNA is extracted. The presence of SARS-CoV-2 RNA in the sample is then determined using RT-qPCR (reverse transcription-quantitative polymerase chain reaction) with the N-gene of the SARS-CoV-2 viral genome. SARS-CoV-2 RNA is considered detected when any of the RT-qPCR replicates are positive. A result of "Not detected" means that SARS-CoV-2 RNA is either absent from the sample or at a level in the wastewater that is too low to be detected.
+Samples are sent from each enrolled wastewater treatment plant to PHF Science. Processing first involves separating the solids from liquid by centrifugation, followed by eluting the virus from the solids. The virus from the solids is then combined with that in the liquid phase and concentrated to a small volume by polyethylene glycol (PEG) precipitation. The viral RNA is extracted. The presence of SARS-CoV-2 RNA in the sample is then determined using RT-qPCR (reverse transcription-quantitative polymerase chain reaction) with the N-gene of the SARS-CoV-2 viral genome. SARS-CoV-2 RNA is considered detected when any of the RT-qPCR replicates are positive. A result of "Not detected" means that SARS-CoV-2 RNA is either absent from the sample or at a level in the wastewater that is too low to be detected.
 
 When SARS-CoV-2 RNA is detected by RT-qPCR, the concentration in the sample is calculated and converted from genome copy per reaction into genome copies per litre of wastewater. The unit conversion considers the initial sample volume, final volume of the concentrate used for RNA extraction, final volume of the eluted RNA, and amount of RNA used in the RT-qPCR template. Low amounts of SARS-CoV-2 RNA in a sample may not be accurately quantified and are recorded as 500 genome copies/L.
 
@@ -131,20 +131,21 @@ For academic publications, cite the following paper:
 
 This work represents the combined efforts of many individuals and organisations. We thank the teams across the country who collect the wastewater and associated metadata that underpins this work.
 
-ESR acknowledges the support of councils and wastewater providers across New Zealand who provide us with samples and staff in the public health services in New Zealand who provide us with data from their regions. This work is funded by the Ministry of Health.
+PHF Science acknowledges the support of councils and wastewater providers across New Zealand who provide us with samples and staff in the public health services in New Zealand who provide us with data from their regions. This work is funded by the Ministry of Health.
 
 ## Terms of Use
 
-1. This dataset is owned by the Institute of Environmental Science and Research Limited and licensed for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). This license means that you are free to copy, distribute and adapt the material, as long as you attribute it to the Institute of Environmental Science and Research Limited and abide by the other license terms. This license does not apply to any logos and trademarks on this website – these specific elements may not be reused without the Institute of Environmental Science and Research Limited's prior written consent.
-2. If you wish to use the data, you must attribute it as the "COVID-19 Data Repository by the Institute of Environmental Science and Research", and the URL: <https://github.com/ESR-NZ/covid_in_wastewater>
+1. This dataset is owned by the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) and licensed for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). This license means that you are free to copy, distribute and adapt the material, as long as you attribute it to the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) and abide by the other license terms. This license does not apply to any logos and trademarks on this website – these specific elements may not be reused without the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) prior written consent.
+2. If you wish to use the data, you must attribute it as the "COVID-19 Data Repository by the New Zealand Institute for Public Health and Forensic Science Ltd", and the URL: <https://github.com/ESR-NZ/covid_in_wastewater>
 3. You may use our application programming interface ("API") to facilitate access to the dataset, whether through a separate website or through another type of software application.
-4. You may not represent or imply that the Institute of Environmental Science and Research Limited has approved or endorsed the manner or purpose of your use or reproduction of the dataset.
-5. The Institute of Environmental Science and Research Limited reserves the right at any time in its sole discretion to modify or discontinue (temporarily or permanently) this website, the dataset, and any means of accessing the dataset, with or without prior notice to you.
+4. You may not represent or imply that the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) has approved or endorsed the manner or purpose of your use or reproduction of the dataset.
+5. The New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) reserves the right at any time in its sole discretion to modify or discontinue (temporarily or permanently) this website, the dataset, and any means of accessing the dataset, with or without prior notice to you.
 
 ## Disclaimer
 
-Data is shared solely for the benefit of the New Zealand Ministry of Health, Public Health Service Providers and other Third Party Beneficiaries as defined in the Contract between ESR and the MoH. ESR does not accept any legal liability or responsibility for use of information contained in this repository by any other person or organisation.
+Data is shared solely for the benefit of the New Zealand Ministry of Health, Public Health Service Providers and other Third Party Beneficiaries as defined in the Contract between PHF Science and the MoH. PHF Science does not accept any legal liability or responsibility for use of information contained in this repository by any other person or organisation.
 
-## About ESR
+## About PHF Science
 
-The Institute of Environmental Science and Research (ESR) is a Crown Research Institute in Aotearoa New Zealand. ESR provides science services and research capability across several science disciplines including Public Health, Forensics, Water and the Environment, Genomics, and Social Science.
+The New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science) is a New Zealand Government-owned research organisation dedicated to enhancing the
+health, wellbeing and safety of our communities. Specialising in public health and forensic sciences, we monitor disease, help ensure safe food and water, reduce harm from drugs, support the justice system and more. Our science powers innovations and solutions to help New Zealand prosper and grow.
