@@ -214,13 +214,15 @@ week_end_date,Region,case_7d_avg
 2025-06-29,Auckland,40
 2025-07-06,Auckland,24
 2025-07-13,Auckland,20
-2025-07-20,Auckland,17
+2025-07-20,Auckland,18
 2025-07-27,Auckland,21
 2025-08-03,Auckland,25
 2025-08-10,Auckland,25
 2025-08-17,Auckland,26
 2025-08-24,Auckland,20
 2025-08-31,Auckland,17
+2025-09-07,Auckland,9
+2025-09-14,Auckland,11
 2021-06-06,Bay of Plenty,0
 2021-06-13,Bay of Plenty,0
 2021-06-20,Bay of Plenty,0
@@ -443,6 +445,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Bay of Plenty,4
 2025-08-24,Bay of Plenty,3
 2025-08-31,Bay of Plenty,3
+2025-09-07,Bay of Plenty,2
+2025-09-14,Bay of Plenty,3
 2021-06-06,Canterbury,1
 2021-06-13,Canterbury,1
 2021-06-20,Canterbury,1
@@ -665,6 +669,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Canterbury,10
 2025-08-24,Canterbury,8
 2025-08-31,Canterbury,6
+2025-09-07,Canterbury,5
+2025-09-14,Canterbury,6
 2021-06-06,Gisborne,0
 2021-06-13,Gisborne,0
 2021-06-20,Gisborne,0
@@ -887,6 +893,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Gisborne,1
 2025-08-24,Gisborne,1
 2025-08-31,Gisborne,0
+2025-09-07,Gisborne,1
+2025-09-14,Gisborne,0
 2021-06-06,Hawke's Bay,0
 2021-06-13,Hawke's Bay,0
 2021-06-20,Hawke's Bay,0
@@ -1109,6 +1117,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Hawke's Bay,3
 2025-08-24,Hawke's Bay,3
 2025-08-31,Hawke's Bay,1
+2025-09-07,Hawke's Bay,1
+2025-09-14,Hawke's Bay,1
 2021-06-06,Marlborough,0
 2021-06-13,Marlborough,0
 2021-06-20,Marlborough,0
@@ -1331,6 +1341,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Marlborough,2
 2025-08-24,Marlborough,2
 2025-08-31,Marlborough,2
+2025-09-07,Marlborough,1
+2025-09-14,Marlborough,2
 2021-06-06,Manawatu-Whanganui,0
 2021-06-13,Manawatu-Whanganui,0
 2021-06-20,Manawatu-Whanganui,0
@@ -1553,6 +1565,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Manawatu-Whanganui,7
 2025-08-24,Manawatu-Whanganui,6
 2025-08-31,Manawatu-Whanganui,5
+2025-09-07,Manawatu-Whanganui,4
+2025-09-14,Manawatu-Whanganui,4
 2021-06-06,Nelson,0
 2021-06-13,Nelson,0
 2021-06-20,Nelson,0
@@ -1775,6 +1789,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Nelson,2
 2025-08-24,Nelson,1
 2025-08-31,Nelson,1
+2025-09-07,Nelson,2
+2025-09-14,Nelson,2
 2021-06-06,Northland,0
 2021-06-13,Northland,0
 2021-06-20,Northland,0
@@ -1997,6 +2013,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Northland,3
 2025-08-24,Northland,3
 2025-08-31,Northland,3
+2025-09-07,Northland,3
+2025-09-14,Northland,5
 2021-06-06,Otago,0
 2021-06-13,Otago,1
 2021-06-20,Otago,0
@@ -2219,6 +2237,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Otago,5
 2025-08-24,Otago,4
 2025-08-31,Otago,4
+2025-09-07,Otago,2
+2025-09-14,Otago,2
 2021-06-06,Southland,0
 2021-06-13,Southland,0
 2021-06-20,Southland,0
@@ -2440,7 +2460,9 @@ week_end_date,Region,case_7d_avg
 2025-08-10,Southland,2
 2025-08-17,Southland,2
 2025-08-24,Southland,3
-2025-08-31,Southland,3
+2025-08-31,Southland,4
+2025-09-07,Southland,3
+2025-09-14,Southland,1
 2021-06-06,Taranaki,0
 2021-06-13,Taranaki,0
 2021-06-20,Taranaki,0
@@ -2663,6 +2685,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Taranaki,3
 2025-08-24,Taranaki,3
 2025-08-31,Taranaki,2
+2025-09-07,Taranaki,2
+2025-09-14,Taranaki,3
 2021-06-06,Tasman,0
 2021-06-13,Tasman,0
 2021-06-20,Tasman,0
@@ -2885,6 +2909,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Tasman,1
 2025-08-24,Tasman,2
 2025-08-31,Tasman,2
+2025-09-07,Tasman,0
+2025-09-14,Tasman,1
 2021-06-06,West Coast,0
 2021-06-13,West Coast,0
 2021-06-20,West Coast,0
@@ -3107,6 +3133,8 @@ week_end_date,Region,case_7d_avg
 2025-08-17,West Coast,2
 2025-08-24,West Coast,3
 2025-08-31,West Coast,2
+2025-09-07,West Coast,1
+2025-09-14,West Coast,0
 2021-06-06,Wellington,0
 2021-06-13,Wellington,0
 2021-06-20,Wellington,0
@@ -3328,7 +3356,9 @@ week_end_date,Region,case_7d_avg
 2025-08-10,Wellington,14
 2025-08-17,Wellington,12
 2025-08-24,Wellington,11
-2025-08-31,Wellington,11
+2025-08-31,Wellington,12
+2025-09-07,Wellington,9
+2025-09-14,Wellington,7
 2021-06-06,Waikato,0
 2021-06-13,Waikato,0
 2021-06-20,Waikato,0
@@ -3542,7 +3572,7 @@ week_end_date,Region,case_7d_avg
 2025-06-15,Waikato,9
 2025-06-22,Waikato,9
 2025-06-29,Waikato,13
-2025-07-06,Waikato,10
+2025-07-06,Waikato,11
 2025-07-13,Waikato,7
 2025-07-20,Waikato,6
 2025-07-27,Waikato,6
@@ -3551,3 +3581,5 @@ week_end_date,Region,case_7d_avg
 2025-08-17,Waikato,7
 2025-08-24,Waikato,6
 2025-08-31,Waikato,5
+2025-09-07,Waikato,5
+2025-09-14,Waikato,4
