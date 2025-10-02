@@ -121,7 +121,7 @@ When SARS-CoV-2 RNA is detected by RT-qPCR, the concentration in the sample is c
 
 ## Citation
 
-If you would like to use this data, please cite: COVID-19 Data Repository by the Institute of Environmental Science and Research, and the URL: <https://github.com/ESR-NZ/covid_in_wastewater>
+If you would like to use this data, please cite: COVID-19 Data Repository by the New Zealand Institute for Public Health and Forensic Science Ltd (PHF Science), and the URL: <https://github.com/ESR-NZ/covid_in_wastewater>
 
 For academic publications, cite the following paper:
 
