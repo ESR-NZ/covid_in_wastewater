@@ -11622,7 +11622,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2025-05-25,AU_Rosedale,5481789
 2025-05-25,AU_SouthWestern,6212384
 2025-05-25,BP_Rotorua,5823188
-2025-05-25,CA_Christchurch,4699501
+2025-05-25,CA_Christchurch,4699501.5
 2025-05-25,OT_DunedinTahuna,6673758.5
 2025-05-25,OT_Queenstown,8650554
 2025-05-25,WG_MoaPoint,1781332.5
@@ -11960,3 +11960,15 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2025-12-07,WG_MoaPoint,3425221
 2025-12-07,WG_Porirua,2710224
 2025-12-07,WG_Seaview,4622804.5
+2025-12-14,AU_Central,1514265
+2025-12-14,AU_Eastern,1151595.5
+2025-12-14,AU_Mangere,2172975
+2025-12-14,AU_Rosedale,1709798.5
+2025-12-14,AU_SouthWestern,631876
+2025-12-14,BP_Rotorua,3073939
+2025-12-14,CA_Christchurch,848840.5
+2025-12-14,OT_DunedinTahuna,482624.5
+2025-12-14,OT_Queenstown,1324958
+2025-12-14,WG_MoaPoint,2491773.5
+2025-12-14,WG_Porirua,2571623.5
+2025-12-14,WG_Seaview,5487594
