@@ -2774,3 +2774,16 @@ week_end_date,Region,copies_per_day_per_person,population_covered,n_sites
 2026-01-11,Canterbury,3151136,368000,1
 2026-01-11,Otago,900932,124000,2
 2026-01-11,Wellington,4234877,386000,3
+<<<<<<< Updated upstream
+=======
+2026-01-18,Auckland,2597461,1355000,4
+2026-01-18,Bay of Plenty,4691258,59000,1
+2026-01-18,Canterbury,2569085,368000,1
+2026-01-18,Otago,1149217,124000,2
+2026-01-18,Wellington,4774265,386000,3
+2026-01-25,Auckland,3364444,1355000,4
+2026-01-25,Bay of Plenty,2740121,59000,1
+2026-01-25,Canterbury,3568032,368000,1
+2026-01-25,Otago,1163337,124000,2
+2026-01-25,Wellington,4253232,386000,3
+>>>>>>> Stashed changes

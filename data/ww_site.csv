@@ -12016,3 +12016,30 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-01-11,WG_MoaPoint,2884859.5
 2026-01-11,WG_Porirua,4073961.5
 2026-01-11,WG_Seaview,6043002
+<<<<<<< Updated upstream
+=======
+2026-01-18,AU_Central,1837134
+2026-01-18,AU_Eastern,1975769.5
+2026-01-18,AU_Mangere,6418704
+2026-01-18,AU_Rosedale,5434747.5
+2026-01-18,AU_SouthWestern,2441665
+2026-01-18,BP_Rotorua,4691258.5
+2026-01-18,CA_Christchurch,2569085
+2026-01-18,OT_DunedinTahuna,284955
+2026-01-18,OT_Queenstown,2964168.5
+2026-01-18,WG_MoaPoint,4068928
+2026-01-18,WG_Porirua,5219625.5
+2026-01-18,WG_Seaview,5380587
+2026-01-25,AU_Central,4644498.5
+2026-01-25,AU_Eastern,3409964.5
+2026-01-25,AU_Mangere,3572414
+2026-01-25,AU_Rosedale,1889746
+2026-01-25,AU_SouthWestern,2695745.5
+2026-01-25,BP_Rotorua,2740121
+2026-01-25,CA_Christchurch,3568031.5
+2026-01-25,OT_DunedinTahuna,455231.5
+2026-01-25,OT_Queenstown,2650357.5
+2026-01-25,WG_MoaPoint,1539498
+2026-01-25,WG_Porirua,4183662.5
+2026-01-25,WG_Seaview,7725569
+>>>>>>> Stashed changes
