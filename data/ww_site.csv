@@ -12016,8 +12016,6 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-01-11,WG_MoaPoint,2884859.5
 2026-01-11,WG_Porirua,4073961.5
 2026-01-11,WG_Seaview,6043002
-<<<<<<< Updated upstream
-=======
 2026-01-18,AU_Central,1837134
 2026-01-18,AU_Eastern,1975769.5
 2026-01-18,AU_Mangere,6418704
@@ -12042,4 +12040,3 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-01-25,WG_MoaPoint,1539498
 2026-01-25,WG_Porirua,4183662.5
 2026-01-25,WG_Seaview,7725569
->>>>>>> Stashed changes
