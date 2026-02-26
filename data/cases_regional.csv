@@ -38,7 +38,7 @@ week_end_date,Region,case_7d_avg
 2022-02-13,Auckland,363
 2022-02-20,Auckland,1186
 2022-02-27,Auckland,5904
-2022-03-06,Auckland,10934
+2022-03-06,Auckland,10933
 2022-03-13,Auckland,6750
 2022-03-20,Auckland,4227
 2022-03-27,Auckland,3048
@@ -244,6 +244,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Auckland,14
 2026-02-01,Auckland,10
 2026-02-08,Auckland,11
+2026-02-15,Auckland,14
+2026-02-22,Auckland,20
 2021-06-06,Bay of Plenty,0
 2021-06-13,Bay of Plenty,0
 2021-06-20,Bay of Plenty,0
@@ -489,6 +491,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Bay of Plenty,2
 2026-02-01,Bay of Plenty,2
 2026-02-08,Bay of Plenty,2
+2026-02-15,Bay of Plenty,3
+2026-02-22,Bay of Plenty,2
 2021-06-06,Canterbury,1
 2021-06-13,Canterbury,1
 2021-06-20,Canterbury,1
@@ -525,8 +529,8 @@ week_end_date,Region,case_7d_avg
 2022-01-23,Canterbury,5
 2022-01-30,Canterbury,8
 2022-02-06,Canterbury,15
-2022-02-13,Canterbury,11
-2022-02-20,Canterbury,50
+2022-02-13,Canterbury,10
+2022-02-20,Canterbury,48
 2022-02-27,Canterbury,476
 2022-03-06,Canterbury,1148
 2022-03-13,Canterbury,2058
@@ -734,6 +738,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Canterbury,3
 2026-02-01,Canterbury,4
 2026-02-08,Canterbury,3
+2026-02-15,Canterbury,3
+2026-02-22,Canterbury,6
 2021-06-06,Gisborne,0
 2021-06-13,Gisborne,0
 2021-06-20,Gisborne,0
@@ -822,7 +828,7 @@ week_end_date,Region,case_7d_avg
 2023-01-22,Gisborne,45
 2023-01-29,Gisborne,29
 2023-02-05,Gisborne,18
-2023-02-12,Gisborne,19
+2023-02-12,Gisborne,20
 2023-02-19,Gisborne,8
 2023-02-26,Gisborne,10
 2023-03-05,Gisborne,8
@@ -979,6 +985,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Gisborne,1
 2026-02-01,Gisborne,1
 2026-02-08,Gisborne,2
+2026-02-15,Gisborne,1
+2026-02-22,Gisborne,1
 2021-06-06,Hawke's Bay,0
 2021-06-13,Hawke's Bay,0
 2021-06-20,Hawke's Bay,0
@@ -1220,10 +1228,12 @@ week_end_date,Region,case_7d_avg
 2025-12-28,Hawke's Bay,2
 2026-01-04,Hawke's Bay,2
 2026-01-11,Hawke's Bay,2
-2026-01-18,Hawke's Bay,1
+2026-01-18,Hawke's Bay,2
 2026-01-25,Hawke's Bay,2
 2026-02-01,Hawke's Bay,2
 2026-02-08,Hawke's Bay,1
+2026-02-15,Hawke's Bay,2
+2026-02-22,Hawke's Bay,2
 2021-06-06,Marlborough,0
 2021-06-13,Marlborough,0
 2021-06-20,Marlborough,0
@@ -1469,6 +1479,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Marlborough,1
 2026-02-01,Marlborough,0
 2026-02-08,Marlborough,2
+2026-02-15,Marlborough,1
+2026-02-22,Marlborough,1
 2021-06-06,Manawatu-Whanganui,0
 2021-06-13,Manawatu-Whanganui,0
 2021-06-20,Manawatu-Whanganui,0
@@ -1510,7 +1522,7 @@ week_end_date,Region,case_7d_avg
 2022-02-27,Manawatu-Whanganui,118
 2022-03-06,Manawatu-Whanganui,424
 2022-03-13,Manawatu-Whanganui,761
-2022-03-20,Manawatu-Whanganui,965
+2022-03-20,Manawatu-Whanganui,966
 2022-03-27,Manawatu-Whanganui,1105
 2022-04-03,Manawatu-Whanganui,1041
 2022-04-10,Manawatu-Whanganui,770
@@ -1714,6 +1726,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Manawatu-Whanganui,2
 2026-02-01,Manawatu-Whanganui,2
 2026-02-08,Manawatu-Whanganui,3
+2026-02-15,Manawatu-Whanganui,2
+2026-02-22,Manawatu-Whanganui,4
 2021-06-06,Nelson,0
 2021-06-13,Nelson,0
 2021-06-20,Nelson,0
@@ -1959,6 +1973,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Nelson,1
 2026-02-01,Nelson,2
 2026-02-08,Nelson,1
+2026-02-15,Nelson,1
+2026-02-22,Nelson,1
 2021-06-06,Northland,0
 2021-06-13,Northland,0
 2021-06-20,Northland,0
@@ -2000,7 +2016,7 @@ week_end_date,Region,case_7d_avg
 2022-02-27,Northland,125
 2022-03-06,Northland,439
 2022-03-13,Northland,633
-2022-03-20,Northland,576
+2022-03-20,Northland,577
 2022-03-27,Northland,575
 2022-04-03,Northland,547
 2022-04-10,Northland,494
@@ -2204,6 +2220,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Northland,2
 2026-02-01,Northland,1
 2026-02-08,Northland,2
+2026-02-15,Northland,2
+2026-02-22,Northland,2
 2021-06-06,Otago,0
 2021-06-13,Otago,1
 2021-06-20,Otago,0
@@ -2445,10 +2463,12 @@ week_end_date,Region,case_7d_avg
 2025-12-28,Otago,3
 2026-01-04,Otago,2
 2026-01-11,Otago,2
-2026-01-18,Otago,1
+2026-01-18,Otago,2
 2026-01-25,Otago,1
 2026-02-01,Otago,2
 2026-02-08,Otago,2
+2026-02-15,Otago,2
+2026-02-22,Otago,4
 2021-06-06,Southland,0
 2021-06-13,Southland,0
 2021-06-20,Southland,0
@@ -2694,6 +2714,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Southland,1
 2026-02-01,Southland,2
 2026-02-08,Southland,2
+2026-02-15,Southland,2
+2026-02-22,Southland,2
 2021-06-06,Taranaki,0
 2021-06-13,Taranaki,0
 2021-06-20,Taranaki,0
@@ -2939,6 +2961,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Taranaki,2
 2026-02-01,Taranaki,1
 2026-02-08,Taranaki,3
+2026-02-15,Taranaki,3
+2026-02-22,Taranaki,2
 2021-06-06,Tasman,0
 2021-06-13,Tasman,0
 2021-06-20,Tasman,0
@@ -3184,6 +3208,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Tasman,1
 2026-02-01,Tasman,0
 2026-02-08,Tasman,1
+2026-02-15,Tasman,0
+2026-02-22,Tasman,4
 2021-06-06,West Coast,0
 2021-06-13,West Coast,0
 2021-06-20,West Coast,0
@@ -3429,6 +3455,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,West Coast,0
 2026-02-01,West Coast,0
 2026-02-08,West Coast,0
+2026-02-15,West Coast,0
+2026-02-22,West Coast,1
 2021-06-06,Wellington,0
 2021-06-13,Wellington,0
 2021-06-20,Wellington,0
@@ -3674,6 +3702,8 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Wellington,4
 2026-02-01,Wellington,6
 2026-02-08,Wellington,5
+2026-02-15,Wellington,6
+2026-02-22,Wellington,7
 2021-06-06,Waikato,0
 2021-06-13,Waikato,0
 2021-06-20,Waikato,0
@@ -3919,3 +3949,5 @@ week_end_date,Region,case_7d_avg
 2026-01-25,Waikato,3
 2026-02-01,Waikato,4
 2026-02-08,Waikato,4
+2026-02-15,Waikato,5
+2026-02-22,Waikato,3
