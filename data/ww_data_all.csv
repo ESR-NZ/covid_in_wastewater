@@ -281,6 +281,10 @@ AU_Central,1111,2026-04-20,Detected,146722
 AU_Central,10493,2026-04-22,Detected,1385742
 AU_Central,11988,2026-04-27,Detected,1787734
 AU_Central,4291,2026-04-30,Detected,528910
+AU_Central,6890,2026-05-04,Detected,823737
+AU_Central,19139,2026-05-06,Detected,2214655
+AU_Central,14610,2026-05-11,Detected,2196138
+AU_Central,12970,2026-05-13,Detected,1594074
 AU_ClarksBeach,0,2021-09-15,Not detected,0
 AU_ClarksBeach,0,2021-09-22,Not detected,0
 AU_ClarksBeach,0,2021-09-29,Not detected,0
@@ -776,6 +780,10 @@ AU_Eastern,3354,2026-04-20,Detected,927025
 AU_Eastern,4532,2026-04-22,Detected,1252618
 AU_Eastern,7921,2026-04-27,Detected,1756225
 AU_Eastern,3415,2026-04-30,Detected,275962
+AU_Eastern,4914,2026-05-04,Detected,442115
+AU_Eastern,6401,2026-05-06,Detected,1125907
+AU_Eastern,6500,2026-05-11,Detected,1223701
+AU_Eastern,10867,2026-05-13,Detected,1942284
 AU_Helensville,0,2021-08-17,Not detected,0
 AU_Helensville,0,2021-09-14,Not detected,0
 AU_Helensville,0,2021-09-16,Not detected,0
@@ -1256,6 +1264,10 @@ AU_Mangere,3324,2026-04-20,Detected,763204
 AU_Mangere,11207,2026-04-22,Detected,2573175
 AU_Mangere,12042,2026-04-27,Detected,2764895
 AU_Mangere,5207,2026-04-30,Detected,1195549
+AU_Mangere,4094,2026-05-04,Detected,940000
+AU_Mangere,17475,2026-05-06,Detected,4012335
+AU_Mangere,6188,2026-05-11,Detected,1420791
+AU_Mangere,17718,2026-05-13,Detected,4068129
 AU_Omaha,0,2021-08-20,Not detected,0
 AU_Omaha,0,2021-08-24,Not detected,0
 AU_Omaha,0,2021-09-16,Not detected,0
@@ -1899,6 +1911,10 @@ AU_Rosedale,16305,2026-04-15,Detected,3883579
 AU_Rosedale,2379,2026-04-20,Detected,566638
 AU_Rosedale,19154,2026-04-22,Detected,4562163
 AU_Rosedale,7691,2026-04-30,Detected,1831868
+AU_Rosedale,5593,2026-05-04,Detected,1332159
+AU_Rosedale,14545,2026-05-06,Detected,3464376
+AU_Rosedale,5211,2026-05-11,Detected,1241173
+AU_Rosedale,15306,2026-05-13,Detected,3645634
 AU_SnellsAlgies,0,2021-08-21,Not detected,0
 AU_SnellsAlgies,0,2021-08-22,Not detected,0
 AU_SnellsAlgies,0,2021-08-24,Not detected,0
@@ -2438,6 +2454,10 @@ AU_SouthWestern,3239,2026-04-20,Detected,769127
 AU_SouthWestern,22703,2026-04-22,Detected,5391016
 AU_SouthWestern,9903,2026-04-27,Detected,2351549
 AU_SouthWestern,5697,2026-04-30,Detected,1352800
+AU_SouthWestern,5190,2026-05-04,Detected,1232408
+AU_SouthWestern,5573,2026-05-06,Detected,1323355
+AU_SouthWestern,2406,2026-05-11,Detected,571324
+AU_SouthWestern,26655,2026-05-13,Detected,6329451
 AU_Waiuku,0,2021-09-15,Not detected,0
 AU_Waiuku,0,2021-09-22,Not detected,0
 AU_Waiuku,0,2021-09-29,Not detected,0
@@ -3919,6 +3939,10 @@ BP_Rotorua,1696,2026-04-20,Detected,507535
 BP_Rotorua,7797,2026-04-22,Detected,2333285
 BP_Rotorua,5476,2026-04-28,Detected,1638716
 BP_Rotorua,3271,2026-04-29,Detected,978860
+BP_Rotorua,2748,2026-05-04,Detected,822350
+BP_Rotorua,15110,2026-05-06,Detected,4521731
+BP_Rotorua,2042,2026-05-11,Detected,611077
+BP_Rotorua,19670,2026-05-13,Detected,5886330
 BP_Tauranga,0,2021-08-10,Not detected,0
 BP_Tauranga,0,2021-08-11,Not detected,0
 BP_Tauranga,0,2021-08-17,Not detected,0
@@ -5497,7 +5521,7 @@ CA_Christchurch,5496,2025-05-05,Detected,3281518
 CA_Christchurch,20215,2025-05-07,Detected,11216754
 CA_Christchurch,5047,2025-05-13,Detected,2517424
 CA_Christchurch,6939,2025-05-14,Detected,3377765
-CA_Christchurch,8308,2025-05-21,Detected,3847539
+CA_Christchurch,8308,2025-05-21,Detected,3847538
 CA_Christchurch,12123,2025-05-22,Detected,5551464
 CA_Christchurch,7871,2025-05-27,Detected,3572629
 CA_Christchurch,8931,2025-05-29,Detected,4251476
@@ -5586,6 +5610,10 @@ CA_Christchurch,9418,2026-04-20,Detected,3900019
 CA_Christchurch,8339,2026-04-22,Detected,4025795
 CA_Christchurch,4807,2026-04-28,Detected,2033127
 CA_Christchurch,4981,2026-04-29,Detected,2194448
+CA_Christchurch,11576,2026-05-04,Detected,4891715
+CA_Christchurch,5396,2026-05-06,Detected,2319930
+CA_Christchurch,12479,2026-05-11,Detected,5250379
+CA_Christchurch,10489,2026-05-13,Detected,4327100
 CA_HanmerSprings,0,2021-08-26,Not detected,0
 CA_HanmerSprings,0,2021-09-01,Not detected,0
 CA_HanmerSprings,0,2022-01-31,Not detected,0
@@ -12065,6 +12093,10 @@ OT_DunedinTahuna,2516,2026-04-16,Detected,584071
 OT_DunedinTahuna,4604,2026-04-20,Detected,1068785
 OT_DunedinTahuna,500,2026-04-27,Detected,116071
 OT_DunedinTahuna,0,2026-04-30,Not detected,0
+OT_DunedinTahuna,2941,2026-05-04,Detected,682732
+OT_DunedinTahuna,640,2026-05-07,Detected,148571
+OT_DunedinTahuna,500,2026-05-11,Detected,116071
+OT_DunedinTahuna,1122,2026-05-14,Detected,260464
 OT_GreenIsland,0,2021-08-23,Not detected,0
 OT_GreenIsland,0,2021-08-27,Not detected,0
 OT_GreenIsland,0,2021-08-30,Not detected,0
@@ -13112,6 +13144,10 @@ OT_Queenstown,7366,2026-04-21,Detected,1627149
 OT_Queenstown,57129,2026-04-23,Detected,12619796
 OT_Queenstown,24473,2026-04-28,Detected,7633740
 OT_Queenstown,10340,2026-04-30,Detected,3271317
+OT_Queenstown,30113,2026-05-05,Detected,9124991
+OT_Queenstown,17220,2026-05-07,Detected,5851356
+OT_Queenstown,7994,2026-05-12,Detected,2371420
+OT_Queenstown,7154,2026-05-14,Detected,1580318
 OT_Wanaka,0,2021-08-20,Not detected,0
 OT_Wanaka,0,2021-08-27,Not detected,0
 OT_Wanaka,0,2021-09-16,Not detected,0
@@ -16539,6 +16575,10 @@ WG_MoaPoint,4649,2026-04-15,Detected,1945136
 WG_MoaPoint,1266,2026-04-20,Detected,529692
 WG_MoaPoint,3163,2026-04-27,Detected,1323395
 WG_MoaPoint,5584,2026-04-29,Detected,2336338
+WG_MoaPoint,4130,2026-05-04,Detected,1727987
+WG_MoaPoint,7790,2026-05-06,Detected,3259326
+WG_MoaPoint,32650,2026-05-11,Detected,13660721
+WG_MoaPoint,8429,2026-05-13,Detected,3526683
 WG_Otaki,0,2021-08-23,Not detected,0
 WG_Otaki,0,2021-08-26,Not detected,0
 WG_Otaki,0,2021-08-31,Not detected,0
@@ -17367,6 +17407,10 @@ WG_Porirua,6548,2026-04-15,Detected,1930966
 WG_Porirua,3055,2026-04-20,Detected,900901
 WG_Porirua,3475,2026-04-27,Detected,1024757
 WG_Porirua,6797,2026-04-29,Detected,2004395
+WG_Porirua,7853,2026-05-04,Detected,2315803
+WG_Porirua,8522,2026-05-06,Detected,2513087
+WG_Porirua,4625,2026-05-11,Detected,1363885
+WG_Porirua,13138,2026-05-13,Detected,3874318
 WG_Seaview,0,2021-06-03,Not detected,0
 WG_Seaview,0,2021-06-08,Not detected,0
 WG_Seaview,0,2021-06-15,Not detected,0
@@ -17907,6 +17951,10 @@ WG_Seaview,8321,2026-04-15,Detected,3725555
 WG_Seaview,8209,2026-04-20,Detected,3675410
 WG_Seaview,1473,2026-04-27,Detected,659505
 WG_Seaview,3629,2026-04-29,Detected,1624809
+WG_Seaview,3745,2026-05-04,Detected,1676746
+WG_Seaview,6072,2026-05-06,Detected,2718612
+WG_Seaview,2804,2026-05-11,Detected,1255433
+WG_Seaview,5513,2026-05-13,Detected,2468331
 WK_Cambridge,0,2021-08-27,Not detected,0
 WK_Cambridge,0,2021-09-02,Not detected,0
 WK_Cambridge,0,2021-09-08,Not detected,0
