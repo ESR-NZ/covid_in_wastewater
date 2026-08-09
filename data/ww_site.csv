@@ -12317,11 +12317,7 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-07-05,WG_Porirua,2306219
 2026-07-05,WG_Seaview,2810396.5
 2026-07-12,AU_Eastern,2158637.5
-<<<<<<< Updated upstream
-2026-07-12,AU_Mangere,844944
-=======
 2026-07-12,AU_Mangere,1120928
->>>>>>> Stashed changes
 2026-07-12,AU_Rosedale,2163657
 2026-07-12,AU_SouthWestern,1240244
 2026-07-12,BP_Rotorua,775517
@@ -12331,8 +12327,6 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-07-12,WG_MoaPoint,1304149
 2026-07-12,WG_Porirua,3049057
 2026-07-12,WG_Seaview,1112159
-<<<<<<< Updated upstream
-=======
 2026-07-19,AU_Central,421256
 2026-07-19,AU_Eastern,878527
 2026-07-19,AU_Mangere,1197730.5
@@ -12357,4 +12351,3 @@ week_end_date,SampleLocation,copies_per_day_per_person
 2026-07-26,WG_MoaPoint,1936767.5
 2026-07-26,WG_Porirua,1355038
 2026-07-26,WG_Seaview,884488.5
->>>>>>> Stashed changes
