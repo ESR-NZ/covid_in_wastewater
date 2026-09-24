@@ -468,6 +468,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,AU_Eastern,4
 2026-08-30,AU_Eastern,4
 2026-09-06,AU_Eastern,3
+2026-09-13,AU_Eastern,2
+2026-09-20,AU_Eastern,3
 2021-06-06,AU_Rosedale,0
 2021-06-13,AU_Rosedale,0
 2021-06-20,AU_Rosedale,0
@@ -743,6 +745,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,AU_Rosedale,0
 2026-08-30,AU_Rosedale,1
 2026-09-06,AU_Rosedale,0
+2026-09-13,AU_Rosedale,0
+2026-09-20,AU_Rosedale,0
 2021-06-06,AU_SouthWestern,1
 2021-06-13,AU_SouthWestern,1
 2021-06-20,AU_SouthWestern,0
@@ -1018,6 +1022,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,AU_SouthWestern,1
 2026-08-30,AU_SouthWestern,0
 2026-09-06,AU_SouthWestern,0
+2026-09-13,AU_SouthWestern,0
+2026-09-20,AU_SouthWestern,0
 2021-06-06,WG_MoaPoint,0
 2021-06-13,WG_MoaPoint,0
 2021-06-20,WG_MoaPoint,0
@@ -1293,6 +1299,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,WG_MoaPoint,0
 2026-08-30,WG_MoaPoint,0
 2026-09-06,WG_MoaPoint,1
+2026-09-13,WG_MoaPoint,0
+2026-09-20,WG_MoaPoint,1
 2021-06-06,BP_Rotorua,0
 2021-06-13,BP_Rotorua,0
 2021-06-20,BP_Rotorua,0
@@ -1568,6 +1576,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,BP_Rotorua,0
 2026-08-30,BP_Rotorua,0
 2026-09-06,BP_Rotorua,0
+2026-09-13,BP_Rotorua,0
+2026-09-20,BP_Rotorua,0
 2021-06-06,CA_Christchurch,0
 2021-06-13,CA_Christchurch,0
 2021-06-20,CA_Christchurch,0
@@ -1843,6 +1853,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,CA_Christchurch,2
 2026-08-30,CA_Christchurch,1
 2026-09-06,CA_Christchurch,1
+2026-09-13,CA_Christchurch,0
+2026-09-20,CA_Christchurch,0
 2021-06-06,OT_DunedinTahuna,0
 2021-06-13,OT_DunedinTahuna,0
 2021-06-20,OT_DunedinTahuna,0
@@ -2118,6 +2130,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,OT_DunedinTahuna,0
 2026-08-30,OT_DunedinTahuna,0
 2026-09-06,OT_DunedinTahuna,0
+2026-09-13,OT_DunedinTahuna,1
+2026-09-20,OT_DunedinTahuna,1
 2021-06-06,OT_Queenstown,0
 2021-06-13,OT_Queenstown,0
 2021-06-20,OT_Queenstown,0
@@ -2393,6 +2407,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,OT_Queenstown,0
 2026-08-30,OT_Queenstown,0
 2026-09-06,OT_Queenstown,0
+2026-09-13,OT_Queenstown,0
+2026-09-20,OT_Queenstown,0
 2021-06-06,WG_Porirua,0
 2021-06-13,WG_Porirua,0
 2021-06-20,WG_Porirua,0
@@ -2668,6 +2684,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,WG_Porirua,0
 2026-08-30,WG_Porirua,0
 2026-09-06,WG_Porirua,0
+2026-09-13,WG_Porirua,0
+2026-09-20,WG_Porirua,0
 2021-06-06,WG_Seaview,0
 2021-06-13,WG_Seaview,0
 2021-06-20,WG_Seaview,0
@@ -2943,6 +2961,8 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,WG_Seaview,1
 2026-08-30,WG_Seaview,1
 2026-09-06,WG_Seaview,1
+2026-09-13,WG_Seaview,1
+2026-09-20,WG_Seaview,0
 2025-02-23,AU_Central,7
 2025-03-02,AU_Central,7
 2025-03-09,AU_Central,5
@@ -3024,3 +3044,5 @@ week_end_date,SampleLocation,case_7d_avg
 2026-08-23,AU_Central,1
 2026-08-30,AU_Central,1
 2026-09-06,AU_Central,1
+2026-09-13,AU_Central,1
+2026-09-20,AU_Central,1
